@@ -1,5 +1,18 @@
 {
   "code": "br",
   "name": "Brazil",
-  "channels": []
+  "channels": [
+  {
+      "channel": "#sorocaba",
+      "description": "Canal da cidade de Sorocaba"
+    },
+    {
+      "channel": "#rmc",
+      "description": "Canal da Região Metropolitana de Campinas"
+    },
+    {
+      "channel": "#saopaulo",
+      "description": "Canal da cidade de São Paulo"
+    }
+  ]
 }
