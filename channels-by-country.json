@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T14:21:18Z",
+  "generated_at": "2026-08-06T10:10:49Z",
   "license": "CC0-1.0",
   "countries": {
     "ad": [],
@@ -102,7 +102,20 @@
     "bn": [],
     "bo": [],
     "bq": [],
-    "br": [],
+    "br": [
+      {
+        "channel": "#rmc",
+        "description": "Canal da Região Metropolitana de Campinas"
+      },
+      {
+        "channel": "#saopaulo",
+        "description": "Canal da cidade de São Paulo"
+      },
+      {
+        "channel": "#sorocaba",
+        "description": "Canal da cidade de Sorocaba"
+      }
+    ],
     "bs": [],
     "bt": [],
     "bv": [],
