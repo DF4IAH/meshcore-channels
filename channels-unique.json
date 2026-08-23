@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T10:10:49Z",
+  "generated_at": "2026-08-23T11:10:12Z",
   "license": "CC0-1.0",
   "channels": [
     {
@@ -1349,6 +1349,10 @@
     {
       "channel": "#heerhugowaard",
       "description": "heerhugowaard"
+    },
+    {
+      "channel": "#heidemesh",
+      "description": "Lueneburger Heide regiont"
     },
     {
       "channel": "#hellevoetsluis",

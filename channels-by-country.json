@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T10:11:21Z",
+  "generated_at": "2026-08-23T11:10:12Z",
   "license": "CC0-1.0",
   "countries": {
     "ad": [],
@@ -525,6 +525,10 @@
       {
         "channel": "#hbn",
         "description": "Hildburghausen district"
+      },
+      {
+        "channel": "#heidemesh",
+        "description": "Lueneburger Heide regiont"
       },
       {
         "channel": "#helmstedt",
