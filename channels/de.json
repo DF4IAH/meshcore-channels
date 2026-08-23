@@ -339,6 +339,10 @@
       "description": "Hildburghausen district"
     },
     {
+      "channel": "#heidemesh",
+      "description": "Lueneburger Heide regiont"
+    },
+    {
       "channel": "#helmstedt",
       "description": "Helmstedt district"
     },
