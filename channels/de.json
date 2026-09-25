@@ -519,6 +519,10 @@
       "description": "Parks on the Air amateur radio"
     },
     {
+      "channel": "#potsdam",
+      "description": "Potsdam"
+    },
+    {
       "channel": "#region-muc",
       "description": "European Metropolitan Region Munich"
     },
