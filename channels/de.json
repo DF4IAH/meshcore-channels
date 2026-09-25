@@ -47,6 +47,10 @@
       "description": "Beekeeping/honey production"
     },
     {
+      "channel": "#bitcoin",
+      "description": "Bitcoin discussion and information"
+    },
+    {
       "channel": "#bochum",
       "description": "Bochum/Herne area"
     },
