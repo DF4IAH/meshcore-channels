@@ -15,6 +15,10 @@
       "description": "Main testing channel for Switzerland"
     },
     {
+      "channel": "#seeland",
+      "description": "Channel used in the city of Biel/Bienne and everything close by and around it."
+    },
+    {
       "channel": "#suisse",
       "description": "French-speaking Switzerland region"
     },
