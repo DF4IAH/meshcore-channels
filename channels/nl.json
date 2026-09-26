@@ -3,40 +3,184 @@
   "name": "Netherlands",
   "channels": [
     {
+      "channel": "#0000",
+      "description": "0000"
+    },
+    {
+      "channel": "#007",
+      "description": "007"
+    },
+    {
       "channel": "#024-bot",
       "description": "024-bot"
+    },
+    {
+      "channel": "#033",
+      "description": "033"
+    },
+    {
+      "channel": "#035",
+      "description": "035"
+    },
+    {
+      "channel": "#05gap",
+      "description": "05gap"
+    },
+    {
+      "channel": "#06",
+      "description": "06"
+    },
+    {
+      "channel": "#06-de",
+      "description": "06-de"
+    },
+    {
+      "channel": "#07",
+      "description": "07"
     },
     {
       "channel": "#1",
       "description": "1"
     },
     {
+      "channel": "#11",
+      "description": "11"
+    },
+    {
+      "channel": "#112",
+      "description": "112"
+    },
+    {
       "channel": "#1191",
       "description": "1191"
+    },
+    {
+      "channel": "#11m",
+      "description": "11m"
     },
     {
       "channel": "#1337",
       "description": "1337"
     },
     {
+      "channel": "#134",
+      "description": "134"
+    },
+    {
+      "channel": "#161",
+      "description": "161"
+    },
+    {
+      "channel": "#1924",
+      "description": "1924"
+    },
+    {
       "channel": "#2",
       "description": "2"
+    },
+    {
+      "channel": "#222",
+      "description": "222"
+    },
+    {
+      "channel": "#22291",
+      "description": "22291"
+    },
+    {
+      "channel": "#232",
+      "description": "232"
+    },
+    {
+      "channel": "#2321",
+      "description": "2321"
+    },
+    {
+      "channel": "#23e7s",
+      "description": "23e7s"
+    },
+    {
+      "channel": "#2600",
+      "description": "2600"
     },
     {
       "channel": "#27mc",
       "description": "27mc"
     },
     {
+      "channel": "#28",
+      "description": "28"
+    },
+    {
+      "channel": "#2a",
+      "description": "2a"
+    },
+    {
+      "channel": "#2ch",
+      "description": "2ch"
+    },
+    {
       "channel": "#3",
       "description": "3"
+    },
+    {
+      "channel": "#3106",
+      "description": "3106"
+    },
+    {
+      "channel": "#31vwlr",
+      "description": "31vwlr"
+    },
+    {
+      "channel": "#32",
+      "description": "32"
+    },
+    {
+      "channel": "#3320",
+      "description": "3320"
     },
     {
       "channel": "#3625",
       "description": "3625"
     },
     {
+      "channel": "#38dwdwarn",
+      "description": "38dwdwarn"
+    },
+    {
+      "channel": "#3diy",
+      "description": "3diy"
+    },
+    {
+      "channel": "#3dprint",
+      "description": "3dprint"
+    },
+    {
+      "channel": "#3dprinting",
+      "description": "3dprinting"
+    },
+    {
+      "channel": "#3fyn",
+      "description": "3fyn"
+    },
+    {
       "channel": "#4",
       "description": "4"
+    },
+    {
+      "channel": "#40",
+      "description": "40"
+    },
+    {
+      "channel": "#40c3",
+      "description": "40c3"
+    },
+    {
+      "channel": "#4132",
+      "description": "4132"
+    },
+    {
+      "channel": "#41m",
+      "description": "41m"
     },
     {
       "channel": "#42",
@@ -47,16 +191,72 @@
       "description": "420"
     },
     {
+      "channel": "#42489",
+      "description": "42489"
+    },
+    {
       "channel": "#4444",
       "description": "4444"
+    },
+    {
+      "channel": "#446",
+      "description": "446"
+    },
+    {
+      "channel": "#4hbl",
+      "description": "4hbl"
     },
     {
       "channel": "#5",
       "description": "5"
     },
     {
+      "channel": "#52a",
+      "description": "52a"
+    },
+    {
+      "channel": "#52esw",
+      "description": "52esw"
+    },
+    {
+      "channel": "#53",
+      "description": "53"
+    },
+    {
+      "channel": "#5xx",
+      "description": "5xx"
+    },
+    {
+      "channel": "#5xxx",
+      "description": "5xxx"
+    },
+    {
+      "channel": "#604",
+      "description": "604"
+    },
+    {
+      "channel": "#606",
+      "description": "606"
+    },
+    {
+      "channel": "#60al0",
+      "description": "60al0"
+    },
+    {
+      "channel": "#63",
+      "description": "63"
+    },
+    {
       "channel": "#69",
       "description": "69"
+    },
+    {
+      "channel": "#6c3v",
+      "description": "6c3v"
+    },
+    {
+      "channel": "#6k1f3",
+      "description": "6k1f3"
     },
     {
       "channel": "#70cm",
@@ -71,16 +271,76 @@
       "description": "73s"
     },
     {
+      "channel": "#73sbe",
+      "description": "73sbe"
+    },
+    {
+      "channel": "#8419",
+      "description": "8419"
+    },
+    {
+      "channel": "#8a69p",
+      "description": "8a69p"
+    },
+    {
+      "channel": "#9",
+      "description": "9"
+    },
+    {
+      "channel": "#95033",
+      "description": "95033"
+    },
+    {
+      "channel": "#9bwha",
+      "description": "9bwha"
+    },
+    {
+      "channel": "#9u34l",
+      "description": "9u34l"
+    },
+    {
       "channel": "#a",
       "description": "a"
+    },
+    {
+      "channel": "#a03",
+      "description": "a03"
+    },
+    {
+      "channel": "#a15",
+      "description": "a15"
+    },
+    {
+      "channel": "#a22",
+      "description": "a22"
     },
     {
       "channel": "#a28",
       "description": "a28"
     },
     {
+      "channel": "#a47",
+      "description": "a47"
+    },
+    {
       "channel": "#aa",
       "description": "aa"
+    },
+    {
+      "channel": "#aaa",
+      "description": "aaa"
+    },
+    {
+      "channel": "#aalborg",
+      "description": "aalborg"
+    },
+    {
+      "channel": "#aalsmeer",
+      "description": "aalsmeer"
+    },
+    {
+      "channel": "#aarhus",
+      "description": "aarhus"
     },
     {
       "channel": "#ab",
@@ -91,6 +351,42 @@
       "description": "abc"
     },
     {
+      "channel": "#abdc",
+      "description": "abdc"
+    },
+    {
+      "channel": "#abdl",
+      "description": "abdl"
+    },
+    {
+      "channel": "#ac254",
+      "description": "ac254"
+    },
+    {
+      "channel": "#acab",
+      "description": "acab"
+    },
+    {
+      "channel": "#acht",
+      "description": "acht"
+    },
+    {
+      "channel": "#achterhoek",
+      "description": "achterhoek"
+    },
+    {
+      "channel": "#adenau",
+      "description": "adenau"
+    },
+    {
+      "channel": "#adg",
+      "description": "adg"
+    },
+    {
+      "channel": "#adhs",
+      "description": "adhs"
+    },
+    {
       "channel": "#admin",
       "description": "admin"
     },
@@ -99,12 +395,68 @@
       "description": "adsb"
     },
     {
+      "channel": "#adverts",
+      "description": "adverts"
+    },
+    {
+      "channel": "#afd",
+      "description": "afd"
+    },
+    {
       "channel": "#afrithonbot",
       "description": "afrithonbot"
     },
     {
+      "channel": "#afstandstest",
+      "description": "afstandstest"
+    },
+    {
+      "channel": "#afstandtest",
+      "description": "afstandtest"
+    },
+    {
+      "channel": "#afu",
+      "description": "afu"
+    },
+    {
+      "channel": "#afu-cbfunk",
+      "description": "afu-cbfunk"
+    },
+    {
+      "channel": "#afu-rh",
+      "description": "afu-rh"
+    },
+    {
+      "channel": "#agnes",
+      "description": "agnes"
+    },
+    {
       "channel": "#ai",
       "description": "ai"
+    },
+    {
+      "channel": "#ai-defcon",
+      "description": "ai-defcon"
+    },
+    {
+      "channel": "#aich",
+      "description": "aich"
+    },
+    {
+      "channel": "#airdrie",
+      "description": "airdrie"
+    },
+    {
+      "channel": "#airshowsanicole",
+      "description": "airshowsanicole"
+    },
+    {
+      "channel": "#akdebate",
+      "description": "akdebate"
+    },
+    {
+      "channel": "#alabala123",
+      "description": "alabala123"
     },
     {
       "channel": "#alaska",
@@ -119,8 +471,28 @@
       "description": "alerts"
     },
     {
+      "channel": "#alerts-test",
+      "description": "alerts-test"
+    },
+    {
+      "channel": "#alertswiss",
+      "description": "alertswiss"
+    },
+    {
+      "channel": "#ales",
+      "description": "ales"
+    },
+    {
+      "channel": "#alfeld",
+      "description": "alfeld"
+    },
+    {
       "channel": "#alkmaar",
       "description": "alkmaar"
+    },
+    {
+      "channel": "#allr",
+      "description": "allr"
     },
     {
       "channel": "#almelo",
@@ -131,6 +503,14 @@
       "description": "almere"
     },
     {
+      "channel": "#alpesmaritimes",
+      "description": "alpesmaritimes"
+    },
+    {
+      "channel": "#alphabot",
+      "description": "alphabot"
+    },
+    {
       "channel": "#alphen",
       "description": "alphen"
     },
@@ -139,24 +519,72 @@
       "description": "alsace"
     },
     {
+      "channel": "#altena",
+      "description": "altena"
+    },
+    {
+      "channel": "#alzey",
+      "description": "alzey"
+    },
+    {
+      "channel": "#amateurfunk",
+      "description": "amateurfunk"
+    },
+    {
+      "channel": "#amateurs",
+      "description": "amateurs"
+    },
+    {
+      "channel": "#ameland",
+      "description": "ameland"
+    },
+    {
       "channel": "#amersfoort",
       "description": "amersfoort"
+    },
+    {
+      "channel": "#amiga",
+      "description": "amiga"
     },
     {
       "channel": "#amradio",
       "description": "amradio"
     },
     {
+      "channel": "#amrron",
+      "description": "amrron"
+    },
+    {
+      "channel": "#amrs",
+      "description": "amrs"
+    },
+    {
+      "channel": "#ams",
+      "description": "ams"
+    },
+    {
       "channel": "#amstelland",
       "description": "amstelland"
+    },
+    {
+      "channel": "#amstelveen",
+      "description": "amstelveen"
     },
     {
       "channel": "#amsterdam",
       "description": "amsterdam"
     },
     {
+      "channel": "#anal",
+      "description": "anal"
+    },
+    {
       "channel": "#analyser",
       "description": "analyser"
+    },
+    {
+      "channel": "#anarchy",
+      "description": "anarchy"
     },
     {
       "channel": "#anchorage",
@@ -167,12 +595,64 @@
       "description": "angrynerds"
     },
     {
+      "channel": "#anime",
+      "description": "anime"
+    },
+    {
+      "channel": "#anjt",
+      "description": "anjt"
+    },
+    {
+      "channel": "#anoniememeshcoreverslaafden",
+      "description": "anoniememeshcoreverslaafden"
+    },
+    {
+      "channel": "#antelopevalley",
+      "description": "antelopevalley"
+    },
+    {
+      "channel": "#antifa",
+      "description": "antifa"
+    },
+    {
       "channel": "#antwerpen",
       "description": "antwerpen"
     },
     {
+      "channel": "#ap",
+      "description": "ap"
+    },
+    {
       "channel": "#apeldoorn",
       "description": "apeldoorn"
+    },
+    {
+      "channel": "#apero",
+      "description": "apero"
+    },
+    {
+      "channel": "#apero-bre",
+      "description": "apero-bre"
+    },
+    {
+      "channel": "#apex",
+      "description": "apex"
+    },
+    {
+      "channel": "#appelmoes",
+      "description": "appelmoes"
+    },
+    {
+      "channel": "#araca22",
+      "description": "araca22"
+    },
+    {
+      "channel": "#aracmesh",
+      "description": "aracmesh"
+    },
+    {
+      "channel": "#arad",
+      "description": "arad"
     },
     {
       "channel": "#ardf",
@@ -199,6 +679,66 @@
       "description": "arnhem"
     },
     {
+      "channel": "#arras",
+      "description": "arras"
+    },
+    {
+      "channel": "#arrs",
+      "description": "arrs"
+    },
+    {
+      "channel": "#artificialintelligence",
+      "description": "artificialintelligence"
+    },
+    {
+      "channel": "#asb",
+      "description": "asb"
+    },
+    {
+      "channel": "#assen",
+      "description": "assen"
+    },
+    {
+      "channel": "#astrophotography",
+      "description": "astrophotography"
+    },
+    {
+      "channel": "#at",
+      "description": "at"
+    },
+    {
+      "channel": "#at-bgld",
+      "description": "at-bgld"
+    },
+    {
+      "channel": "#at-hl",
+      "description": "at-hl"
+    },
+    {
+      "channel": "#at-ktn-bot",
+      "description": "at-ktn-bot"
+    },
+    {
+      "channel": "#at-ost",
+      "description": "at-ost"
+    },
+    {
+      "channel": "#at-stmk",
+      "description": "at-stmk"
+    },
+    {
+      "channel": "#at-w",
+      "description": "at-w"
+    },
+    {
+      "channel": "#atak",
+      "description": "atak"
+    },
+    {
+      "channel": "#athens",
+      "description": "athens"
+    },
+    {
       "channel": "#atlanta",
       "description": "atlanta"
     },
@@ -207,8 +747,24 @@
       "description": "atlmesh"
     },
     {
+      "channel": "#atomsikkerhetstiltak",
+      "description": "atomsikkerhetstiltak"
+    },
+    {
+      "channel": "#au44sb",
+      "description": "au44sb"
+    },
+    {
       "channel": "#auckland",
       "description": "auckland"
+    },
+    {
+      "channel": "#aussig",
+      "description": "aussig"
+    },
+    {
+      "channel": "#austerlitz",
+      "description": "austerlitz"
     },
     {
       "channel": "#austin",
@@ -227,12 +783,72 @@
       "description": "autism"
     },
     {
+      "channel": "#autoverhuur",
+      "description": "autoverhuur"
+    },
+    {
+      "channel": "#avc",
+      "description": "avc"
+    },
+    {
+      "channel": "#aveiro",
+      "description": "aveiro"
+    },
+    {
+      "channel": "#aviation",
+      "description": "aviation"
+    },
+    {
+      "channel": "#avl",
+      "description": "avl"
+    },
+    {
+      "channel": "#awt",
+      "description": "awt"
+    },
+    {
       "channel": "#b",
       "description": "b"
     },
     {
+      "channel": "#b-bok",
+      "description": "b-bok"
+    },
+    {
+      "channel": "#b-stby",
+      "description": "b-stby"
+    },
+    {
+      "channel": "#b26",
+      "description": "b26"
+    },
+    {
+      "channel": "#b37",
+      "description": "b37"
+    },
+    {
+      "channel": "#b72et",
+      "description": "b72et"
+    },
+    {
+      "channel": "#baarn",
+      "description": "baarn"
+    },
+    {
       "channel": "#backup",
       "description": "backup"
+    },
+    {
+      "channel": "#bacon",
+      "description": "bacon"
+    },
+    {
+      "channel": "#baden-baden",
+      "description": "baden-baden"
+    },
+    {
+      "channel": "#balthazar",
+      "description": "balthazar"
     },
     {
       "channel": "#baltimore",
@@ -241,6 +857,14 @@
     {
       "channel": "#bami",
       "description": "bami"
+    },
+    {
+      "channel": "#banat",
+      "description": "banat"
+    },
+    {
+      "channel": "#banat-ro",
+      "description": "banat-ro"
     },
     {
       "channel": "#bangalore",
@@ -259,12 +883,112 @@
       "description": "barneveld"
     },
     {
+      "channel": "#bart",
+      "description": "bart"
+    },
+    {
+      "channel": "#based",
+      "description": "based"
+    },
+    {
+      "channel": "#basel",
+      "description": "basel"
+    },
+    {
+      "channel": "#bassieenadriaan",
+      "description": "bassieenadriaan"
+    },
+    {
+      "channel": "#bath",
+      "description": "bath"
+    },
+    {
+      "channel": "#bathurst",
+      "description": "bathurst"
+    },
+    {
+      "channel": "#bauerbahn",
+      "description": "bauerbahn"
+    },
+    {
+      "channel": "#bawue",
+      "description": "bawue"
+    },
+    {
       "channel": "#bay",
       "description": "bay"
     },
     {
       "channel": "#bayarea",
       "description": "bayarea"
+    },
+    {
+      "channel": "#bayern",
+      "description": "bayern"
+    },
+    {
+      "channel": "#bayreuth",
+      "description": "bayreuth"
+    },
+    {
+      "channel": "#bbot",
+      "description": "bbot"
+    },
+    {
+      "channel": "#bbq",
+      "description": "bbq"
+    },
+    {
+      "channel": "#bbs",
+      "description": "bbs"
+    },
+    {
+      "channel": "#bbsts",
+      "description": "bbsts"
+    },
+    {
+      "channel": "#bbx",
+      "description": "bbx"
+    },
+    {
+      "channel": "#bc",
+      "description": "bc"
+    },
+    {
+      "channel": "#bcarc",
+      "description": "bcarc"
+    },
+    {
+      "channel": "#bcf",
+      "description": "bcf"
+    },
+    {
+      "channel": "#bcferries",
+      "description": "bcferries"
+    },
+    {
+      "channel": "#bcn",
+      "description": "bcn"
+    },
+    {
+      "channel": "#bctransit",
+      "description": "bctransit"
+    },
+    {
+      "channel": "#be",
+      "description": "be"
+    },
+    {
+      "channel": "#be-lgg",
+      "description": "be-lgg"
+    },
+    {
+      "channel": "#bears",
+      "description": "bears"
+    },
+    {
+      "channel": "#bedburg",
+      "description": "bedburg"
     },
     {
       "channel": "#beds-bucks-northants",
@@ -275,8 +999,32 @@
       "description": "beer"
     },
     {
+      "channel": "#belimburg",
+      "description": "belimburg"
+    },
+    {
       "channel": "#bemesh",
       "description": "bemesh"
+    },
+    {
+      "channel": "#benedikt",
+      "description": "benedikt"
+    },
+    {
+      "channel": "#beograd",
+      "description": "beograd"
+    },
+    {
+      "channel": "#bergenopzoom",
+      "description": "bergenopzoom"
+    },
+    {
+      "channel": "#bergischesland",
+      "description": "bergischesland"
+    },
+    {
+      "channel": "#bergstrasse",
+      "description": "bergstrasse"
     },
     {
       "channel": "#berks",
@@ -287,12 +1035,28 @@
       "description": "berlin"
     },
     {
+      "channel": "#berlinbrandenburg",
+      "description": "berlinbrandenburg"
+    },
+    {
+      "channel": "#berlinmesh",
+      "description": "berlinmesh"
+    },
+    {
+      "channel": "#bern",
+      "description": "bern"
+    },
+    {
       "channel": "#best",
       "description": "best"
     },
     {
       "channel": "#betuwe",
       "description": "betuwe"
+    },
+    {
+      "channel": "#beuningen",
+      "description": "beuningen"
     },
     {
       "channel": "#beverwijk",
@@ -303,8 +1067,80 @@
       "description": "beylix"
     },
     {
+      "channel": "#bfc",
+      "description": "bfc"
+    },
+    {
+      "channel": "#bgl",
+      "description": "bgl"
+    },
+    {
+      "channel": "#bgld",
+      "description": "bgld"
+    },
+    {
+      "channel": "#bgr",
+      "description": "bgr"
+    },
+    {
+      "channel": "#bham",
+      "description": "bham"
+    },
+    {
+      "channel": "#bhx",
+      "description": "bhx"
+    },
+    {
+      "channel": "#biberach",
+      "description": "biberach"
+    },
+    {
+      "channel": "#biddinghuizen",
+      "description": "biddinghuizen"
+    },
+    {
+      "channel": "#bielefeld",
+      "description": "bielefeld"
+    },
+    {
+      "channel": "#bienen",
+      "description": "bienen"
+    },
+    {
+      "channel": "#bier",
+      "description": "bier"
+    },
+    {
       "channel": "#bike",
       "description": "bike"
+    },
+    {
+      "channel": "#biker",
+      "description": "biker"
+    },
+    {
+      "channel": "#billerbeck",
+      "description": "billerbeck"
+    },
+    {
+      "channel": "#bills",
+      "description": "bills"
+    },
+    {
+      "channel": "#bingo",
+      "description": "bingo"
+    },
+    {
+      "channel": "#birmingham",
+      "description": "birmingham"
+    },
+    {
+      "channel": "#birt",
+      "description": "birt"
+    },
+    {
+      "channel": "#biw",
+      "description": "biw"
     },
     {
       "channel": "#blabla",
@@ -315,24 +1151,80 @@
       "description": "blackout"
     },
     {
+      "channel": "#bladtunge",
+      "description": "bladtunge"
+    },
+    {
+      "channel": "#blagues",
+      "description": "blagues"
+    },
+    {
       "channel": "#blubb",
       "description": "blubb"
+    },
+    {
+      "channel": "#blue-mountains",
+      "description": "blue-mountains"
+    },
+    {
+      "channel": "#bmks",
+      "description": "bmks"
+    },
+    {
+      "channel": "#bna",
+      "description": "bna"
+    },
+    {
+      "channel": "#bna-wx",
+      "description": "bna-wx"
+    },
+    {
+      "channel": "#bnd",
+      "description": "bnd"
+    },
+    {
+      "channel": "#boarder",
+      "description": "boarder"
+    },
+    {
+      "channel": "#boaz",
+      "description": "boaz"
+    },
+    {
+      "channel": "#bob",
+      "description": "bob"
     },
     {
       "channel": "#bochum",
       "description": "bochum"
     },
     {
+      "channel": "#bock",
+      "description": "bock"
+    },
+    {
       "channel": "#boe",
       "description": "boe"
+    },
+    {
+      "channel": "#boeblingen",
+      "description": "boeblingen"
     },
     {
       "channel": "#bogota",
       "description": "bogota"
     },
     {
+      "channel": "#bollenstreek",
+      "description": "bollenstreek"
+    },
+    {
       "channel": "#bonn",
       "description": "bonn"
+    },
+    {
+      "channel": "#bonnwetter",
+      "description": "bonnwetter"
     },
     {
       "channel": "#bookclub",
@@ -341,6 +1233,14 @@
     {
       "channel": "#books",
       "description": "books"
+    },
+    {
+      "channel": "#bordeaux",
+      "description": "bordeaux"
+    },
+    {
+      "channel": "#borne",
+      "description": "borne"
     },
     {
       "channel": "#borssele",
@@ -355,32 +1255,168 @@
       "description": "bot"
     },
     {
+      "channel": "#bot-bham",
+      "description": "bot-bham"
+    },
+    {
+      "channel": "#bot-eug",
+      "description": "bot-eug"
+    },
+    {
+      "channel": "#bot-everett",
+      "description": "bot-everett"
+    },
+    {
+      "channel": "#bot-kelso",
+      "description": "bot-kelso"
+    },
+    {
+      "channel": "#bot-pdx",
+      "description": "bot-pdx"
+    },
+    {
+      "channel": "#bot-puyallup",
+      "description": "bot-puyallup"
+    },
+    {
+      "channel": "#bot-sea",
+      "description": "bot-sea"
+    },
+    {
+      "channel": "#bot-seattle",
+      "description": "bot-seattle"
+    },
+    {
+      "channel": "#bot-sle",
+      "description": "bot-sle"
+    },
+    {
+      "channel": "#bot-tacoma",
+      "description": "bot-tacoma"
+    },
+    {
+      "channel": "#bot-test",
+      "description": "bot-test"
+    },
+    {
+      "channel": "#bot-test-test",
+      "description": "bot-test-test"
+    },
+    {
+      "channel": "#bot-van",
+      "description": "bot-van"
+    },
+    {
+      "channel": "#bot2",
+      "description": "bot2"
+    },
+    {
+      "channel": "#botczwa",
+      "description": "botczwa"
+    },
+    {
+      "channel": "#botlodzkie",
+      "description": "botlodzkie"
+    },
+    {
       "channel": "#bots",
       "description": "bots"
+    },
+    {
+      "channel": "#bott",
+      "description": "bott"
+    },
+    {
+      "channel": "#bottest",
+      "description": "bottest"
     },
     {
       "channel": "#boulder",
       "description": "boulder"
     },
     {
+      "channel": "#bpla",
+      "description": "bpla"
+    },
+    {
+      "channel": "#braband",
+      "description": "braband"
+    },
+    {
       "channel": "#brabant",
       "description": "brabant"
+    },
+    {
+      "channel": "#braga",
+      "description": "braga"
+    },
+    {
+      "channel": "#brandenburg",
+      "description": "brandenburg"
     },
     {
       "channel": "#brandstofprijzen",
       "description": "brandstofprijzen"
     },
     {
+      "channel": "#brandweer",
+      "description": "brandweer"
+    },
+    {
       "channel": "#brasil",
       "description": "brasil"
+    },
+    {
+      "channel": "#brasov",
+      "description": "brasov"
+    },
+    {
+      "channel": "#bratislava",
+      "description": "bratislava"
+    },
+    {
+      "channel": "#braty",
+      "description": "braty"
+    },
+    {
+      "channel": "#braunschweig",
+      "description": "braunschweig"
     },
     {
       "channel": "#brazil",
       "description": "brazil"
     },
     {
+      "channel": "#breda",
+      "description": "breda"
+    },
+    {
+      "channel": "#bremen",
+      "description": "bremen"
+    },
+    {
+      "channel": "#bremesh",
+      "description": "bremesh"
+    },
+    {
+      "channel": "#brest",
+      "description": "brest"
+    },
+    {
+      "channel": "#bretagne",
+      "description": "bretagne"
+    },
+    {
       "channel": "#breukelen",
       "description": "breukelen"
+    },
+    {
+      "channel": "#bridge",
+      "description": "bridge"
+    },
+    {
+      "channel": "#brighton",
+      "description": "brighton"
     },
     {
       "channel": "#brisbane",
@@ -391,36 +1427,172 @@
       "description": "bristol"
     },
     {
+      "channel": "#brno",
+      "description": "brno"
+    },
+    {
+      "channel": "#bronbemaling",
+      "description": "bronbemaling"
+    },
+    {
       "channel": "#brooklyn",
       "description": "brooklyn"
+    },
+    {
+      "channel": "#bruchsal",
+      "description": "bruchsal"
     },
     {
       "channel": "#brugge",
       "description": "brugge"
     },
     {
+      "channel": "#brussels",
+      "description": "brussels"
+    },
+    {
+      "channel": "#bruxelles",
+      "description": "bruxelles"
+    },
+    {
+      "channel": "#brzeg-ogolny",
+      "description": "brzeg-ogolny"
+    },
+    {
+      "channel": "#bsb",
+      "description": "bsb"
+    },
+    {
+      "channel": "#bsg",
+      "description": "bsg"
+    },
+    {
+      "channel": "#bsides",
+      "description": "bsides"
+    },
+    {
+      "channel": "#bsmesh",
+      "description": "bsmesh"
+    },
+    {
+      "channel": "#bsrg",
+      "description": "bsrg"
+    },
+    {
+      "channel": "#btest",
+      "description": "btest"
+    },
+    {
+      "channel": "#bubu",
+      "description": "bubu"
+    },
+    {
       "channel": "#buch",
       "description": "buch"
+    },
+    {
+      "channel": "#buchholz",
+      "description": "buchholz"
+    },
+    {
+      "channel": "#bucuresti",
+      "description": "bucuresti"
+    },
+    {
+      "channel": "#budapest",
+      "description": "budapest"
+    },
+    {
+      "channel": "#budejce",
+      "description": "budejce"
+    },
+    {
+      "channel": "#buds",
+      "description": "buds"
     },
     {
       "channel": "#buenosaires",
       "description": "buenosaires"
     },
     {
+      "channel": "#bulgaria",
+      "description": "bulgaria"
+    },
+    {
+      "channel": "#burcht",
+      "description": "burcht"
+    },
+    {
       "channel": "#burgernet",
       "description": "burgernet"
+    },
+    {
+      "channel": "#burnley",
+      "description": "burnley"
+    },
+    {
+      "channel": "#bury",
+      "description": "bury"
+    },
+    {
+      "channel": "#busoc",
+      "description": "busoc"
+    },
+    {
+      "channel": "#bussum",
+      "description": "bussum"
+    },
+    {
+      "channel": "#bw",
+      "description": "bw"
+    },
+    {
+      "channel": "#bycno",
+      "description": "bycno"
     },
     {
       "channel": "#c",
       "description": "c"
     },
     {
+      "channel": "#c-64",
+      "description": "c-64"
+    },
+    {
+      "channel": "#c1a2oy",
+      "description": "c1a2oy"
+    },
+    {
       "channel": "#c3re",
       "description": "c3re"
     },
     {
+      "channel": "#caek",
+      "description": "caek"
+    },
+    {
+      "channel": "#caldas",
+      "description": "caldas"
+    },
+    {
+      "channel": "#caldasdarainha",
+      "description": "caldasdarainha"
+    },
+    {
       "channel": "#calgary",
       "description": "calgary"
+    },
+    {
+      "channel": "#calw",
+      "description": "calw"
+    },
+    {
+      "channel": "#cambridge",
+      "description": "cambridge"
+    },
+    {
+      "channel": "#cambridgeshire",
+      "description": "cambridgeshire"
     },
     {
       "channel": "#camping",
@@ -429,6 +1601,18 @@
     {
       "channel": "#canada",
       "description": "canada"
+    },
+    {
+      "channel": "#canberra",
+      "description": "canberra"
+    },
+    {
+      "channel": "#cannel",
+      "description": "cannel"
+    },
+    {
+      "channel": "#cao",
+      "description": "cao"
     },
     {
       "channel": "#capb1",
@@ -443,8 +1627,40 @@
       "description": "capetown"
     },
     {
+      "channel": "#capi",
+      "description": "capi"
+    },
+    {
+      "channel": "#capitolhill",
+      "description": "capitolhill"
+    },
+    {
+      "channel": "#card",
+      "description": "card"
+    },
+    {
+      "channel": "#cars",
+      "description": "cars"
+    },
+    {
+      "channel": "#cary",
+      "description": "cary"
+    },
+    {
       "channel": "#cascadia",
       "description": "cascadia"
+    },
+    {
+      "channel": "#castelobranco",
+      "description": "castelobranco"
+    },
+    {
+      "channel": "#castlefest",
+      "description": "castlefest"
+    },
+    {
+      "channel": "#castricum",
+      "description": "castricum"
     },
     {
       "channel": "#cat",
@@ -455,20 +1671,124 @@
       "description": "cats"
     },
     {
+      "channel": "#cb",
+      "description": "cb"
+    },
+    {
+      "channel": "#cb19",
+      "description": "cb19"
+    },
+    {
+      "channel": "#cb27",
+      "description": "cb27"
+    },
+    {
+      "channel": "#cbfunk",
+      "description": "cbfunk"
+    },
+    {
+      "channel": "#cbradio",
+      "description": "cbradio"
+    },
+    {
+      "channel": "#ccc",
+      "description": "ccc"
+    },
+    {
+      "channel": "#cdarc",
+      "description": "cdarc"
+    },
+    {
+      "channel": "#cdmesh",
+      "description": "cdmesh"
+    },
+    {
       "channel": "#cdmx",
       "description": "cdmx"
+    },
+    {
+      "channel": "#central-oregon",
+      "description": "central-oregon"
+    },
+    {
+      "channel": "#cern",
+      "description": "cern"
     },
     {
       "channel": "#cert",
       "description": "cert"
     },
     {
+      "channel": "#cf",
+      "description": "cf"
+    },
+    {
+      "channel": "#cfwnb",
+      "description": "cfwnb"
+    },
+    {
+      "channel": "#ch",
+      "description": "ch"
+    },
+    {
+      "channel": "#ch-fr",
+      "description": "ch-fr"
+    },
+    {
+      "channel": "#ch-test",
+      "description": "ch-test"
+    },
+    {
+      "channel": "#ch222",
+      "description": "ch222"
+    },
+    {
+      "channel": "#cha-bot",
+      "description": "cha-bot"
+    },
+    {
+      "channel": "#cha-test",
+      "description": "cha-test"
+    },
+    {
+      "channel": "#channel",
+      "description": "channel"
+    },
+    {
+      "channel": "#channels",
+      "description": "channels"
+    },
+    {
+      "channel": "#chaos",
+      "description": "chaos"
+    },
+    {
       "channel": "#chat",
       "description": "chat"
     },
     {
+      "channel": "#chatchannel",
+      "description": "chatchannel"
+    },
+    {
       "channel": "#chatgpt",
       "description": "chatgpt"
+    },
+    {
+      "channel": "#chatroom",
+      "description": "chatroom"
+    },
+    {
+      "channel": "#chattanooga",
+      "description": "chattanooga"
+    },
+    {
+      "channel": "#check",
+      "description": "check"
+    },
+    {
+      "channel": "#chemnitz",
+      "description": "chemnitz"
     },
     {
       "channel": "#chesterfield",
@@ -481,6 +1801,38 @@
     {
       "channel": "#chile",
       "description": "chile"
+    },
+    {
+      "channel": "#chocolatine",
+      "description": "chocolatine"
+    },
+    {
+      "channel": "#chp",
+      "description": "chp"
+    },
+    {
+      "channel": "#chtest",
+      "description": "chtest"
+    },
+    {
+      "channel": "#chuck",
+      "description": "chuck"
+    },
+    {
+      "channel": "#clafoutis",
+      "description": "clafoutis"
+    },
+    {
+      "channel": "#cluj",
+      "description": "cluj"
+    },
+    {
+      "channel": "#cmd",
+      "description": "cmd"
+    },
+    {
+      "channel": "#cmdd",
+      "description": "cmdd"
     },
     {
       "channel": "#code",
@@ -503,8 +1855,16 @@
       "description": "colorado"
     },
     {
+      "channel": "#connections",
+      "description": "connections"
+    },
+    {
       "channel": "#copenhagen",
       "description": "copenhagen"
+    },
+    {
+      "channel": "#cork",
+      "description": "cork"
     },
     {
       "channel": "#cornmeisternl",
@@ -515,12 +1875,80 @@
       "description": "cornwall"
     },
     {
+      "channel": "#cornwallanddevon",
+      "description": "cornwallanddevon"
+    },
+    {
+      "channel": "#coventry",
+      "description": "coventry"
+    },
+    {
+      "channel": "#cpop",
+      "description": "cpop"
+    },
+    {
+      "channel": "#cq",
+      "description": "cq"
+    },
+    {
+      "channel": "#craiova",
+      "description": "craiova"
+    },
+    {
+      "channel": "#cranfield",
+      "description": "cranfield"
+    },
+    {
+      "channel": "#crawley",
+      "description": "crawley"
+    },
+    {
+      "channel": "#criticalmass",
+      "description": "criticalmass"
+    },
+    {
       "channel": "#cruxin",
       "description": "cruxin"
     },
     {
+      "channel": "#cs",
+      "description": "cs"
+    },
+    {
+      "channel": "#csy",
+      "description": "csy"
+    },
+    {
+      "channel": "#ct",
+      "description": "ct"
+    },
+    {
+      "channel": "#cubs",
+      "description": "cubs"
+    },
+    {
+      "channel": "#culemborg",
+      "description": "culemborg"
+    },
+    {
+      "channel": "#cullman",
+      "description": "cullman"
+    },
+    {
+      "channel": "#cumbria",
+      "description": "cumbria"
+    },
+    {
+      "channel": "#cus",
+      "description": "cus"
+    },
+    {
       "channel": "#custom-firmware",
       "description": "custom-firmware"
+    },
+    {
+      "channel": "#cvro",
+      "description": "cvro"
     },
     {
       "channel": "#cyber",
@@ -535,8 +1963,36 @@
       "description": "czech"
     },
     {
+      "channel": "#d3nkc",
+      "description": "d3nkc"
+    },
+    {
+      "channel": "#d85jjz",
+      "description": "d85jjz"
+    },
+    {
+      "channel": "#dab",
+      "description": "dab"
+    },
+    {
+      "channel": "#dach",
+      "description": "dach"
+    },
+    {
       "channel": "#dallas",
       "description": "dallas"
+    },
+    {
+      "channel": "#danmark",
+      "description": "danmark"
+    },
+    {
+      "channel": "#dara",
+      "description": "dara"
+    },
+    {
+      "channel": "#darc",
+      "description": "darc"
     },
     {
       "channel": "#dares",
@@ -547,20 +2003,156 @@
       "description": "darkroom"
     },
     {
+      "channel": "#darmstadt",
+      "description": "darmstadt"
+    },
+    {
+      "channel": "#dartford",
+      "description": "dartford"
+    },
+    {
+      "channel": "#dased",
+      "description": "dased"
+    },
+    {
+      "channel": "#daytonnews",
+      "description": "daytonnews"
+    },
+    {
+      "channel": "#dayz",
+      "description": "dayz"
+    },
+    {
+      "channel": "#db0sl",
+      "description": "db0sl"
+    },
+    {
       "channel": "#dc",
       "description": "dc"
+    },
+    {
+      "channel": "#dd-companion",
+      "description": "dd-companion"
+    },
+    {
+      "channel": "#dd-meshcon",
+      "description": "dd-meshcon"
+    },
+    {
+      "channel": "#dd-ping",
+      "description": "dd-ping"
+    },
+    {
+      "channel": "#dd-repeater",
+      "description": "dd-repeater"
     },
     {
       "channel": "#de",
       "description": "de"
     },
     {
+      "channel": "#de-bb",
+      "description": "de-bb"
+    },
+    {
+      "channel": "#de-bb-bar",
+      "description": "de-bb-bar"
+    },
+    {
+      "channel": "#de-bb-los",
+      "description": "de-bb-los"
+    },
+    {
+      "channel": "#de-bb-ohv",
+      "description": "de-bb-ohv"
+    },
+    {
+      "channel": "#de-be",
+      "description": "de-be"
+    },
+    {
+      "channel": "#de-bebb",
+      "description": "de-bebb"
+    },
+    {
+      "channel": "#de-bot",
+      "description": "de-bot"
+    },
+    {
+      "channel": "#de-bw",
+      "description": "de-bw"
+    },
+    {
+      "channel": "#de-bw-bb",
+      "description": "de-bw-bb"
+    },
+    {
+      "channel": "#de-bw-str",
+      "description": "de-bw-str"
+    },
+    {
+      "channel": "#de-by",
+      "description": "de-by"
+    },
+    {
       "channel": "#de-de",
       "description": "de-de"
     },
     {
+      "channel": "#de-mitte",
+      "description": "de-mitte"
+    },
+    {
+      "channel": "#de-mv",
+      "description": "de-mv"
+    },
+    {
+      "channel": "#de-ni",
+      "description": "de-ni"
+    },
+    {
+      "channel": "#de-nord",
+      "description": "de-nord"
+    },
+    {
+      "channel": "#de-nw",
+      "description": "de-nw"
+    },
+    {
+      "channel": "#de-nw-nina-pott",
+      "description": "de-nw-nina-pott"
+    },
+    {
+      "channel": "#de-ost",
+      "description": "de-ost"
+    },
+    {
+      "channel": "#de-ping",
+      "description": "de-ping"
+    },
+    {
+      "channel": "#de-rp",
+      "description": "de-rp"
+    },
+    {
+      "channel": "#de-sn",
+      "description": "de-sn"
+    },
+    {
+      "channel": "#de-sn-dd",
+      "description": "de-sn-dd"
+    },
+    {
+      "channel": "#de-sued",
+      "description": "de-sued"
+    },
+    {
       "channel": "#de-th",
       "description": "de-th"
+    },
+    {
+      "channel": "#debrecen",
+      "description": "debrecen"
     },
     {
       "channel": "#debug",
@@ -579,6 +2171,10 @@
       "description": "dekroeg"
     },
     {
+      "channel": "#delaar",
+      "description": "delaar"
+    },
+    {
       "channel": "#delft",
       "description": "delft"
     },
@@ -587,8 +2183,16 @@
       "description": "delhi"
     },
     {
+      "channel": "#demeern",
+      "description": "demeern"
+    },
+    {
       "channel": "#den-helder",
       "description": "den-helder"
+    },
+    {
+      "channel": "#denbosch",
+      "description": "denbosch"
     },
     {
       "channel": "#denhaag",
@@ -615,8 +2219,20 @@
       "description": "derbyshire"
     },
     {
+      "channel": "#desertrat",
+      "description": "desertrat"
+    },
+    {
+      "channel": "#detmold",
+      "description": "detmold"
+    },
+    {
       "channel": "#detroit",
       "description": "detroit"
+    },
+    {
+      "channel": "#deurne",
+      "description": "deurne"
     },
     {
       "channel": "#deutschland",
@@ -635,36 +2251,172 @@
       "description": "devnull"
     },
     {
+      "channel": "#devon",
+      "description": "devon"
+    },
+    {
+      "channel": "#dex",
+      "description": "dex"
+    },
+    {
+      "channel": "#df0uk",
+      "description": "df0uk"
+    },
+    {
       "channel": "#dfw",
       "description": "dfw"
+    },
+    {
+      "channel": "#dg7",
+      "description": "dg7"
     },
     {
       "channel": "#dhr",
       "description": "dhr"
     },
     {
+      "channel": "#diabetes",
+      "description": "diabetes"
+    },
+    {
+      "channel": "#diest",
+      "description": "diest"
+    },
+    {
+      "channel": "#digitalecloud",
+      "description": "digitalecloud"
+    },
+    {
+      "channel": "#digitalestad",
+      "description": "digitalestad"
+    },
+    {
       "channel": "#dinteloord",
       "description": "dinteloord"
+    },
+    {
+      "channel": "#dinx",
+      "description": "dinx"
+    },
+    {
+      "channel": "#dipol",
+      "description": "dipol"
     },
     {
       "channel": "#dirage",
       "description": "dirage"
     },
     {
+      "channel": "#dirty",
+      "description": "dirty"
+    },
+    {
+      "channel": "#dispatches",
+      "description": "dispatches"
+    },
+    {
+      "channel": "#display",
+      "description": "display"
+    },
+    {
       "channel": "#diy",
       "description": "diy"
+    },
+    {
+      "channel": "#dj",
+      "description": "dj"
+    },
+    {
+      "channel": "#dk",
+      "description": "dk"
+    },
+    {
+      "channel": "#dk-kbh",
+      "description": "dk-kbh"
+    },
+    {
+      "channel": "#dk-vejvagt",
+      "description": "dk-vejvagt"
+    },
+    {
+      "channel": "#dk0a",
+      "description": "dk0a"
+    },
+    {
+      "channel": "#dk3",
+      "description": "dk3"
+    },
+    {
+      "channel": "#dk33",
+      "description": "dk33"
+    },
+    {
+      "channel": "#dl",
+      "description": "dl"
+    },
+    {
+      "channel": "#dl-mitte",
+      "description": "dl-mitte"
+    },
+    {
+      "channel": "#dm69",
+      "description": "dm69"
+    },
+    {
+      "channel": "#dmc",
+      "description": "dmc"
     },
     {
       "channel": "#dme",
       "description": "dme"
     },
     {
+      "channel": "#dmg",
+      "description": "dmg"
+    },
+    {
+      "channel": "#dmitrov",
+      "description": "dmitrov"
+    },
+    {
+      "channel": "#dmr",
+      "description": "dmr"
+    },
+    {
+      "channel": "#dnmd",
+      "description": "dnmd"
+    },
+    {
+      "channel": "#doesburg",
+      "description": "doesburg"
+    },
+    {
+      "channel": "#doetinchem",
+      "description": "doetinchem"
+    },
+    {
       "channel": "#dogs",
       "description": "dogs"
     },
     {
+      "channel": "#dolleman",
+      "description": "dolleman"
+    },
+    {
+      "channel": "#dolnoslaskie",
+      "description": "dolnoslaskie"
+    },
+    {
+      "channel": "#dom",
+      "description": "dom"
+    },
+    {
       "channel": "#domoticz",
       "description": "domoticz"
+    },
+    {
+      "channel": "#dooieboel",
+      "description": "dooieboel"
     },
     {
       "channel": "#doorn",
@@ -675,6 +2427,26 @@
       "description": "dordrecht"
     },
     {
+      "channel": "#dorset",
+      "description": "dorset"
+    },
+    {
+      "channel": "#dortmund",
+      "description": "dortmund"
+    },
+    {
+      "channel": "#dote",
+      "description": "dote"
+    },
+    {
+      "channel": "#douai",
+      "description": "douai"
+    },
+    {
+      "channel": "#doubs",
+      "description": "doubs"
+    },
+    {
       "channel": "#drco",
       "description": "drco"
     },
@@ -683,12 +2455,52 @@
       "description": "drechtsteden"
     },
     {
+      "channel": "#drente",
+      "description": "drente"
+    },
+    {
       "channel": "#drenthe",
       "description": "drenthe"
     },
     {
+      "channel": "#dresden",
+      "description": "dresden"
+    },
+    {
+      "channel": "#drg",
+      "description": "drg"
+    },
+    {
+      "channel": "#driewegen",
+      "description": "driewegen"
+    },
+    {
+      "channel": "#drivebc",
+      "description": "drivebc"
+    },
+    {
+      "channel": "#drk",
+      "description": "drk"
+    },
+    {
+      "channel": "#drugs",
+      "description": "drugs"
+    },
+    {
+      "channel": "#drunen",
+      "description": "drunen"
+    },
+    {
+      "channel": "#ds-test",
+      "description": "ds-test"
+    },
+    {
       "channel": "#dtis",
       "description": "dtis"
+    },
+    {
+      "channel": "#dtm",
+      "description": "dtm"
     },
     {
       "channel": "#dtv",
@@ -699,12 +2511,44 @@
       "description": "dublin"
     },
     {
+      "channel": "#duesseldorf",
+      "description": "duesseldorf"
+    },
+    {
       "channel": "#duisburg",
       "description": "duisburg"
     },
     {
+      "channel": "#duiven",
+      "description": "duiven"
+    },
+    {
+      "channel": "#durlach",
+      "description": "durlach"
+    },
+    {
+      "channel": "#dutch",
+      "description": "dutch"
+    },
+    {
       "channel": "#dutchmeshcore",
       "description": "dutchmeshcore"
+    },
+    {
+      "channel": "#dwqtr",
+      "description": "dwqtr"
+    },
+    {
+      "channel": "#dx",
+      "description": "dx"
+    },
+    {
+      "channel": "#e14",
+      "description": "e14"
+    },
+    {
+      "channel": "#e25",
+      "description": "e25"
     },
     {
       "channel": "#earthquake",
@@ -719,40 +2563,108 @@
       "description": "eastbourne"
     },
     {
+      "channel": "#eastmidlands",
+      "description": "eastmidlands"
+    },
+    {
+      "channel": "#eastofengland",
+      "description": "eastofengland"
+    },
+    {
+      "channel": "#eastside",
+      "description": "eastside"
+    },
+    {
+      "channel": "#eberswalde",
+      "description": "eberswalde"
+    },
+    {
       "channel": "#echo",
       "description": "echo"
+    },
+    {
+      "channel": "#echoai",
+      "description": "echoai"
+    },
+    {
+      "channel": "#echotest",
+      "description": "echotest"
     },
     {
       "channel": "#ede",
       "description": "ede"
     },
     {
+      "channel": "#edgar",
+      "description": "edgar"
+    },
+    {
+      "channel": "#edgecase",
+      "description": "edgecase"
+    },
+    {
       "channel": "#edinburgh",
       "description": "edinburgh"
+    },
+    {
+      "channel": "#eee",
+      "description": "eee"
     },
     {
       "channel": "#eemnes",
       "description": "eemnes"
     },
     {
+      "channel": "#ef30",
+      "description": "ef30"
+    },
+    {
+      "channel": "#eggp",
+      "description": "eggp"
+    },
+    {
       "channel": "#ehbo",
       "description": "ehbo"
+    },
+    {
+      "channel": "#ehv",
+      "description": "ehv"
     },
     {
       "channel": "#ei",
       "description": "ei"
     },
     {
+      "channel": "#eickel",
+      "description": "eickel"
+    },
+    {
+      "channel": "#eifel",
+      "description": "eifel"
+    },
+    {
       "channel": "#eindhoven",
       "description": "eindhoven"
+    },
+    {
+      "channel": "#elbtunnel",
+      "description": "elbtunnel"
     },
     {
       "channel": "#elburg",
       "description": "elburg"
     },
     {
+      "channel": "#elderveld",
+      "description": "elderveld"
+    },
+    {
       "channel": "#electronics",
       "description": "electronics"
+    },
+    {
+      "channel": "#elmshorn",
+      "description": "elmshorn"
     },
     {
       "channel": "#emcomm",
@@ -763,20 +2675,72 @@
       "description": "emergency"
     },
     {
+      "channel": "#emf",
+      "description": "emf"
+    },
+    {
       "channel": "#emmen",
       "description": "emmen"
+    },
+    {
+      "channel": "#empiremesh",
+      "description": "empiremesh"
+    },
+    {
+      "channel": "#engelen",
+      "description": "engelen"
     },
     {
       "channel": "#english",
       "description": "english"
     },
     {
+      "channel": "#enna",
+      "description": "enna"
+    },
+    {
       "channel": "#enschede",
       "description": "enschede"
     },
     {
+      "channel": "#ente",
+      "description": "ente"
+    },
+    {
+      "channel": "#eppelheim",
+      "description": "eppelheim"
+    },
+    {
+      "channel": "#erfurt",
+      "description": "erfurt"
+    },
+    {
+      "channel": "#erwitte",
+      "description": "erwitte"
+    },
+    {
+      "channel": "#erzgebirge",
+      "description": "erzgebirge"
+    },
+    {
+      "channel": "#es-c",
+      "description": "es-c"
+    },
+    {
+      "channel": "#eschweiler",
+      "description": "eschweiler"
+    },
+    {
+      "channel": "#escondido",
+      "description": "escondido"
+    },
+    {
       "channel": "#esp32",
       "description": "esp32"
+    },
+    {
+      "channel": "#espoo",
+      "description": "espoo"
     },
     {
       "channel": "#essen",
@@ -787,24 +2751,176 @@
       "description": "essex"
     },
     {
+      "channel": "#est",
+      "description": "est"
+    },
+    {
+      "channel": "#estal",
+      "description": "estal"
+    },
+    {
+      "channel": "#estonia",
+      "description": "estonia"
+    },
+    {
+      "channel": "#etten-leur",
+      "description": "etten-leur"
+    },
+    {
+      "channel": "#ettlingen",
+      "description": "ettlingen"
+    },
+    {
+      "channel": "#eu",
+      "description": "eu"
+    },
+    {
+      "channel": "#europa",
+      "description": "europa"
+    },
+    {
+      "channel": "#europe",
+      "description": "europe"
+    },
+    {
       "channel": "#evac",
       "description": "evac"
+    },
+    {
+      "channel": "#events-elmshorn",
+      "description": "events-elmshorn"
     },
     {
       "channel": "#evenvroegopstaan",
       "description": "evenvroegopstaan"
     },
     {
+      "channel": "#ewr",
+      "description": "ewr"
+    },
+    {
+      "channel": "#exeter",
+      "description": "exeter"
+    },
+    {
+      "channel": "#ezd",
+      "description": "ezd"
+    },
+    {
       "channel": "#ezhe",
       "description": "ezhe"
+    },
+    {
+      "channel": "#ezhi",
+      "description": "ezhi"
+    },
+    {
+      "channel": "#f-39u",
+      "description": "f-39u"
+    },
+    {
+      "channel": "#f1",
+      "description": "f1"
+    },
+    {
+      "channel": "#f38",
+      "description": "f38"
+    },
+    {
+      "channel": "#f4r",
+      "description": "f4r"
+    },
+    {
+      "channel": "#f8kly",
+      "description": "f8kly"
+    },
+    {
+      "channel": "#f8kox",
+      "description": "f8kox"
+    },
+    {
+      "channel": "#faazq",
+      "description": "faazq"
+    },
+    {
+      "channel": "#fab",
+      "description": "fab"
+    },
+    {
+      "channel": "#farc",
+      "description": "farc"
+    },
+    {
+      "channel": "#faro",
+      "description": "faro"
+    },
+    {
+      "channel": "#fat",
+      "description": "fat"
+    },
+    {
+      "channel": "#fau",
+      "description": "fau"
+    },
+    {
+      "channel": "#faunabuurt",
+      "description": "faunabuurt"
+    },
+    {
+      "channel": "#fax",
+      "description": "fax"
     },
     {
       "channel": "#fbaw",
       "description": "fbaw"
     },
     {
+      "channel": "#fehmarn",
+      "description": "fehmarn"
+    },
+    {
+      "channel": "#feuerwehr",
+      "description": "feuerwehr"
+    },
+    {
+      "channel": "#ffb",
+      "description": "ffb"
+    },
+    {
+      "channel": "#ffbh",
+      "description": "ffbh"
+    },
+    {
+      "channel": "#ffdd",
+      "description": "ffdd"
+    },
+    {
+      "channel": "#ffm",
+      "description": "ffm"
+    },
+    {
+      "channel": "#ffnw",
+      "description": "ffnw"
+    },
+    {
+      "channel": "#fieldday",
+      "description": "fieldday"
+    },
+    {
+      "channel": "#fife",
+      "description": "fife"
+    },
+    {
       "channel": "#film",
       "description": "film"
+    },
+    {
+      "channel": "#finance",
+      "description": "finance"
+    },
+    {
+      "channel": "#finchy",
+      "description": "finchy"
     },
     {
       "channel": "#finland",
@@ -815,12 +2931,36 @@
       "description": "fire"
     },
     {
+      "channel": "#fish",
+      "description": "fish"
+    },
+    {
+      "channel": "#fjz",
+      "description": "fjz"
+    },
+    {
+      "channel": "#flachwitze",
+      "description": "flachwitze"
+    },
+    {
       "channel": "#flevoland",
       "description": "flevoland"
     },
     {
       "channel": "#flightradar24",
       "description": "flightradar24"
+    },
+    {
+      "channel": "#flintshire",
+      "description": "flintshire"
+    },
+    {
+      "channel": "#flip",
+      "description": "flip"
+    },
+    {
+      "channel": "#flohmarkt",
+      "description": "flohmarkt"
     },
     {
       "channel": "#flood",
@@ -831,24 +2971,336 @@
       "description": "florida"
     },
     {
+      "channel": "#fmo",
+      "description": "fmo"
+    },
+    {
+      "channel": "#foo",
+      "description": "foo"
+    },
+    {
+      "channel": "#foobot",
+      "description": "foobot"
+    },
+    {
       "channel": "#food",
       "description": "food"
+    },
+    {
+      "channel": "#football",
+      "description": "football"
+    },
+    {
+      "channel": "#formule1",
+      "description": "formule1"
     },
     {
       "channel": "#fosdem",
       "description": "fosdem"
     },
     {
+      "channel": "#foto",
+      "description": "foto"
+    },
+    {
+      "channel": "#fouras",
+      "description": "fouras"
+    },
+    {
+      "channel": "#fpv",
+      "description": "fpv"
+    },
+    {
+      "channel": "#fr",
+      "description": "fr"
+    },
+    {
+      "channel": "#fr-05-gap",
+      "description": "fr-05-gap"
+    },
+    {
+      "channel": "#fr-06",
+      "description": "fr-06"
+    },
+    {
+      "channel": "#fr-07",
+      "description": "fr-07"
+    },
+    {
+      "channel": "#fr-11",
+      "description": "fr-11"
+    },
+    {
+      "channel": "#fr-13",
+      "description": "fr-13"
+    },
+    {
+      "channel": "#fr-19",
+      "description": "fr-19"
+    },
+    {
+      "channel": "#fr-29",
+      "description": "fr-29"
+    },
+    {
+      "channel": "#fr-30",
+      "description": "fr-30"
+    },
+    {
+      "channel": "#fr-31",
+      "description": "fr-31"
+    },
+    {
+      "channel": "#fr-33",
+      "description": "fr-33"
+    },
+    {
+      "channel": "#fr-34",
+      "description": "fr-34"
+    },
+    {
+      "channel": "#fr-38",
+      "description": "fr-38"
+    },
+    {
+      "channel": "#fr-40",
+      "description": "fr-40"
+    },
+    {
+      "channel": "#fr-42",
+      "description": "fr-42"
+    },
+    {
+      "channel": "#fr-44",
+      "description": "fr-44"
+    },
+    {
+      "channel": "#fr-49",
+      "description": "fr-49"
+    },
+    {
+      "channel": "#fr-57",
+      "description": "fr-57"
+    },
+    {
+      "channel": "#fr-59",
+      "description": "fr-59"
+    },
+    {
+      "channel": "#fr-62",
+      "description": "fr-62"
+    },
+    {
+      "channel": "#fr-63",
+      "description": "fr-63"
+    },
+    {
+      "channel": "#fr-64",
+      "description": "fr-64"
+    },
+    {
+      "channel": "#fr-69",
+      "description": "fr-69"
+    },
+    {
+      "channel": "#fr-71",
+      "description": "fr-71"
+    },
+    {
+      "channel": "#fr-78",
+      "description": "fr-78"
+    },
+    {
+      "channel": "#fr-79",
+      "description": "fr-79"
+    },
+    {
+      "channel": "#fr-84",
+      "description": "fr-84"
+    },
+    {
+      "channel": "#fr-91",
+      "description": "fr-91"
+    },
+    {
+      "channel": "#fr-92",
+      "description": "fr-92"
+    },
+    {
+      "channel": "#fr-ara",
+      "description": "fr-ara"
+    },
+    {
+      "channel": "#fr-bc",
+      "description": "fr-bc"
+    },
+    {
+      "channel": "#fr-bfc",
+      "description": "fr-bfc"
+    },
+    {
+      "channel": "#fr-c9",
+      "description": "fr-c9"
+    },
+    {
+      "channel": "#fr-fr",
+      "description": "fr-fr"
+    },
+    {
+      "channel": "#fr-hdf",
+      "description": "fr-hdf"
+    },
+    {
+      "channel": "#fr-idf",
+      "description": "fr-idf"
+    },
+    {
+      "channel": "#fr-naq",
+      "description": "fr-naq"
+    },
+    {
+      "channel": "#fr-occ",
+      "description": "fr-occ"
+    },
+    {
+      "channel": "#fr76",
+      "description": "fr76"
+    },
+    {
       "channel": "#france",
       "description": "france"
+    },
+    {
+      "channel": "#franken",
+      "description": "franken"
+    },
+    {
+      "channel": "#frankfurt",
+      "description": "frankfurt"
+    },
+    {
+      "channel": "#frblabla",
+      "description": "frblabla"
+    },
+    {
+      "channel": "#frc",
+      "description": "frc"
+    },
+    {
+      "channel": "#freebeer",
+      "description": "freebeer"
+    },
+    {
+      "channel": "#freehardware",
+      "description": "freehardware"
+    },
+    {
+      "channel": "#freewine",
+      "description": "freewine"
+    },
+    {
+      "channel": "#freiburg",
+      "description": "freiburg"
+    },
+    {
+      "channel": "#friedrichshafen",
+      "description": "friedrichshafen"
     },
     {
       "channel": "#friesland",
       "description": "friesland"
     },
     {
+      "channel": "#frl",
+      "description": "frl"
+    },
+    {
+      "channel": "#frn",
+      "description": "frn"
+    },
+    {
+      "channel": "#fryslan",
+      "description": "fryslan"
+    },
+    {
+      "channel": "#ftc",
+      "description": "ftc"
+    },
+    {
+      "channel": "#fubb",
+      "description": "fubb"
+    },
+    {
+      "channel": "#fulda",
+      "description": "fulda"
+    },
+    {
       "channel": "#fun",
       "description": "fun"
+    },
+    {
+      "channel": "#fupp",
+      "description": "fupp"
+    },
+    {
+      "channel": "#furry",
+      "description": "furry"
+    },
+    {
+      "channel": "#fussball",
+      "description": "fussball"
+    },
+    {
+      "channel": "#fuz",
+      "description": "fuz"
+    },
+    {
+      "channel": "#fvd",
+      "description": "fvd"
+    },
+    {
+      "channel": "#fyn",
+      "description": "fyn"
+    },
+    {
+      "channel": "#g09",
+      "description": "g09"
+    },
+    {
+      "channel": "#g27",
+      "description": "g27"
+    },
+    {
+      "channel": "#g3cuu",
+      "description": "g3cuu"
+    },
+    {
+      "channel": "#g4",
+      "description": "g4"
+    },
+    {
+      "channel": "#g487",
+      "description": "g487"
+    },
+    {
+      "channel": "#g8py",
+      "description": "g8py"
+    },
+    {
+      "channel": "#ga",
+      "description": "ga"
+    },
+    {
+      "channel": "#gaber",
+      "description": "gaber"
+    },
+    {
+      "channel": "#gabik",
+      "description": "gabik"
+    },
+    {
+      "channel": "#gaia",
+      "description": "gaia"
     },
     {
       "channel": "#games",
@@ -859,6 +3311,14 @@
       "description": "gaming"
     },
     {
+      "channel": "#garden",
+      "description": "garden"
+    },
+    {
+      "channel": "#gas",
+      "description": "gas"
+    },
+    {
       "channel": "#gateway",
       "description": "gateway"
     },
@@ -867,24 +3327,100 @@
       "description": "gay"
     },
     {
+      "channel": "#gberg",
+      "description": "gberg"
+    },
+    {
+      "channel": "#gch",
+      "description": "gch"
+    },
+    {
+      "channel": "#gdn",
+      "description": "gdn"
+    },
+    {
+      "channel": "#gdynia",
+      "description": "gdynia"
+    },
+    {
+      "channel": "#ge",
+      "description": "ge"
+    },
+    {
+      "channel": "#geg",
+      "description": "geg"
+    },
+    {
+      "channel": "#gejas",
+      "description": "gejas"
+    },
+    {
+      "channel": "#gela",
+      "description": "gela"
+    },
+    {
       "channel": "#gelderland",
       "description": "gelderland"
+    },
+    {
+      "channel": "#geldermalsen",
+      "description": "geldermalsen"
+    },
+    {
+      "channel": "#gelsenkirchen",
+      "description": "gelsenkirchen"
     },
     {
       "channel": "#general",
       "description": "general"
     },
     {
+      "channel": "#genk",
+      "description": "genk"
+    },
+    {
       "channel": "#gent",
       "description": "gent"
+    },
+    {
+      "channel": "#geocaching",
+      "description": "geocaching"
+    },
+    {
+      "channel": "#geopolitics",
+      "description": "geopolitics"
+    },
+    {
+      "channel": "#georgia",
+      "description": "georgia"
+    },
+    {
+      "channel": "#gera",
+      "description": "gera"
+    },
+    {
+      "channel": "#gerand",
+      "description": "gerand"
     },
     {
       "channel": "#germany",
       "description": "germany"
     },
     {
+      "channel": "#gertz",
+      "description": "gertz"
+    },
+    {
       "channel": "#gezellig",
       "description": "gezellig"
+    },
+    {
+      "channel": "#gft",
+      "description": "gft"
+    },
+    {
+      "channel": "#gironde",
+      "description": "gironde"
     },
     {
       "channel": "#gisborne",
@@ -895,12 +3431,56 @@
       "description": "gj"
     },
     {
+      "channel": "#gl",
+      "description": "gl"
+    },
+    {
+      "channel": "#gla",
+      "description": "gla"
+    },
+    {
+      "channel": "#glarnerland",
+      "description": "glarnerland"
+    },
+    {
+      "channel": "#glrc",
+      "description": "glrc"
+    },
+    {
       "channel": "#gmr",
       "description": "gmr"
     },
     {
       "channel": "#gmrbot",
       "description": "gmrbot"
+    },
+    {
+      "channel": "#gmrs",
+      "description": "gmrs"
+    },
+    {
+      "channel": "#gmrsradio",
+      "description": "gmrsradio"
+    },
+    {
+      "channel": "#gno",
+      "description": "gno"
+    },
+    {
+      "channel": "#gnpa",
+      "description": "gnpa"
+    },
+    {
+      "channel": "#goat",
+      "description": "goat"
+    },
+    {
+      "channel": "#goblin",
+      "description": "goblin"
+    },
+    {
+      "channel": "#goblinden",
+      "description": "goblinden"
     },
     {
       "channel": "#goedemorgen",
@@ -911,12 +3491,104 @@
       "description": "goedenavond"
     },
     {
+      "channel": "#goedenmorgen",
+      "description": "goedenmorgen"
+    },
+    {
       "channel": "#goes",
       "description": "goes"
     },
     {
+      "channel": "#goettingen",
+      "description": "goettingen"
+    },
+    {
+      "channel": "#goirle",
+      "description": "goirle"
+    },
+    {
+      "channel": "#gooi",
+      "description": "gooi"
+    },
+    {
+      "channel": "#gorlice",
+      "description": "gorlice"
+    },
+    {
+      "channel": "#got",
+      "description": "got"
+    },
+    {
+      "channel": "#gotha",
+      "description": "gotha"
+    },
+    {
       "channel": "#gouda",
       "description": "gouda"
+    },
+    {
+      "channel": "#gpn",
+      "description": "gpn"
+    },
+    {
+      "channel": "#gps",
+      "description": "gps"
+    },
+    {
+      "channel": "#gr",
+      "description": "gr"
+    },
+    {
+      "channel": "#gr57",
+      "description": "gr57"
+    },
+    {
+      "channel": "#grappen",
+      "description": "grappen"
+    },
+    {
+      "channel": "#graz",
+      "description": "graz"
+    },
+    {
+      "channel": "#greatermanchester",
+      "description": "greatermanchester"
+    },
+    {
+      "channel": "#greifswald",
+      "description": "greifswald"
+    },
+    {
+      "channel": "#grevenbroich",
+      "description": "grevenbroich"
+    },
+    {
+      "channel": "#groenehart",
+      "description": "groenehart"
+    },
+    {
+      "channel": "#groesbeek",
+      "description": "groesbeek"
+    },
+    {
+      "channel": "#grolli",
+      "description": "grolli"
+    },
+    {
+      "channel": "#grondslag",
+      "description": "grondslag"
+    },
+    {
+      "channel": "#groningen",
+      "description": "groningen"
+    },
+    {
+      "channel": "#grove",
+      "description": "grove"
+    },
+    {
+      "channel": "#grri",
+      "description": "grri"
     },
     {
       "channel": "#grunn",
@@ -927,20 +3599,80 @@
       "description": "gsn"
     },
     {
+      "channel": "#gta",
+      "description": "gta"
+    },
+    {
+      "channel": "#gtc",
+      "description": "gtc"
+    },
+    {
+      "channel": "#gu",
+      "description": "gu"
+    },
+    {
+      "channel": "#guernsey",
+      "description": "guernsey"
+    },
+    {
       "channel": "#gunmen",
       "description": "gunmen"
+    },
+    {
+      "channel": "#guns",
+      "description": "guns"
+    },
+    {
+      "channel": "#gwn",
+      "description": "gwn"
     },
     {
       "channel": "#gwnl",
       "description": "gwnl"
     },
     {
+      "channel": "#gyatv",
+      "description": "gyatv"
+    },
+    {
       "channel": "#gyverbot",
       "description": "gyverbot"
     },
     {
+      "channel": "#h15",
+      "description": "h15"
+    },
+    {
+      "channel": "#h2c",
+      "description": "h2c"
+    },
+    {
+      "channel": "#h33",
+      "description": "h33"
+    },
+    {
+      "channel": "#h4x",
+      "description": "h4x"
+    },
+    {
+      "channel": "#h73",
+      "description": "h73"
+    },
+    {
+      "channel": "#ha",
+      "description": "ha"
+    },
+    {
+      "channel": "#haaglanden",
+      "description": "haaglanden"
+    },
+    {
       "channel": "#haarlem",
       "description": "haarlem"
+    },
+    {
+      "channel": "#hac",
+      "description": "hac"
     },
     {
       "channel": "#hacker",
@@ -955,12 +3687,48 @@
       "description": "hackerspacenijmegen"
     },
     {
+      "channel": "#hacktheplanet",
+      "description": "hacktheplanet"
+    },
+    {
+      "channel": "#hadr",
+      "description": "hadr"
+    },
+    {
+      "channel": "#hageland",
+      "description": "hageland"
+    },
+    {
+      "channel": "#hagen",
+      "description": "hagen"
+    },
+    {
       "channel": "#hahab",
       "description": "hahab"
     },
     {
+      "channel": "#hal9k",
+      "description": "hal9k"
+    },
+    {
+      "channel": "#halle",
+      "description": "halle"
+    },
+    {
       "channel": "#ham",
       "description": "ham"
+    },
+    {
+      "channel": "#hamburg",
+      "description": "hamburg"
+    },
+    {
+      "channel": "#hamburghafenlive",
+      "description": "hamburghafenlive"
+    },
+    {
+      "channel": "#hamfest",
+      "description": "hamfest"
     },
     {
       "channel": "#hampshire",
@@ -975,16 +3743,88 @@
       "description": "hamradionederland"
     },
     {
+      "channel": "#hannover",
+      "description": "hannover"
+    },
+    {
+      "channel": "#hansemesh",
+      "description": "hansemesh"
+    },
+    {
+      "channel": "#harderwijk",
+      "description": "harderwijk"
+    },
+    {
+      "channel": "#harlingen",
+      "description": "harlingen"
+    },
+    {
+      "channel": "#harrow",
+      "description": "harrow"
+    },
+    {
       "channel": "#hashtags",
       "description": "hashtags"
+    },
+    {
+      "channel": "#hastings",
+      "description": "hastings"
+    },
+    {
+      "channel": "#hattingen",
+      "description": "hattingen"
     },
     {
       "channel": "#hawaii",
       "description": "hawaii"
     },
     {
+      "channel": "#hb9ag",
+      "description": "hb9ag"
+    },
+    {
+      "channel": "#hb9oh",
+      "description": "hb9oh"
+    },
+    {
+      "channel": "#hbc",
+      "description": "hbc"
+    },
+    {
+      "channel": "#hbn",
+      "description": "hbn"
+    },
+    {
+      "channel": "#hdf",
+      "description": "hdf"
+    },
+    {
+      "channel": "#healthcheck",
+      "description": "healthcheck"
+    },
+    {
       "channel": "#heerhugowaard",
       "description": "heerhugowaard"
+    },
+    {
+      "channel": "#heesselt",
+      "description": "heesselt"
+    },
+    {
+      "channel": "#hef",
+      "description": "hef"
+    },
+    {
+      "channel": "#heidemesh",
+      "description": "heidemesh"
+    },
+    {
+      "channel": "#heimsheim",
+      "description": "heimsheim"
+    },
+    {
+      "channel": "#hellendoornrally",
+      "description": "hellendoornrally"
     },
     {
       "channel": "#hellevoetsluis",
@@ -999,6 +3839,10 @@
       "description": "helmond"
     },
     {
+      "channel": "#helmstedt",
+      "description": "helmstedt"
+    },
+    {
       "channel": "#help",
       "description": "help"
     },
@@ -1007,12 +3851,32 @@
       "description": "helsinki"
     },
     {
+      "channel": "#helvoirt",
+      "description": "helvoirt"
+    },
+    {
+      "channel": "#hemer",
+      "description": "hemer"
+    },
+    {
       "channel": "#hengelo",
       "description": "hengelo"
     },
     {
+      "channel": "#hepia",
+      "description": "hepia"
+    },
+    {
       "channel": "#hertford",
       "description": "hertford"
+    },
+    {
+      "channel": "#hessen",
+      "description": "hessen"
+    },
+    {
+      "channel": "#hetterras",
+      "description": "hetterras"
     },
     {
       "channel": "#hetweerinjegemeente",
@@ -1027,12 +3891,40 @@
       "description": "hey"
     },
     {
+      "channel": "#hfra5",
+      "description": "hfra5"
+    },
+    {
+      "channel": "#hgw",
+      "description": "hgw"
+    },
+    {
       "channel": "#hi",
       "description": "hi"
     },
     {
+      "channel": "#hia",
+      "description": "hia"
+    },
+    {
       "channel": "#hidden",
       "description": "hidden"
+    },
+    {
+      "channel": "#hidesert",
+      "description": "hidesert"
+    },
+    {
+      "channel": "#hifi",
+      "description": "hifi"
+    },
+    {
+      "channel": "#high-wycombe",
+      "description": "high-wycombe"
+    },
+    {
+      "channel": "#highlands",
+      "description": "highlands"
     },
     {
       "channel": "#hike",
@@ -1043,8 +3935,40 @@
       "description": "hiking"
     },
     {
+      "channel": "#hildesheim",
+      "description": "hildesheim"
+    },
+    {
+      "channel": "#hilfe",
+      "description": "hilfe"
+    },
+    {
       "channel": "#hilversum",
       "description": "hilversum"
+    },
+    {
+      "channel": "#hilversum-testen",
+      "description": "hilversum-testen"
+    },
+    {
+      "channel": "#hjv",
+      "description": "hjv"
+    },
+    {
+      "channel": "#hmue",
+      "description": "hmue"
+    },
+    {
+      "channel": "#hollabrunn",
+      "description": "hollabrunn"
+    },
+    {
+      "channel": "#holly",
+      "description": "holly"
+    },
+    {
+      "channel": "#hollytest",
+      "description": "hollytest"
     },
     {
       "channel": "#home",
@@ -1055,8 +3979,28 @@
       "description": "homeassistant"
     },
     {
+      "channel": "#honk",
+      "description": "honk"
+    },
+    {
       "channel": "#honolulu",
       "description": "honolulu"
+    },
+    {
+      "channel": "#hoofddorp",
+      "description": "hoofddorp"
+    },
+    {
+      "channel": "#hoogland",
+      "description": "hoogland"
+    },
+    {
+      "channel": "#hoorn",
+      "description": "hoorn"
+    },
+    {
+      "channel": "#horsens",
+      "description": "horsens"
     },
     {
       "channel": "#houston",
@@ -1065,6 +4009,22 @@
     {
       "channel": "#houten",
       "description": "houten"
+    },
+    {
+      "channel": "#howlbot",
+      "description": "howlbot"
+    },
+    {
+      "channel": "#hps",
+      "description": "hps"
+    },
+    {
+      "channel": "#hrcc",
+      "description": "hrcc"
+    },
+    {
+      "channel": "#hrt",
+      "description": "hrt"
     },
     {
       "channel": "#hsg",
@@ -1083,12 +4043,104 @@
       "description": "huddersfield"
     },
     {
+      "channel": "#huh",
+      "description": "huh"
+    },
+    {
+      "channel": "#hulla",
+      "description": "hulla"
+    },
+    {
+      "channel": "#hume",
+      "description": "hume"
+    },
+    {
+      "channel": "#hungary",
+      "description": "hungary"
+    },
+    {
       "channel": "#hvm",
       "description": "hvm"
     },
     {
+      "channel": "#hvv26",
+      "description": "hvv26"
+    },
+    {
+      "channel": "#hydepark",
+      "description": "hydepark"
+    },
+    {
+      "channel": "#i17",
+      "description": "i17"
+    },
+    {
+      "channel": "#ian",
+      "description": "ian"
+    },
+    {
+      "channel": "#iasi",
+      "description": "iasi"
+    },
+    {
+      "channel": "#iasi-bot",
+      "description": "iasi-bot"
+    },
+    {
+      "channel": "#ibybz",
+      "description": "ibybz"
+    },
+    {
+      "channel": "#icewatch",
+      "description": "icewatch"
+    },
+    {
+      "channel": "#icmp",
+      "description": "icmp"
+    },
+    {
+      "channel": "#idf",
+      "description": "idf"
+    },
+    {
+      "channel": "#idt",
+      "description": "idt"
+    },
+    {
+      "channel": "#ie",
+      "description": "ie"
+    },
+    {
+      "channel": "#ihateclankers",
+      "description": "ihateclankers"
+    },
+    {
+      "channel": "#ijburg",
+      "description": "ijburg"
+    },
+    {
       "channel": "#ijsselstein",
       "description": "ijsselstein"
+    },
+    {
+      "channel": "#ikhebeenpunt",
+      "description": "ikhebeenpunt"
+    },
+    {
+      "channel": "#il",
+      "description": "il"
+    },
+    {
+      "channel": "#il-zi",
+      "description": "il-zi"
+    },
+    {
+      "channel": "#illawarra",
+      "description": "illawarra"
+    },
+    {
+      "channel": "#illingen",
+      "description": "illingen"
     },
     {
       "channel": "#india",
@@ -1103,12 +4155,56 @@
       "description": "info"
     },
     {
+      "channel": "#infobot",
+      "description": "infobot"
+    },
+    {
       "channel": "#infosec",
       "description": "infosec"
     },
     {
+      "channel": "#ingolstadt",
+      "description": "ingolstadt"
+    },
+    {
+      "channel": "#inn-salzach",
+      "description": "inn-salzach"
+    },
+    {
+      "channel": "#ino",
+      "description": "ino"
+    },
+    {
+      "channel": "#insomnia",
+      "description": "insomnia"
+    },
+    {
       "channel": "#invite",
       "description": "invite"
+    },
+    {
+      "channel": "#inw",
+      "description": "inw"
+    },
+    {
+      "channel": "#ioi",
+      "description": "ioi"
+    },
+    {
+      "channel": "#ioi-test",
+      "description": "ioi-test"
+    },
+    {
+      "channel": "#iom",
+      "description": "iom"
+    },
+    {
+      "channel": "#iot",
+      "description": "iot"
+    },
+    {
+      "channel": "#iow",
+      "description": "iow"
     },
     {
       "channel": "#ipswich",
@@ -1119,12 +4215,56 @@
       "description": "ireland"
     },
     {
+      "channel": "#isarmesh",
+      "description": "isarmesh"
+    },
+    {
+      "channel": "#iserlohn",
+      "description": "iserlohn"
+    },
+    {
       "channel": "#isleofwight",
       "description": "isleofwight"
     },
     {
+      "channel": "#isny",
+      "description": "isny"
+    },
+    {
+      "channel": "#it",
+      "description": "it"
+    },
+    {
+      "channel": "#italia",
+      "description": "italia"
+    },
+    {
       "channel": "#italy",
       "description": "italy"
+    },
+    {
+      "channel": "#itbot",
+      "description": "itbot"
+    },
+    {
+      "channel": "#itsbritneybitch",
+      "description": "itsbritneybitch"
+    },
+    {
+      "channel": "#ivy",
+      "description": "ivy"
+    },
+    {
+      "channel": "#j-cce",
+      "description": "j-cce"
+    },
+    {
+      "channel": "#j39ys",
+      "description": "j39ys"
+    },
+    {
+      "channel": "#j6-qa",
+      "description": "j6-qa"
     },
     {
       "channel": "#jakarta",
@@ -1135,12 +4275,56 @@
       "description": "japan"
     },
     {
+      "channel": "#jarno",
+      "description": "jarno"
+    },
+    {
+      "channel": "#jaslo",
+      "description": "jaslo"
+    },
+    {
+      "channel": "#jays",
+      "description": "jays"
+    },
+    {
+      "channel": "#jbten",
+      "description": "jbten"
+    },
+    {
+      "channel": "#jeffcomesh",
+      "description": "jeffcomesh"
+    },
+    {
+      "channel": "#jelcz",
+      "description": "jelcz"
+    },
+    {
+      "channel": "#jena",
+      "description": "jena"
+    },
+    {
+      "channel": "#jizak",
+      "description": "jizak"
+    },
+    {
+      "channel": "#jj",
+      "description": "jj"
+    },
+    {
+      "channel": "#jockgrim",
+      "description": "jockgrim"
+    },
+    {
       "channel": "#joep",
       "description": "joep"
     },
     {
       "channel": "#john",
       "description": "john"
+    },
+    {
+      "channel": "#joke",
+      "description": "joke"
     },
     {
       "channel": "#jokes",
@@ -1151,28 +4335,112 @@
       "description": "jrs"
     },
     {
+      "channel": "#js01",
+      "description": "js01"
+    },
+    {
+      "channel": "#jsr",
+      "description": "jsr"
+    },
+    {
+      "channel": "#juelich",
+      "description": "juelich"
+    },
+    {
       "channel": "#junk",
       "description": "junk"
+    },
+    {
+      "channel": "#jura",
+      "description": "jura"
+    },
+    {
+      "channel": "#jylland",
+      "description": "jylland"
+    },
+    {
+      "channel": "#k2s0",
+      "description": "k2s0"
+    },
+    {
+      "channel": "#k6pqn",
+      "description": "k6pqn"
+    },
+    {
+      "channel": "#ka-pf",
+      "description": "ka-pf"
     },
     {
       "channel": "#kaaskop",
       "description": "kaaskop"
     },
     {
+      "channel": "#kafe",
+      "description": "kafe"
+    },
+    {
+      "channel": "#kalmar",
+      "description": "kalmar"
+    },
+    {
+      "channel": "#kalmar-sensors",
+      "description": "kalmar-sensors"
+    },
+    {
       "channel": "#kampen",
       "description": "kampen"
+    },
+    {
+      "channel": "#kan",
+      "description": "kan"
+    },
+    {
+      "channel": "#kanal",
+      "description": "kanal"
     },
     {
       "channel": "#kanalen",
       "description": "kanalen"
     },
     {
+      "channel": "#karlsruhe",
+      "description": "karlsruhe"
+    },
+    {
+      "channel": "#kaspichan",
+      "description": "kaspichan"
+    },
+    {
+      "channel": "#kassel",
+      "description": "kassel"
+    },
+    {
+      "channel": "#kats",
+      "description": "kats"
+    },
+    {
       "channel": "#katwijk",
       "description": "katwijk"
     },
     {
+      "channel": "#kba",
+      "description": "kba"
+    },
+    {
       "channel": "#kees",
       "description": "kees"
+    },
+    {
+      "channel": "#kek",
+      "description": "kek"
+    },
+    {
+      "channel": "#kempen",
+      "description": "kempen"
+    },
+    {
+      "channel": "#kennemerland",
+      "description": "kennemerland"
     },
     {
       "channel": "#kent",
@@ -1183,20 +4451,96 @@
       "description": "kenya"
     },
     {
+      "channel": "#ker",
+      "description": "ker"
+    },
+    {
       "channel": "#kernow",
       "description": "kernow"
+    },
+    {
+      "channel": "#kessel",
+      "description": "kessel"
+    },
+    {
+      "channel": "#kettwig",
+      "description": "kettwig"
+    },
+    {
+      "channel": "#kf",
+      "description": "kf"
+    },
+    {
+      "channel": "#khant",
+      "description": "khant"
+    },
+    {
+      "channel": "#kid",
+      "description": "kid"
+    },
+    {
+      "channel": "#kiekr",
+      "description": "kiekr"
+    },
+    {
+      "channel": "#kiel",
+      "description": "kiel"
+    },
+    {
+      "channel": "#kink",
+      "description": "kink"
+    },
+    {
+      "channel": "#kinzigtal",
+      "description": "kinzigtal"
+    },
+    {
+      "channel": "#kitzingen",
+      "description": "kitzingen"
+    },
+    {
+      "channel": "#kiwix",
+      "description": "kiwix"
     },
     {
       "channel": "#kixs",
       "description": "kixs"
     },
     {
+      "channel": "#klin",
+      "description": "klin"
+    },
+    {
+      "channel": "#kn",
+      "description": "kn"
+    },
+    {
+      "channel": "#koblenz",
+      "description": "koblenz"
+    },
+    {
+      "channel": "#kod-bot",
+      "description": "kod-bot"
+    },
+    {
       "channel": "#koeln",
       "description": "koeln"
     },
     {
+      "channel": "#koeppel",
+      "description": "koeppel"
+    },
+    {
       "channel": "#koffie",
       "description": "koffie"
+    },
+    {
+      "channel": "#konfiguration",
+      "description": "konfiguration"
+    },
+    {
+      "channel": "#konin",
+      "description": "konin"
     },
     {
       "channel": "#korea",
@@ -1207,20 +4551,152 @@
       "description": "kortrijk"
     },
     {
+      "channel": "#kose",
+      "description": "kose"
+    },
+    {
+      "channel": "#kosice",
+      "description": "kosice"
+    },
+    {
+      "channel": "#kp",
+      "description": "kp"
+    },
+    {
+      "channel": "#krai",
+      "description": "krai"
+    },
+    {
+      "channel": "#kraichgau",
+      "description": "kraichgau"
+    },
+    {
+      "channel": "#krefeld",
+      "description": "krefeld"
+    },
+    {
+      "channel": "#krg",
+      "description": "krg"
+    },
+    {
+      "channel": "#kriis",
+      "description": "kriis"
+    },
+    {
+      "channel": "#krisenvorsorge",
+      "description": "krisenvorsorge"
+    },
+    {
+      "channel": "#krosno",
+      "description": "krosno"
+    },
+    {
+      "channel": "#krve",
+      "description": "krve"
+    },
+    {
+      "channel": "#ktn",
+      "description": "ktn"
+    },
+    {
       "channel": "#kubecon",
       "description": "kubecon"
+    },
+    {
+      "channel": "#kuerten",
+      "description": "kuerten"
+    },
+    {
+      "channel": "#kulmbach",
+      "description": "kulmbach"
+    },
+    {
+      "channel": "#kurt",
+      "description": "kurt"
+    },
+    {
+      "channel": "#ky",
+      "description": "ky"
+    },
+    {
+      "channel": "#l18",
+      "description": "l18"
+    },
+    {
+      "channel": "#l6-jm0",
+      "description": "l6-jm0"
     },
     {
       "channel": "#la",
       "description": "la"
     },
     {
+      "channel": "#lafc",
+      "description": "lafc"
+    },
+    {
       "channel": "#lagos",
       "description": "lagos"
     },
     {
+      "channel": "#lancashire",
+      "description": "lancashire"
+    },
+    {
+      "channel": "#landshut",
+      "description": "landshut"
+    },
+    {
+      "channel": "#langenberg",
+      "description": "langenberg"
+    },
+    {
+      "channel": "#langenfeld",
+      "description": "langenfeld"
+    },
+    {
       "channel": "#lasvegas",
       "description": "lasvegas"
+    },
+    {
+      "channel": "#lazu",
+      "description": "lazu"
+    },
+    {
+      "channel": "#le-01",
+      "description": "le-01"
+    },
+    {
+      "channel": "#le-04",
+      "description": "le-04"
+    },
+    {
+      "channel": "#le-38",
+      "description": "le-38"
+    },
+    {
+      "channel": "#le-69",
+      "description": "le-69"
+    },
+    {
+      "channel": "#le-73",
+      "description": "le-73"
+    },
+    {
+      "channel": "#le-74",
+      "description": "le-74"
+    },
+    {
+      "channel": "#le03",
+      "description": "le03"
+    },
+    {
+      "channel": "#le63",
+      "description": "le63"
+    },
+    {
+      "channel": "#leafs",
+      "description": "leafs"
     },
     {
       "channel": "#leerdam",
@@ -1231,32 +4707,96 @@
       "description": "leeuwarden"
     },
     {
+      "channel": "#leicester",
+      "description": "leicester"
+    },
+    {
+      "channel": "#leichlingen",
+      "description": "leichlingen"
+    },
+    {
       "channel": "#leiden",
       "description": "leiden"
+    },
+    {
+      "channel": "#leiderdorp",
+      "description": "leiderdorp"
     },
     {
       "channel": "#leidschendam",
       "description": "leidschendam"
     },
     {
+      "channel": "#leine",
+      "description": "leine"
+    },
+    {
+      "channel": "#leipzig",
+      "description": "leipzig"
+    },
+    {
+      "channel": "#lekkerkerk",
+      "description": "lekkerkerk"
+    },
+    {
       "channel": "#lelystad",
       "description": "lelystad"
+    },
+    {
+      "channel": "#leu",
+      "description": "leu"
+    },
+    {
+      "channel": "#leuck",
+      "description": "leuck"
     },
     {
       "channel": "#leusden",
       "description": "leusden"
     },
     {
+      "channel": "#leuven",
+      "description": "leuven"
+    },
+    {
       "channel": "#leverkusen",
       "description": "leverkusen"
+    },
+    {
+      "channel": "#lg",
+      "description": "lg"
     },
     {
       "channel": "#lgbtq",
       "description": "lgbtq"
     },
     {
+      "channel": "#lghs",
+      "description": "lghs"
+    },
+    {
+      "channel": "#lichtenvoorde",
+      "description": "lichtenvoorde"
+    },
+    {
+      "channel": "#liege",
+      "description": "liege"
+    },
+    {
       "channel": "#liemers",
       "description": "liemers"
+    },
+    {
+      "channel": "#lier",
+      "description": "lier"
+    },
+    {
+      "channel": "#lierop",
+      "description": "lierop"
+    },
+    {
+      "channel": "#lietuva",
+      "description": "lietuva"
     },
     {
       "channel": "#lima",
@@ -1267,8 +4807,32 @@
       "description": "limburg"
     },
     {
+      "channel": "#lincolnshire",
+      "description": "lincolnshire"
+    },
+    {
+      "channel": "#linden",
+      "description": "linden"
+    },
+    {
+      "channel": "#lindlar",
+      "description": "lindlar"
+    },
+    {
       "channel": "#linux",
       "description": "linux"
+    },
+    {
+      "channel": "#linz",
+      "description": "linz"
+    },
+    {
+      "channel": "#lippstadt",
+      "description": "lippstadt"
+    },
+    {
+      "channel": "#liq61",
+      "description": "liq61"
     },
     {
       "channel": "#lisbon",
@@ -1279,8 +4843,44 @@
       "description": "lisse"
     },
     {
+      "channel": "#lisserbroek",
+      "description": "lisserbroek"
+    },
+    {
+      "channel": "#lk-stade",
+      "description": "lk-stade"
+    },
+    {
+      "channel": "#lkgr",
+      "description": "lkgr"
+    },
+    {
+      "channel": "#lkkg",
+      "description": "lkkg"
+    },
+    {
+      "channel": "#llm",
+      "description": "llm"
+    },
+    {
+      "channel": "#lo4life",
+      "description": "lo4life"
+    },
+    {
       "channel": "#local",
       "description": "local"
+    },
+    {
+      "channel": "#lochem",
+      "description": "lochem"
+    },
+    {
+      "channel": "#lodz",
+      "description": "lodz"
+    },
+    {
+      "channel": "#lodzkie",
+      "description": "lodzkie"
     },
     {
       "channel": "#lohmar",
@@ -1303,12 +4903,108 @@
       "description": "lora"
     },
     {
+      "channel": "#los",
+      "description": "los"
+    },
+    {
       "channel": "#losangeles",
       "description": "losangeles"
     },
     {
       "channel": "#lowestoft",
       "description": "lowestoft"
+    },
+    {
+      "channel": "#loz",
+      "description": "loz"
+    },
+    {
+      "channel": "#lp02",
+      "description": "lp02"
+    },
+    {
+      "channel": "#lsu",
+      "description": "lsu"
+    },
+    {
+      "channel": "#lsu-saints-talk",
+      "description": "lsu-saints-talk"
+    },
+    {
+      "channel": "#ludwigsburg",
+      "description": "ludwigsburg"
+    },
+    {
+      "channel": "#ludz",
+      "description": "ludz"
+    },
+    {
+      "channel": "#luebeck",
+      "description": "luebeck"
+    },
+    {
+      "channel": "#luedenscheid",
+      "description": "luedenscheid"
+    },
+    {
+      "channel": "#lueneburg",
+      "description": "lueneburg"
+    },
+    {
+      "channel": "#lux",
+      "description": "lux"
+    },
+    {
+      "channel": "#luxembourg",
+      "description": "luxembourg"
+    },
+    {
+      "channel": "#luzern",
+      "description": "luzern"
+    },
+    {
+      "channel": "#lv",
+      "description": "lv"
+    },
+    {
+      "channel": "#lwfm",
+      "description": "lwfm"
+    },
+    {
+      "channel": "#lykjk",
+      "description": "lykjk"
+    },
+    {
+      "channel": "#lyon",
+      "description": "lyon"
+    },
+    {
+      "channel": "#lysa",
+      "description": "lysa"
+    },
+    {
+      "channel": "#lzbot",
+      "description": "lzbot"
+    },
+    {
+      "channel": "#lzham",
+      "description": "lzham"
+    },
+    {
+      "channel": "#m4m",
+      "description": "m4m"
+    },
+    {
+      "channel": "#m7syr",
+      "description": "m7syr"
+    },
+    {
+      "channel": "#ma-hc",
+      "description": "ma-hc"
+    },
+    {
+      "channel": "#maasland",
+      "description": "maasland"
     },
     {
       "channel": "#maassluis",
@@ -1319,20 +5015,56 @@
       "description": "maastricht-hl"
     },
     {
+      "channel": "#mac",
+      "description": "mac"
+    },
+    {
+      "channel": "#macarthur",
+      "description": "macarthur"
+    },
+    {
+      "channel": "#madison",
+      "description": "madison"
+    },
+    {
       "channel": "#madrid",
       "description": "madrid"
+    },
+    {
+      "channel": "#magdeburg",
+      "description": "magdeburg"
+    },
+    {
+      "channel": "#mahlzeit",
+      "description": "mahlzeit"
+    },
+    {
+      "channel": "#maidstone",
+      "description": "maidstone"
     },
     {
       "channel": "#main",
       "description": "main"
     },
     {
+      "channel": "#mainz",
+      "description": "mainz"
+    },
+    {
       "channel": "#maker",
       "description": "maker"
     },
     {
+      "channel": "#makerfaire",
+      "description": "makerfaire"
+    },
+    {
       "channel": "#makers",
       "description": "makers"
+    },
+    {
+      "channel": "#makerspace",
+      "description": "makerspace"
     },
     {
       "channel": "#malaysia",
@@ -1351,8 +5083,44 @@
       "description": "manila"
     },
     {
+      "channel": "#mannheim",
+      "description": "mannheim"
+    },
+    {
+      "channel": "#manx",
+      "description": "manx"
+    },
+    {
+      "channel": "#mara",
+      "description": "mara"
+    },
+    {
+      "channel": "#marc",
+      "description": "marc"
+    },
+    {
+      "channel": "#mariahoeve",
+      "description": "mariahoeve"
+    },
+    {
       "channel": "#marin",
       "description": "marin"
+    },
+    {
+      "channel": "#marktplaats",
+      "description": "marktplaats"
+    },
+    {
+      "channel": "#marlo",
+      "description": "marlo"
+    },
+    {
+      "channel": "#marv",
+      "description": "marv"
+    },
+    {
+      "channel": "#maschen",
+      "description": "maschen"
     },
     {
       "channel": "#mastodon",
@@ -1363,6 +5131,34 @@
       "description": "maui"
     },
     {
+      "channel": "#maustag",
+      "description": "maustag"
+    },
+    {
+      "channel": "#mayday",
+      "description": "mayday"
+    },
+    {
+      "channel": "#mayes",
+      "description": "mayes"
+    },
+    {
+      "channel": "#mayo",
+      "description": "mayo"
+    },
+    {
+      "channel": "#maysmesh",
+      "description": "maysmesh"
+    },
+    {
+      "channel": "#mbot",
+      "description": "mbot"
+    },
+    {
+      "channel": "#mc",
+      "description": "mc"
+    },
+    {
       "channel": "#mc-radar",
       "description": "mc-radar"
     },
@@ -1371,12 +5167,60 @@
       "description": "mc-tisch"
     },
     {
+      "channel": "#mc-treffen",
+      "description": "mc-treffen"
+    },
+    {
+      "channel": "#mcb",
+      "description": "mcb"
+    },
+    {
+      "channel": "#mce",
+      "description": "mce"
+    },
+    {
+      "channel": "#mchf",
+      "description": "mchf"
+    },
+    {
+      "channel": "#mclite",
+      "description": "mclite"
+    },
+    {
+      "channel": "#mcmonday",
+      "description": "mcmonday"
+    },
+    {
       "channel": "#mcnl",
       "description": "mcnl"
     },
     {
+      "channel": "#mcradar",
+      "description": "mcradar"
+    },
+    {
+      "channel": "#mdcl",
+      "description": "mdcl"
+    },
+    {
+      "channel": "#me",
+      "description": "me"
+    },
+    {
+      "channel": "#meddy",
+      "description": "meddy"
+    },
+    {
+      "channel": "#medemblik",
+      "description": "medemblik"
+    },
+    {
       "channel": "#medianetwerk",
       "description": "medianetwerk"
+    },
+    {
+      "channel": "#medway",
+      "description": "medway"
     },
     {
       "channel": "#melbourne",
@@ -1387,6 +5231,10 @@
       "description": "memes"
     },
     {
+      "channel": "#menno",
+      "description": "menno"
+    },
+    {
       "channel": "#menzis",
       "description": "menzis"
     },
@@ -1395,12 +5243,96 @@
       "description": "meow"
     },
     {
+      "channel": "#meppel",
+      "description": "meppel"
+    },
+    {
+      "channel": "#meraluna",
+      "description": "meraluna"
+    },
+    {
+      "channel": "#meschede",
+      "description": "meschede"
+    },
+    {
       "channel": "#mesh",
       "description": "mesh"
     },
     {
+      "channel": "#mesh-ai",
+      "description": "mesh-ai"
+    },
+    {
+      "channel": "#mesh-chess",
+      "description": "mesh-chess"
+    },
+    {
+      "channel": "#meshai",
+      "description": "meshai"
+    },
+    {
+      "channel": "#meshbot",
+      "description": "meshbot"
+    },
+    {
+      "channel": "#meshbud",
+      "description": "meshbud"
+    },
+    {
+      "channel": "#meshcafe",
+      "description": "meshcafe"
+    },
+    {
       "channel": "#meshcore",
       "description": "meshcore"
+    },
+    {
+      "channel": "#meshcore-at",
+      "description": "meshcore-at"
+    },
+    {
+      "channel": "#meshcore-bot",
+      "description": "meshcore-bot"
+    },
+    {
+      "channel": "#meshcore-de",
+      "description": "meshcore-de"
+    },
+    {
+      "channel": "#meshcore-fr",
+      "description": "meshcore-fr"
+    },
+    {
+      "channel": "#meshcore-nl",
+      "description": "meshcore-nl"
+    },
+    {
+      "channel": "#meshcore-uk",
+      "description": "meshcore-uk"
+    },
+    {
+      "channel": "#meshcorebot",
+      "description": "meshcorebot"
+    },
+    {
+      "channel": "#meshcoremonday",
+      "description": "meshcoremonday"
+    },
+    {
+      "channel": "#meshcorenetz",
+      "description": "meshcorenetz"
+    },
+    {
+      "channel": "#meshcorepolska",
+      "description": "meshcorepolska"
+    },
+    {
+      "channel": "#meshgrappen",
+      "description": "meshgrappen"
+    },
+    {
+      "channel": "#meshmere",
+      "description": "meshmere"
     },
     {
       "channel": "#meshoe",
@@ -1411,8 +5343,32 @@
       "description": "meshtastic"
     },
     {
+      "channel": "#meshtechnik",
+      "description": "meshtechnik"
+    },
+    {
+      "channel": "#meteo",
+      "description": "meteo"
+    },
+    {
+      "channel": "#meteren",
+      "description": "meteren"
+    },
+    {
+      "channel": "#metoo",
+      "description": "metoo"
+    },
+    {
+      "channel": "#metz",
+      "description": "metz"
+    },
+    {
       "channel": "#mexico",
       "description": "mexico"
+    },
+    {
+      "channel": "#mhl",
+      "description": "mhl"
     },
     {
       "channel": "#miami",
@@ -1423,8 +5379,16 @@
       "description": "middelburg"
     },
     {
+      "channel": "#middendelfland",
+      "description": "middendelfland"
+    },
+    {
       "channel": "#midlands",
       "description": "midlands"
+    },
+    {
+      "channel": "#midt-norge",
+      "description": "midt-norge"
     },
     {
       "channel": "#midwest",
@@ -1435,16 +5399,48 @@
       "description": "mierlo"
     },
     {
+      "channel": "#mijngroep",
+      "description": "mijngroep"
+    },
+    {
+      "channel": "#mijnregio",
+      "description": "mijnregio"
+    },
+    {
+      "channel": "#mijnstad",
+      "description": "mijnstad"
+    },
+    {
       "channel": "#milan",
       "description": "milan"
+    },
+    {
+      "channel": "#miltonkeynes",
+      "description": "miltonkeynes"
     },
     {
       "channel": "#minneapolis",
       "description": "minneapolis"
     },
     {
+      "channel": "#mirc",
+      "description": "mirc"
+    },
+    {
+      "channel": "#miro",
+      "description": "miro"
+    },
+    {
       "channel": "#missing",
       "description": "missing"
+    },
+    {
+      "channel": "#mk",
+      "description": "mk"
+    },
+    {
+      "channel": "#mkk",
+      "description": "mkk"
     },
     {
       "channel": "#mnot",
@@ -1455,8 +5451,44 @@
       "description": "mod"
     },
     {
+      "channel": "#moers",
+      "description": "moers"
+    },
+    {
+      "channel": "#moin",
+      "description": "moin"
+    },
+    {
+      "channel": "#mol",
+      "description": "mol"
+    },
+    {
+      "channel": "#montags",
+      "description": "montags"
+    },
+    {
+      "channel": "#montereybay",
+      "description": "montereybay"
+    },
+    {
+      "channel": "#montfoort",
+      "description": "montfoort"
+    },
+    {
       "channel": "#montreal",
       "description": "montreal"
+    },
+    {
+      "channel": "#moscownews",
+      "description": "moscownews"
+    },
+    {
+      "channel": "#mosel",
+      "description": "mosel"
+    },
+    {
+      "channel": "#moto",
+      "description": "moto"
     },
     {
       "channel": "#motor",
@@ -1467,24 +5499,148 @@
       "description": "movies"
     },
     {
+      "channel": "#mow",
+      "description": "mow"
+    },
+    {
+      "channel": "#mrmcd",
+      "description": "mrmcd"
+    },
+    {
+      "channel": "#ms",
+      "description": "ms"
+    },
+    {
+      "channel": "#msc",
+      "description": "msc"
+    },
+    {
+      "channel": "#mu-praha",
+      "description": "mu-praha"
+    },
+    {
+      "channel": "#muc",
+      "description": "muc"
+    },
+    {
+      "channel": "#muelheim",
+      "description": "muelheim"
+    },
+    {
+      "channel": "#muenchen",
+      "description": "muenchen"
+    },
+    {
       "channel": "#muenster",
       "description": "muenster"
+    },
+    {
+      "channel": "#muensterland",
+      "description": "muensterland"
+    },
+    {
+      "channel": "#multibyte",
+      "description": "multibyte"
     },
     {
       "channel": "#mumbai",
       "description": "mumbai"
     },
     {
+      "channel": "#muni",
+      "description": "muni"
+    },
+    {
+      "channel": "#murrhardt",
+      "description": "murrhardt"
+    },
+    {
       "channel": "#music",
       "description": "music"
+    },
+    {
+      "channel": "#musik",
+      "description": "musik"
+    },
+    {
+      "channel": "#mv",
+      "description": "mv"
+    },
+    {
+      "channel": "#mvarc",
+      "description": "mvarc"
+    },
+    {
+      "channel": "#n0fks",
+      "description": "n0fks"
+    },
+    {
+      "channel": "#n16",
+      "description": "n16"
     },
     {
       "channel": "#n44",
       "description": "n44"
     },
     {
+      "channel": "#n61",
+      "description": "n61"
+    },
+    {
+      "channel": "#n9ozg",
+      "description": "n9ozg"
+    },
+    {
+      "channel": "#nachtcafe",
+      "description": "nachtcafe"
+    },
+    {
+      "channel": "#nad",
+      "description": "nad"
+    },
+    {
       "channel": "#nairobi",
       "description": "nairobi"
+    },
+    {
+      "channel": "#nancy",
+      "description": "nancy"
+    },
+    {
+      "channel": "#nantes",
+      "description": "nantes"
+    },
+    {
+      "channel": "#nasa",
+      "description": "nasa"
+    },
+    {
+      "channel": "#nashmesh",
+      "description": "nashmesh"
+    },
+    {
+      "channel": "#nato",
+      "description": "nato"
+    },
+    {
+      "channel": "#nbt",
+      "description": "nbt"
+    },
+    {
+      "channel": "#nc",
+      "description": "nc"
+    },
+    {
+      "channel": "#ndk",
+      "description": "ndk"
+    },
+    {
+      "channel": "#neandertaler",
+      "description": "neandertaler"
+    },
+    {
+      "channel": "#nec",
+      "description": "nec"
     },
     {
       "channel": "#nedap",
@@ -1499,16 +5655,48 @@
       "description": "nederlands"
     },
     {
+      "channel": "#neo",
+      "description": "neo"
+    },
+    {
       "channel": "#nerd",
       "description": "nerd"
+    },
+    {
+      "channel": "#nerg",
+      "description": "nerg"
+    },
+    {
+      "channel": "#net",
+      "description": "net"
     },
     {
       "channel": "#netherlands",
       "description": "netherlands"
     },
     {
+      "channel": "#netwerk",
+      "description": "netwerk"
+    },
+    {
+      "channel": "#netzstatus",
+      "description": "netzstatus"
+    },
+    {
+      "channel": "#neuss",
+      "description": "neuss"
+    },
+    {
       "channel": "#nevada",
       "description": "nevada"
+    },
+    {
+      "channel": "#newcastle",
+      "description": "newcastle"
+    },
+    {
+      "channel": "#newiebot2300",
+      "description": "newiebot2300"
     },
     {
       "channel": "#news",
@@ -1523,12 +5711,48 @@
       "description": "newzealand"
     },
     {
+      "channel": "#nfd",
+      "description": "nfd"
+    },
+    {
+      "channel": "#nga",
+      "description": "nga"
+    },
+    {
       "channel": "#nhn",
       "description": "nhn"
     },
     {
+      "channel": "#ni",
+      "description": "ni"
+    },
+    {
+      "channel": "#niederbayern",
+      "description": "niederbayern"
+    },
+    {
+      "channel": "#niederkassel",
+      "description": "niederkassel"
+    },
+    {
+      "channel": "#niederrhein",
+      "description": "niederrhein"
+    },
+    {
+      "channel": "#niedersachsen",
+      "description": "niedersachsen"
+    },
+    {
       "channel": "#niels",
       "description": "niels"
+    },
+    {
+      "channel": "#nieuw-vennep",
+      "description": "nieuw-vennep"
+    },
+    {
+      "channel": "#nieuwegein",
+      "description": "nieuwegein"
     },
     {
       "channel": "#nieuws",
@@ -1539,12 +5763,48 @@
       "description": "nigeria"
     },
     {
+      "channel": "#nightowls",
+      "description": "nightowls"
+    },
+    {
+      "channel": "#nijkerk",
+      "description": "nijkerk"
+    },
+    {
       "channel": "#nijmegen",
       "description": "nijmegen"
     },
     {
       "channel": "#nijverdal",
       "description": "nijverdal"
+    },
+    {
+      "channel": "#nilmc",
+      "description": "nilmc"
+    },
+    {
+      "channel": "#nimes",
+      "description": "nimes"
+    },
+    {
+      "channel": "#nina",
+      "description": "nina"
+    },
+    {
+      "channel": "#nis",
+      "description": "nis"
+    },
+    {
+      "channel": "#nitra",
+      "description": "nitra"
+    },
+    {
+      "channel": "#nixumesh",
+      "description": "nixumesh"
+    },
+    {
+      "channel": "#nky",
+      "description": "nky"
     },
     {
       "channel": "#nl",
@@ -1555,12 +5815,124 @@
       "description": "nl-alert"
     },
     {
+      "channel": "#nl-arn",
+      "description": "nl-arn"
+    },
+    {
+      "channel": "#nl-brd",
+      "description": "nl-brd"
+    },
+    {
+      "channel": "#nl-dev",
+      "description": "nl-dev"
+    },
+    {
+      "channel": "#nl-fl",
+      "description": "nl-fl"
+    },
+    {
+      "channel": "#nl-ge",
+      "description": "nl-ge"
+    },
+    {
+      "channel": "#nl-ge-ape",
+      "description": "nl-ge-ape"
+    },
+    {
+      "channel": "#nl-ge-vrs",
+      "description": "nl-ge-vrs"
+    },
+    {
       "channel": "#nl-gtb-bs",
       "description": "nl-gtb-bs"
     },
     {
+      "channel": "#nl-hag",
+      "description": "nl-hag"
+    },
+    {
+      "channel": "#nl-li",
+      "description": "nl-li"
+    },
+    {
+      "channel": "#nl-nb",
+      "description": "nl-nb"
+    },
+    {
+      "channel": "#nl-nh",
+      "description": "nl-nh"
+    },
+    {
+      "channel": "#nl-noord",
+      "description": "nl-noord"
+    },
+    {
+      "channel": "#nl-oost",
+      "description": "nl-oost"
+    },
+    {
+      "channel": "#nl-ov",
+      "description": "nl-ov"
+    },
+    {
+      "channel": "#nl-ov-dev",
+      "description": "nl-ov-dev"
+    },
+    {
+      "channel": "#nl-ov-vrz",
+      "description": "nl-ov-vrz"
+    },
+    {
       "channel": "#nl-prio",
       "description": "nl-prio"
+    },
+    {
+      "channel": "#nl-public",
+      "description": "nl-public"
+    },
+    {
+      "channel": "#nl-public-2",
+      "description": "nl-public-2"
+    },
+    {
+      "channel": "#nl-rtm",
+      "description": "nl-rtm"
+    },
+    {
+      "channel": "#nl-vr22",
+      "description": "nl-vr22"
+    },
+    {
+      "channel": "#nl-west",
+      "description": "nl-west"
+    },
+    {
+      "channel": "#nl-zh",
+      "description": "nl-zh"
+    },
+    {
+      "channel": "#nl-zh-lid",
+      "description": "nl-zh-lid"
+    },
+    {
+      "channel": "#nl-zuid",
+      "description": "nl-zuid"
+    },
+    {
+      "channel": "#nl1",
+      "description": "nl1"
+    },
+    {
+      "channel": "#nl2",
+      "description": "nl2"
+    },
+    {
+      "channel": "#nlnog",
+      "description": "nlnog"
+    },
+    {
+      "channel": "#nnmg",
+      "description": "nnmg"
     },
     {
       "channel": "#noc",
@@ -1571,16 +5943,60 @@
       "description": "nocal"
     },
     {
+      "channel": "#noct",
+      "description": "noct"
+    },
+    {
       "channel": "#node",
       "description": "node"
+    },
+    {
+      "channel": "#nodenet",
+      "description": "nodenet"
     },
     {
       "channel": "#nodes",
       "description": "nodes"
     },
     {
+      "channel": "#noe",
+      "description": "noe"
+    },
+    {
+      "channel": "#noginsk",
+      "description": "noginsk"
+    },
+    {
+      "channel": "#nok",
+      "description": "nok"
+    },
+    {
+      "channel": "#nol",
+      "description": "nol"
+    },
+    {
+      "channel": "#nom",
+      "description": "nom"
+    },
+    {
+      "channel": "#noobs",
+      "description": "noobs"
+    },
+    {
       "channel": "#noodkanaal",
       "description": "noodkanaal"
+    },
+    {
+      "channel": "#noord",
+      "description": "noord"
+    },
+    {
+      "channel": "#noord-holland",
+      "description": "noord-holland"
+    },
+    {
+      "channel": "#noord-limburg",
+      "description": "noord-limburg"
     },
     {
       "channel": "#noordbrabant",
@@ -1591,8 +6007,36 @@
       "description": "noordholland"
     },
     {
+      "channel": "#noordkop",
+      "description": "noordkop"
+    },
+    {
+      "channel": "#nootdorp",
+      "description": "nootdorp"
+    },
+    {
       "channel": "#norcal",
       "description": "norcal"
+    },
+    {
+      "channel": "#norddeutschland",
+      "description": "norddeutschland"
+    },
+    {
+      "channel": "#norderstedt",
+      "description": "norderstedt"
+    },
+    {
+      "channel": "#nordharz",
+      "description": "nordharz"
+    },
+    {
+      "channel": "#norf",
+      "description": "norf"
+    },
+    {
+      "channel": "#norniron",
+      "description": "norniron"
     },
     {
       "channel": "#northbay",
@@ -1603,6 +6047,10 @@
       "description": "northeast"
     },
     {
+      "channel": "#northwales",
+      "description": "northwales"
+    },
+    {
       "channel": "#northwest",
       "description": "northwest"
     },
@@ -1611,8 +6059,32 @@
       "description": "norway"
     },
     {
+      "channel": "#notfunk",
+      "description": "notfunk"
+    },
+    {
+      "channel": "#nottingham",
+      "description": "nottingham"
+    },
+    {
+      "channel": "#nouvelle-aquitaine",
+      "description": "nouvelle-aquitaine"
+    },
+    {
       "channel": "#nov",
       "description": "nov"
+    },
+    {
+      "channel": "#nova",
+      "description": "nova"
+    },
+    {
+      "channel": "#npn",
+      "description": "npn"
+    },
+    {
+      "channel": "#nrl",
+      "description": "nrl"
     },
     {
       "channel": "#nrw",
@@ -1625,6 +6097,42 @@
     {
       "channel": "#nsagov",
       "description": "nsagov"
+    },
+    {
+      "channel": "#nsfw",
+      "description": "nsfw"
+    },
+    {
+      "channel": "#nsk",
+      "description": "nsk"
+    },
+    {
+      "channel": "#nsw",
+      "description": "nsw"
+    },
+    {
+      "channel": "#nuenen",
+      "description": "nuenen"
+    },
+    {
+      "channel": "#nuernberg",
+      "description": "nuernberg"
+    },
+    {
+      "channel": "#nuertingen",
+      "description": "nuertingen"
+    },
+    {
+      "channel": "#null",
+      "description": "null"
+    },
+    {
+      "channel": "#nurds",
+      "description": "nurds"
+    },
+    {
+      "channel": "#nw",
+      "description": "nw"
     },
     {
       "channel": "#nyc",
@@ -1643,8 +6151,80 @@
       "description": "oakland"
     },
     {
+      "channel": "#oarc",
+      "description": "oarc"
+    },
+    {
+      "channel": "#obel",
+      "description": "obel"
+    },
+    {
+      "channel": "#oberbayern",
+      "description": "oberbayern"
+    },
+    {
+      "channel": "#oberberg",
+      "description": "oberberg"
+    },
+    {
+      "channel": "#oberfranken",
+      "description": "oberfranken"
+    },
+    {
+      "channel": "#oberhausen",
+      "description": "oberhausen"
+    },
+    {
+      "channel": "#obllx",
+      "description": "obllx"
+    },
+    {
+      "channel": "#obninsk",
+      "description": "obninsk"
+    },
+    {
+      "channel": "#ocra",
+      "description": "ocra"
+    },
+    {
       "channel": "#odido",
       "description": "odido"
+    },
+    {
+      "channel": "#odivelas",
+      "description": "odivelas"
+    },
+    {
+      "channel": "#odpad",
+      "description": "odpad"
+    },
+    {
+      "channel": "#oe8",
+      "description": "oe8"
+    },
+    {
+      "channel": "#oederan",
+      "description": "oederan"
+    },
+    {
+      "channel": "#oegstgeest",
+      "description": "oegstgeest"
+    },
+    {
+      "channel": "#oersoep",
+      "description": "oersoep"
+    },
+    {
+      "channel": "#oestjylland",
+      "description": "oestjylland"
+    },
+    {
+      "channel": "#offband",
+      "description": "offband"
+    },
+    {
+      "channel": "#offenburg",
+      "description": "offenburg"
     },
     {
       "channel": "#offgrid",
@@ -1655,16 +6235,96 @@
       "description": "offtopic"
     },
     {
+      "channel": "#ohiosports",
+      "description": "ohiosports"
+    },
+    {
+      "channel": "#oirschot",
+      "description": "oirschot"
+    },
+    {
+      "channel": "#oktoberfest",
+      "description": "oktoberfest"
+    },
+    {
+      "channel": "#olawa",
+      "description": "olawa"
+    },
+    {
+      "channel": "#oldeholtpade",
+      "description": "oldeholtpade"
+    },
+    {
+      "channel": "#olpe",
+      "description": "olpe"
+    },
+    {
+      "channel": "#olsztyn",
+      "description": "olsztyn"
+    },
+    {
+      "channel": "#olybot",
+      "description": "olybot"
+    },
+    {
+      "channel": "#olympia",
+      "description": "olympia"
+    },
+    {
+      "channel": "#on0vw",
+      "description": "on0vw"
+    },
+    {
       "channel": "#onmesh",
       "description": "onmesh"
+    },
+    {
+      "channel": "#ooe",
+      "description": "ooe"
+    },
+    {
+      "channel": "#oostende",
+      "description": "oostende"
+    },
+    {
+      "channel": "#oostzaan",
+      "description": "oostzaan"
+    },
+    {
+      "channel": "#openbaar",
+      "description": "openbaar"
+    },
+    {
+      "channel": "#openhouse",
+      "description": "openhouse"
+    },
+    {
+      "channel": "#opensource",
+      "description": "opensource"
+    },
+    {
+      "channel": "#opr",
+      "description": "opr"
     },
     {
       "channel": "#ops",
       "description": "ops"
     },
     {
+      "channel": "#oresund",
+      "description": "oresund"
+    },
+    {
+      "channel": "#orka",
+      "description": "orka"
+    },
+    {
       "channel": "#orlando",
       "description": "orlando"
+    },
+    {
+      "channel": "#ortenau",
+      "description": "ortenau"
     },
     {
       "channel": "#os3",
@@ -1675,60 +6335,240 @@
       "description": "oslo"
     },
     {
+      "channel": "#osnabrueck",
+      "description": "osnabrueck"
+    },
+    {
+      "channel": "#oss",
+      "description": "oss"
+    },
+    {
+      "channel": "#ost",
+      "description": "ost"
+    },
+    {
+      "channel": "#ostbelgien",
+      "description": "ostbelgien"
+    },
+    {
+      "channel": "#ostfriesland",
+      "description": "ostfriesland"
+    },
+    {
+      "channel": "#otp",
+      "description": "otp"
+    },
+    {
+      "channel": "#otter",
+      "description": "otter"
+    },
+    {
       "channel": "#ouderkerk",
       "description": "ouderkerk"
+    },
+    {
+      "channel": "#ourem",
+      "description": "ourem"
     },
     {
       "channel": "#outdoors",
       "description": "outdoors"
     },
     {
+      "channel": "#outofscope",
+      "description": "outofscope"
+    },
+    {
       "channel": "#ov",
       "description": "ov"
+    },
+    {
+      "channel": "#overath",
+      "description": "overath"
     },
     {
       "channel": "#overijssel",
       "description": "overijssel"
     },
     {
+      "channel": "#owen",
+      "description": "owen"
+    },
+    {
+      "channel": "#owl",
+      "description": "owl"
+    },
+    {
+      "channel": "#p",
+      "description": "p"
+    },
+    {
+      "channel": "#p09",
+      "description": "p09"
+    },
+    {
       "channel": "#p2000",
       "description": "p2000"
+    },
+    {
+      "channel": "#p2000-zl",
+      "description": "p2000-zl"
+    },
+    {
+      "channel": "#p53",
+      "description": "p53"
+    },
+    {
+      "channel": "#pa0ayx",
+      "description": "pa0ayx"
     },
     {
       "channel": "#pa3ang",
       "description": "pa3ang"
     },
     {
+      "channel": "#paca",
+      "description": "paca"
+    },
+    {
       "channel": "#pacnw",
       "description": "pacnw"
+    },
+    {
+      "channel": "#paderborn",
+      "description": "paderborn"
+    },
+    {
+      "channel": "#pamina",
+      "description": "pamina"
+    },
+    {
+      "channel": "#papa",
+      "description": "papa"
+    },
+    {
+      "channel": "#papasys",
+      "description": "papasys"
+    },
+    {
+      "channel": "#papendrecht",
+      "description": "papendrecht"
     },
     {
       "channel": "#paris",
       "description": "paris"
     },
     {
+      "channel": "#party",
+      "description": "party"
+    },
+    {
+      "channel": "#passau",
+      "description": "passau"
+    },
+    {
+      "channel": "#path",
+      "description": "path"
+    },
+    {
+      "channel": "#path2ramona",
+      "description": "path2ramona"
+    },
+    {
+      "channel": "#pau",
+      "description": "pau"
+    },
+    {
+      "channel": "#pbo",
+      "description": "pbo"
+    },
+    {
+      "channel": "#pce",
+      "description": "pce"
+    },
+    {
+      "channel": "#pcgc",
+      "description": "pcgc"
+    },
+    {
       "channel": "#pd0kmd",
       "description": "pd0kmd"
+    },
+    {
+      "channel": "#pd2v",
+      "description": "pd2v"
     },
     {
       "channel": "#pd7lj",
       "description": "pd7lj"
     },
     {
+      "channel": "#pdbmd",
+      "description": "pdbmd"
+    },
+    {
+      "channel": "#pds",
+      "description": "pds"
+    },
+    {
       "channel": "#pdx",
       "description": "pdx"
+    },
+    {
+      "channel": "#pdx-bot",
+      "description": "pdx-bot"
+    },
+    {
+      "channel": "#peace",
+      "description": "peace"
+    },
+    {
+      "channel": "#pecwx",
+      "description": "pecwx"
+    },
+    {
+      "channel": "#peep",
+      "description": "peep"
+    },
+    {
+      "channel": "#pegel",
+      "description": "pegel"
+    },
+    {
+      "channel": "#peine",
+      "description": "peine"
     },
     {
       "channel": "#peninsula",
       "description": "peninsula"
     },
     {
+      "channel": "#peo",
+      "description": "peo"
+    },
+    {
       "channel": "#peru",
       "description": "peru"
     },
     {
+      "channel": "#petrageil",
+      "description": "petrageil"
+    },
+    {
       "channel": "#pets",
       "description": "pets"
+    },
+    {
+      "channel": "#pfalz",
+      "description": "pfalz"
+    },
+    {
+      "channel": "#pforzheim",
+      "description": "pforzheim"
+    },
+    {
+      "channel": "#pg540",
+      "description": "pg540"
     },
     {
       "channel": "#philadelphia",
@@ -1747,6 +6587,10 @@
       "description": "phoenix"
     },
     {
+      "channel": "#pi1f",
+      "description": "pi1f"
+    },
+    {
       "channel": "#pi2dev",
       "description": "pi2dev"
     },
@@ -1757,6 +6601,10 @@
     {
       "channel": "#pi4cc",
       "description": "pi4cc"
+    },
+    {
+      "channel": "#pi4fld",
+      "description": "pi4fld"
     },
     {
       "channel": "#pi4hm",
@@ -1775,8 +6623,24 @@
       "description": "pi6mep"
     },
     {
+      "channel": "#picobello",
+      "description": "picobello"
+    },
+    {
+      "channel": "#pierce",
+      "description": "pierce"
+    },
+    {
       "channel": "#ping",
       "description": "ping"
+    },
+    {
+      "channel": "#ping-bw",
+      "description": "ping-bw"
+    },
+    {
+      "channel": "#ping-pong",
+      "description": "ping-pong"
     },
     {
       "channel": "#pingbot",
@@ -1787,28 +6651,172 @@
       "description": "pingpong"
     },
     {
+      "channel": "#pinneberg",
+      "description": "pinneberg"
+    },
+    {
+      "channel": "#pkp",
+      "description": "pkp"
+    },
+    {
+      "channel": "#pl",
+      "description": "pl"
+    },
+    {
+      "channel": "#pl-ds",
+      "description": "pl-ds"
+    },
+    {
+      "channel": "#plano333",
+      "description": "plano333"
+    },
+    {
+      "channel": "#plovdiv",
+      "description": "plovdiv"
+    },
+    {
+      "channel": "#plovdivbot",
+      "description": "plovdivbot"
+    },
+    {
+      "channel": "#plq",
+      "description": "plq"
+    },
+    {
+      "channel": "#pltn",
+      "description": "pltn"
+    },
+    {
+      "channel": "#plzen",
+      "description": "plzen"
+    },
+    {
+      "channel": "#pm",
+      "description": "pm"
+    },
+    {
+      "channel": "#pmd-bot",
+      "description": "pmd-bot"
+    },
+    {
+      "channel": "#pmr446",
+      "description": "pmr446"
+    },
+    {
+      "channel": "#pnf",
+      "description": "pnf"
+    },
+    {
       "channel": "#pnw",
       "description": "pnw"
+    },
+    {
+      "channel": "#pnwd",
+      "description": "pnwd"
+    },
+    {
+      "channel": "#pocrg",
+      "description": "pocrg"
+    },
+    {
+      "channel": "#pokemon",
+      "description": "pokemon"
     },
     {
       "channel": "#poland",
       "description": "poland"
     },
     {
+      "channel": "#polderprikker",
+      "description": "polderprikker"
+    },
+    {
+      "channel": "#politics",
+      "description": "politics"
+    },
+    {
       "channel": "#politie",
       "description": "politie"
+    },
+    {
+      "channel": "#politik",
+      "description": "politik"
+    },
+    {
+      "channel": "#polska",
+      "description": "polska"
+    },
+    {
+      "channel": "#pong",
+      "description": "pong"
+    },
+    {
+      "channel": "#porn",
+      "description": "porn"
+    },
+    {
+      "channel": "#portcamargue",
+      "description": "portcamargue"
     },
     {
       "channel": "#portland",
       "description": "portland"
     },
     {
+      "channel": "#porto",
+      "description": "porto"
+    },
+    {
       "channel": "#portugal",
       "description": "portugal"
     },
     {
+      "channel": "#porz",
+      "description": "porz"
+    },
+    {
+      "channel": "#pota",
+      "description": "pota"
+    },
+    {
+      "channel": "#potato",
+      "description": "potato"
+    },
+    {
+      "channel": "#pouet",
+      "description": "pouet"
+    },
+    {
+      "channel": "#poz",
+      "description": "poz"
+    },
+    {
+      "channel": "#pp",
+      "description": "pp"
+    },
+    {
+      "channel": "#ppd",
+      "description": "ppd"
+    },
+    {
+      "channel": "#ppke",
+      "description": "ppke"
+    },
+    {
+      "channel": "#pr0n",
+      "description": "pr0n"
+    },
+    {
+      "channel": "#pra",
+      "description": "pra"
+    },
+    {
       "channel": "#prague",
       "description": "prague"
+    },
+    {
+      "channel": "#praha",
+      "description": "praha"
     },
     {
       "channel": "#prepper",
@@ -1819,8 +6827,28 @@
       "description": "preppers"
     },
     {
+      "channel": "#prepping",
+      "description": "prepping"
+    },
+    {
+      "channel": "#preset-test",
+      "description": "preset-test"
+    },
+    {
       "channel": "#pride",
       "description": "pride"
+    },
+    {
+      "channel": "#prikbord",
+      "description": "prikbord"
+    },
+    {
+      "channel": "#prikbord-overijssel",
+      "description": "prikbord-overijssel"
+    },
+    {
+      "channel": "#prikbord-vriezenveen",
+      "description": "prikbord-vriezenveen"
     },
     {
       "channel": "#primary",
@@ -1831,12 +6859,28 @@
       "description": "prime"
     },
     {
+      "channel": "#privat",
+      "description": "privat"
+    },
+    {
       "channel": "#private",
       "description": "private"
     },
     {
+      "channel": "#prive",
+      "description": "prive"
+    },
+    {
+      "channel": "#privetestkanaal",
+      "description": "privetestkanaal"
+    },
+    {
       "channel": "#programming",
       "description": "programming"
+    },
+    {
+      "channel": "#prove",
+      "description": "prove"
     },
     {
       "channel": "#prut",
@@ -1847,6 +6891,22 @@
       "description": "prutser"
     },
     {
+      "channel": "#prvavp",
+      "description": "prvavp"
+    },
+    {
+      "channel": "#psj",
+      "description": "psj"
+    },
+    {
+      "channel": "#psrg",
+      "description": "psrg"
+    },
+    {
+      "channel": "#pt",
+      "description": "pt"
+    },
+    {
       "channel": "#public",
       "description": "public"
     },
@@ -1855,8 +6915,44 @@
       "description": "publiek"
     },
     {
+      "channel": "#publik",
+      "description": "publik"
+    },
+    {
+      "channel": "#pukkelpop",
+      "description": "pukkelpop"
+    },
+    {
+      "channel": "#pulawy",
+      "description": "pulawy"
+    },
+    {
+      "channel": "#purmerend",
+      "description": "purmerend"
+    },
+    {
       "channel": "#putyourspamhere",
       "description": "putyourspamhere"
+    },
+    {
+      "channel": "#puz",
+      "description": "puz"
+    },
+    {
+      "channel": "#pwl",
+      "description": "pwl"
+    },
+    {
+      "channel": "#q03",
+      "description": "q03"
+    },
+    {
+      "channel": "#ql9y3f",
+      "description": "ql9y3f"
+    },
+    {
+      "channel": "#qrv",
+      "description": "qrv"
     },
     {
       "channel": "#queens",
@@ -1865,6 +6961,14 @@
     {
       "channel": "#queer",
       "description": "queer"
+    },
+    {
+      "channel": "#r-200",
+      "description": "r-200"
+    },
+    {
+      "channel": "#ra",
+      "description": "ra"
     },
     {
       "channel": "#raalte",
@@ -1883,16 +6987,92 @@
       "description": "radio-zend-amateurs"
     },
     {
+      "channel": "#radioxford",
+      "description": "radioxford"
+    },
+    {
+      "channel": "#radsr",
+      "description": "radsr"
+    },
+    {
+      "channel": "#ramada",
+      "description": "ramada"
+    },
+    {
       "channel": "#random",
       "description": "random"
+    },
+    {
+      "channel": "#randstad",
+      "description": "randstad"
+    },
+    {
+      "channel": "#ranz",
+      "description": "ranz"
     },
     {
       "channel": "#raspberry",
       "description": "raspberry"
     },
     {
+      "channel": "#rave",
+      "description": "rave"
+    },
+    {
+      "channel": "#raves",
+      "description": "raves"
+    },
+    {
+      "channel": "#rbit",
+      "description": "rbit"
+    },
+    {
+      "channel": "#rbk",
+      "description": "rbk"
+    },
+    {
+      "channel": "#rc",
+      "description": "rc"
+    },
+    {
+      "channel": "#rdu",
+      "description": "rdu"
+    },
+    {
       "channel": "#reading",
       "description": "reading"
+    },
+    {
+      "channel": "#redditch-hams",
+      "description": "redditch-hams"
+    },
+    {
+      "channel": "#redenen",
+      "description": "redenen"
+    },
+    {
+      "channel": "#rees",
+      "description": "rees"
+    },
+    {
+      "channel": "#refo",
+      "description": "refo"
+    },
+    {
+      "channel": "#reg-test",
+      "description": "reg-test"
+    },
+    {
+      "channel": "#region-muc",
+      "description": "region-muc"
+    },
+    {
+      "channel": "#regions",
+      "description": "regions"
+    },
+    {
+      "channel": "#rein",
+      "description": "rein"
     },
     {
       "channel": "#remoteterm",
@@ -1903,8 +7083,20 @@
       "description": "renkum"
     },
     {
+      "channel": "#rennsteig",
+      "description": "rennsteig"
+    },
+    {
+      "channel": "#repeat",
+      "description": "repeat"
+    },
+    {
       "channel": "#repeater",
       "description": "repeater"
+    },
+    {
+      "channel": "#repeater-testing",
+      "description": "repeater-testing"
     },
     {
       "channel": "#repeaters",
@@ -1915,16 +7107,140 @@
       "description": "rescue"
     },
     {
+      "channel": "#resko",
+      "description": "resko"
+    },
+    {
+      "channel": "#reticulum",
+      "description": "reticulum"
+    },
+    {
       "channel": "#retie",
       "description": "retie"
+    },
+    {
+      "channel": "#retrochat",
+      "description": "retrochat"
+    },
+    {
+      "channel": "#reutlingen",
+      "description": "reutlingen"
+    },
+    {
+      "channel": "#rezza",
+      "description": "rezza"
+    },
+    {
+      "channel": "#rfdx",
+      "description": "rfdx"
+    },
+    {
+      "channel": "#rfu",
+      "description": "rfu"
+    },
+    {
+      "channel": "#rhein-erft-kreis",
+      "description": "rhein-erft-kreis"
+    },
+    {
+      "channel": "#rhein-main",
+      "description": "rhein-main"
+    },
+    {
+      "channel": "#rhein-neckar",
+      "description": "rhein-neckar"
+    },
+    {
+      "channel": "#rheinberg",
+      "description": "rheinberg"
+    },
+    {
+      "channel": "#rheinhessen",
+      "description": "rheinhessen"
     },
     {
       "channel": "#rheinland",
       "description": "rheinland"
     },
     {
+      "channel": "#rhoen",
+      "description": "rhoen"
+    },
+    {
       "channel": "#rijnmond",
       "description": "rijnmond"
+    },
+    {
+      "channel": "#riotfest",
+      "description": "riotfest"
+    },
+    {
+      "channel": "#rkn",
+      "description": "rkn"
+    },
+    {
+      "channel": "#rkw",
+      "description": "rkw"
+    },
+    {
+      "channel": "#rlp",
+      "description": "rlp"
+    },
+    {
+      "channel": "#rmk",
+      "description": "rmk"
+    },
+    {
+      "channel": "#rns",
+      "description": "rns"
+    },
+    {
+      "channel": "#ro",
+      "description": "ro"
+    },
+    {
+      "channel": "#ro-if",
+      "description": "ro-if"
+    },
+    {
+      "channel": "#roanokeva",
+      "description": "roanokeva"
+    },
+    {
+      "channel": "#robot",
+      "description": "robot"
+    },
+    {
+      "channel": "#roc",
+      "description": "roc"
+    },
+    {
+      "channel": "#rochdale",
+      "description": "rochdale"
+    },
+    {
+      "channel": "#rochester",
+      "description": "rochester"
+    },
+    {
+      "channel": "#rockanje",
+      "description": "rockanje"
+    },
+    {
+      "channel": "#roe",
+      "description": "roe"
+    },
+    {
+      "channel": "#romandie",
+      "description": "romandie"
+    },
+    {
+      "channel": "#romania",
+      "description": "romania"
+    },
+    {
+      "channel": "#romd",
+      "description": "romd"
     },
     {
       "channel": "#rome",
@@ -1935,8 +7251,56 @@
       "description": "rosenheim"
     },
     {
+      "channel": "#rosmalen",
+      "description": "rosmalen"
+    },
+    {
+      "channel": "#rossendale",
+      "description": "rossendale"
+    },
+    {
+      "channel": "#rotest",
+      "description": "rotest"
+    },
+    {
       "channel": "#rotterdam",
       "description": "rotterdam"
+    },
+    {
+      "channel": "#rozenburg",
+      "description": "rozenburg"
+    },
+    {
+      "channel": "#rpadmins",
+      "description": "rpadmins"
+    },
+    {
+      "channel": "#rr05",
+      "description": "rr05"
+    },
+    {
+      "channel": "#rrp",
+      "description": "rrp"
+    },
+    {
+      "channel": "#rrtest",
+      "description": "rrtest"
+    },
+    {
+      "channel": "#rsk",
+      "description": "rsk"
+    },
+    {
+      "channel": "#rt",
+      "description": "rt"
+    },
+    {
+      "channel": "#rtl",
+      "description": "rtl"
+    },
+    {
+      "channel": "#rtl2",
+      "description": "rtl2"
     },
     {
       "channel": "#rtm",
@@ -1947,12 +7311,88 @@
       "description": "ruche"
     },
     {
+      "channel": "#rude",
+      "description": "rude"
+    },
+    {
+      "channel": "#ruhrgebiet",
+      "description": "ruhrgebiet"
+    },
+    {
+      "channel": "#ruse",
+      "description": "ruse"
+    },
+    {
+      "channel": "#russian",
+      "description": "russian"
+    },
+    {
+      "channel": "#rutesheim",
+      "description": "rutesheim"
+    },
+    {
+      "channel": "#rwe",
+      "description": "rwe"
+    },
+    {
+      "channel": "#rye",
+      "description": "rye"
+    },
+    {
+      "channel": "#ryptsjerk",
+      "description": "ryptsjerk"
+    },
+    {
+      "channel": "#rzb",
+      "description": "rzb"
+    },
+    {
+      "channel": "#s-hertogenbosch",
+      "description": "s-hertogenbosch"
+    },
+    {
+      "channel": "#s05",
+      "description": "s05"
+    },
+    {
       "channel": "#s62",
       "description": "s62"
     },
     {
+      "channel": "#sa",
+      "description": "sa"
+    },
+    {
+      "channel": "#saar",
+      "description": "saar"
+    },
+    {
+      "channel": "#saarland",
+      "description": "saarland"
+    },
+    {
+      "channel": "#saarlorlux",
+      "description": "saarlorlux"
+    },
+    {
+      "channel": "#sabot",
+      "description": "sabot"
+    },
+    {
       "channel": "#sacramento",
       "description": "sacramento"
+    },
+    {
+      "channel": "#sage",
+      "description": "sage"
+    },
+    {
+      "channel": "#salem",
+      "description": "salem"
+    },
+    {
+      "channel": "#salland",
+      "description": "salland"
     },
     {
       "channel": "#sandiego",
@@ -1967,16 +7407,96 @@
       "description": "santiago"
     },
     {
+      "channel": "#sar",
+      "description": "sar"
+    },
+    {
+      "channel": "#sas2j",
+      "description": "sas2j"
+    },
+    {
+      "channel": "#sauerland",
+      "description": "sauerland"
+    },
+    {
+      "channel": "#sbh",
+      "description": "sbh"
+    },
+    {
+      "channel": "#schach",
+      "description": "schach"
+    },
+    {
       "channel": "#schagen",
       "description": "schagen"
+    },
+    {
+      "channel": "#schipluiden",
+      "description": "schipluiden"
+    },
+    {
+      "channel": "#schoeppenstedt",
+      "description": "schoeppenstedt"
+    },
+    {
+      "channel": "#schwaebischhall",
+      "description": "schwaebischhall"
+    },
+    {
+      "channel": "#schwanewede",
+      "description": "schwanewede"
+    },
+    {
+      "channel": "#schwurbel",
+      "description": "schwurbel"
+    },
+    {
+      "channel": "#scmesh",
+      "description": "scmesh"
+    },
+    {
+      "channel": "#sco",
+      "description": "sco"
+    },
+    {
+      "channel": "#scope",
+      "description": "scope"
     },
     {
       "channel": "#scotland",
       "description": "scotland"
     },
     {
+      "channel": "#scout",
+      "description": "scout"
+    },
+    {
       "channel": "#scouting",
       "description": "scouting"
+    },
+    {
+      "channel": "#sda",
+      "description": "sda"
+    },
+    {
+      "channel": "#se-wa",
+      "description": "se-wa"
+    },
+    {
+      "channel": "#se13",
+      "description": "se13"
+    },
+    {
+      "channel": "#sea",
+      "description": "sea"
+    },
+    {
+      "channel": "#seabikes",
+      "description": "seabikes"
+    },
+    {
+      "channel": "#seahawks",
+      "description": "seahawks"
     },
     {
       "channel": "#seattle",
@@ -1995,6 +7515,26 @@
       "description": "security"
     },
     {
+      "channel": "#seetal1ag1lu",
+      "description": "seetal1ag1lu"
+    },
+    {
+      "channel": "#seevetal",
+      "description": "seevetal"
+    },
+    {
+      "channel": "#seinhorst",
+      "description": "seinhorst"
+    },
+    {
+      "channel": "#seks",
+      "description": "seks"
+    },
+    {
+      "channel": "#selb",
+      "description": "selb"
+    },
+    {
       "channel": "#sensemakers",
       "description": "sensemakers"
     },
@@ -2003,8 +7543,24 @@
       "description": "seoul"
     },
     {
+      "channel": "#serbia",
+      "description": "serbia"
+    },
+    {
       "channel": "#server",
       "description": "server"
+    },
+    {
+      "channel": "#setubal",
+      "description": "setubal"
+    },
+    {
+      "channel": "#severin",
+      "description": "severin"
+    },
+    {
+      "channel": "#sex",
+      "description": "sex"
     },
     {
       "channel": "#sf",
@@ -2019,12 +7575,76 @@
       "description": "sfo"
     },
     {
+      "channel": "#sfsacbridge",
+      "description": "sfsacbridge"
+    },
+    {
+      "channel": "#sfv",
+      "description": "sfv"
+    },
+    {
+      "channel": "#sge",
+      "description": "sge"
+    },
+    {
+      "channel": "#sh",
+      "description": "sh"
+    },
+    {
+      "channel": "#shd",
+      "description": "shd"
+    },
+    {
+      "channel": "#sheffield",
+      "description": "sheffield"
+    },
+    {
       "channel": "#shelter",
       "description": "shelter"
     },
     {
+      "channel": "#shepparton",
+      "description": "shepparton"
+    },
+    {
+      "channel": "#shit",
+      "description": "shit"
+    },
+    {
+      "channel": "#shk",
+      "description": "shk"
+    },
+    {
+      "channel": "#shrek",
+      "description": "shrek"
+    },
+    {
       "channel": "#shtf",
       "description": "shtf"
+    },
+    {
+      "channel": "#si",
+      "description": "si"
+    },
+    {
+      "channel": "#si-test",
+      "description": "si-test"
+    },
+    {
+      "channel": "#siebengebirge",
+      "description": "siebengebirge"
+    },
+    {
+      "channel": "#siegburg",
+      "description": "siegburg"
+    },
+    {
+      "channel": "#siegen",
+      "description": "siegen"
+    },
+    {
+      "channel": "#silence",
+      "description": "silence"
     },
     {
       "channel": "#singapore",
@@ -2035,20 +7655,104 @@
       "description": "sion"
     },
     {
+      "channel": "#sirg",
+      "description": "sirg"
+    },
+    {
+      "channel": "#siscd",
+      "description": "siscd"
+    },
+    {
+      "channel": "#skanderborg",
+      "description": "skanderborg"
+    },
+    {
+      "channel": "#skane",
+      "description": "skane"
+    },
+    {
+      "channel": "#sky",
+      "description": "sky"
+    },
+    {
       "channel": "#skywarn",
       "description": "skywarn"
+    },
+    {
+      "channel": "#slash",
+      "description": "slash"
+    },
+    {
+      "channel": "#slask",
+      "description": "slask"
+    },
+    {
+      "channel": "#sliedrecht",
+      "description": "sliedrecht"
+    },
+    {
+      "channel": "#slo",
+      "description": "slo"
+    },
+    {
+      "channel": "#slovakia",
+      "description": "slovakia"
+    },
+    {
+      "channel": "#slovenija",
+      "description": "slovenija"
+    },
+    {
+      "channel": "#sn",
+      "description": "sn"
+    },
+    {
+      "channel": "#sncf",
+      "description": "sncf"
+    },
+    {
+      "channel": "#snoco",
+      "description": "snoco"
+    },
+    {
+      "channel": "#snohomesh",
+      "description": "snohomesh"
     },
     {
       "channel": "#socal",
       "description": "socal"
     },
     {
+      "channel": "#socalalert",
+      "description": "socalalert"
+    },
+    {
       "channel": "#socalmesh",
       "description": "socalmesh"
     },
     {
+      "channel": "#socalsota",
+      "description": "socalsota"
+    },
+    {
       "channel": "#soest",
       "description": "soest"
+    },
+    {
+      "channel": "#soesterberg",
+      "description": "soesterberg"
+    },
+    {
+      "channel": "#sofia",
+      "description": "sofia"
+    },
+    {
+      "channel": "#sok",
+      "description": "sok"
+    },
+    {
+      "channel": "#solar",
+      "description": "solar"
     },
     {
       "channel": "#solent",
@@ -2059,8 +7763,28 @@
       "description": "somerset"
     },
     {
+      "channel": "#somerset-swsw",
+      "description": "somerset-swsw"
+    },
+    {
+      "channel": "#sondy",
+      "description": "sondy"
+    },
+    {
+      "channel": "#sop",
+      "description": "sop"
+    },
+    {
       "channel": "#sos",
       "description": "sos"
+    },
+    {
+      "channel": "#sota",
+      "description": "sota"
+    },
+    {
+      "channel": "#sounders",
+      "description": "sounders"
     },
     {
       "channel": "#southafrica",
@@ -2071,6 +7795,10 @@
       "description": "southbay"
     },
     {
+      "channel": "#southcoast",
+      "description": "southcoast"
+    },
+    {
       "channel": "#southeast",
       "description": "southeast"
     },
@@ -2079,8 +7807,32 @@
       "description": "southwest"
     },
     {
+      "channel": "#sp3",
+      "description": "sp3"
+    },
+    {
+      "channel": "#space",
+      "description": "space"
+    },
+    {
+      "channel": "#spacex",
+      "description": "spacex"
+    },
+    {
       "channel": "#spain",
       "description": "spain"
+    },
+    {
+      "channel": "#spam",
+      "description": "spam"
+    },
+    {
+      "channel": "#spijkenisse",
+      "description": "spijkenisse"
+    },
+    {
+      "channel": "#spinne",
+      "description": "spinne"
     },
     {
       "channel": "#spire",
@@ -2091,20 +7843,108 @@
       "description": "spoileralert"
     },
     {
+      "channel": "#sport",
+      "description": "sport"
+    },
+    {
       "channel": "#sports",
       "description": "sports"
+    },
+    {
+      "channel": "#sportscores",
+      "description": "sportscores"
+    },
+    {
+      "channel": "#spravy",
+      "description": "spravy"
+    },
+    {
+      "channel": "#sq",
+      "description": "sq"
+    },
+    {
+      "channel": "#sq3tm",
+      "description": "sq3tm"
+    },
+    {
+      "channel": "#sr",
+      "description": "sr"
+    },
+    {
+      "channel": "#srarc",
+      "description": "srarc"
+    },
+    {
+      "channel": "#srbija",
+      "description": "srbija"
+    },
+    {
+      "channel": "#ssi",
+      "description": "ssi"
+    },
+    {
+      "channel": "#st",
+      "description": "st"
+    },
+    {
+      "channel": "#sta",
+      "description": "sta"
     },
     {
       "channel": "#stad",
       "description": "stad"
     },
     {
+      "channel": "#stadskanaal",
+      "description": "stadskanaal"
+    },
+    {
+      "channel": "#starcraft",
+      "description": "starcraft"
+    },
+    {
+      "channel": "#starcross",
+      "description": "starcross"
+    },
+    {
+      "channel": "#stats",
+      "description": "stats"
+    },
+    {
+      "channel": "#stedendriehoek",
+      "description": "stedendriehoek"
+    },
+    {
+      "channel": "#steenwijk",
+      "description": "steenwijk"
+    },
+    {
       "channel": "#steffan",
       "description": "steffan"
     },
     {
+      "channel": "#stiens",
+      "description": "stiens"
+    },
+    {
+      "channel": "#stk",
+      "description": "stk"
+    },
+    {
       "channel": "#stlouis",
       "description": "stlouis"
+    },
+    {
+      "channel": "#stm",
+      "description": "stm"
+    },
+    {
+      "channel": "#stmk",
+      "description": "stmk"
+    },
+    {
+      "channel": "#stneots",
+      "description": "stneots"
     },
     {
       "channel": "#stockholm",
@@ -2115,32 +7955,136 @@
       "description": "storm"
     },
     {
+      "channel": "#stuttgart",
+      "description": "stuttgart"
+    },
+    {
+      "channel": "#stw",
+      "description": "stw"
+    },
+    {
+      "channel": "#styrum",
+      "description": "styrum"
+    },
+    {
+      "channel": "#suedbaden",
+      "description": "suedbaden"
+    },
+    {
       "channel": "#suffolk",
       "description": "suffolk"
+    },
+    {
+      "channel": "#suisse",
+      "description": "suisse"
+    },
+    {
+      "channel": "#suisse-romande",
+      "description": "suisse-romande"
+    },
+    {
+      "channel": "#sumas",
+      "description": "sumas"
+    },
+    {
+      "channel": "#sun",
+      "description": "sun"
     },
     {
       "channel": "#sup",
       "description": "sup"
     },
     {
+      "channel": "#surrey",
+      "description": "surrey"
+    },
+    {
       "channel": "#survival",
       "description": "survival"
+    },
+    {
+      "channel": "#sussex",
+      "description": "sussex"
     },
     {
       "channel": "#sux35",
       "description": "sux35"
     },
     {
+      "channel": "#svao",
+      "description": "svao"
+    },
+    {
+      "channel": "#sverige",
+      "description": "sverige"
+    },
+    {
       "channel": "#sweden",
       "description": "sweden"
+    },
+    {
+      "channel": "#swindon",
+      "description": "swindon"
     },
     {
       "channel": "#switzerland",
       "description": "switzerland"
     },
     {
+      "channel": "#swk",
+      "description": "swk"
+    },
+    {
+      "channel": "#swsw",
+      "description": "swsw"
+    },
+    {
+      "channel": "#swva",
+      "description": "swva"
+    },
+    {
       "channel": "#sydney",
       "description": "sydney"
+    },
+    {
+      "channel": "#szao",
+      "description": "szao"
+    },
+    {
+      "channel": "#szer",
+      "description": "szer"
+    },
+    {
+      "channel": "#t",
+      "description": "t"
+    },
+    {
+      "channel": "#t123",
+      "description": "t123"
+    },
+    {
+      "channel": "#t13",
+      "description": "t13"
+    },
+    {
+      "channel": "#t7pl8h",
+      "description": "t7pl8h"
+    },
+    {
+      "channel": "#t8r3j",
+      "description": "t8r3j"
+    },
+    {
+      "channel": "#tacobot",
+      "description": "tacobot"
+    },
+    {
+      "channel": "#tacoma",
+      "description": "tacoma"
+    },
+    {
+      "channel": "#tagteam",
+      "description": "tagteam"
     },
     {
       "channel": "#taipei",
@@ -2155,8 +8099,68 @@
       "description": "tampa"
     },
     {
+      "channel": "#tartu",
+      "description": "tartu"
+    },
+    {
+      "channel": "#taubertal",
+      "description": "taubertal"
+    },
+    {
+      "channel": "#taucha",
+      "description": "taucha"
+    },
+    {
+      "channel": "#taunus",
+      "description": "taunus"
+    },
+    {
+      "channel": "#tbarc",
+      "description": "tbarc"
+    },
+    {
+      "channel": "#tcp",
+      "description": "tcp"
+    },
+    {
+      "channel": "#tcpbridge",
+      "description": "tcpbridge"
+    },
+    {
+      "channel": "#tdf",
+      "description": "tdf"
+    },
+    {
+      "channel": "#team",
+      "description": "team"
+    },
+    {
       "channel": "#tech",
       "description": "tech"
+    },
+    {
+      "channel": "#technic",
+      "description": "technic"
+    },
+    {
+      "channel": "#techniek",
+      "description": "techniek"
+    },
+    {
+      "channel": "#technique",
+      "description": "technique"
+    },
+    {
+      "channel": "#tedl8",
+      "description": "tedl8"
+    },
+    {
+      "channel": "#tenntalk",
+      "description": "tenntalk"
+    },
+    {
+      "channel": "#teplotaveskleniku",
+      "description": "teplotaveskleniku"
     },
     {
       "channel": "#terschelling",
@@ -2171,12 +8175,80 @@
       "description": "test"
     },
     {
+      "channel": "#test-1",
+      "description": "test-1"
+    },
+    {
+      "channel": "#test-bfc",
+      "description": "test-bfc"
+    },
+    {
+      "channel": "#test-bw",
+      "description": "test-bw"
+    },
+    {
+      "channel": "#test2",
+      "description": "test2"
+    },
+    {
+      "channel": "#test4",
+      "description": "test4"
+    },
+    {
+      "channel": "#test7",
+      "description": "test7"
+    },
+    {
+      "channel": "#testbfc",
+      "description": "testbfc"
+    },
+    {
+      "channel": "#teste",
+      "description": "teste"
+    },
+    {
+      "channel": "#testes",
+      "description": "testes"
+    },
+    {
+      "channel": "#testi",
+      "description": "testi"
+    },
+    {
       "channel": "#testing",
       "description": "testing"
     },
     {
+      "channel": "#testkanal",
+      "description": "testkanal"
+    },
+    {
       "channel": "#testn",
       "description": "testn"
+    },
+    {
+      "channel": "#testnoord",
+      "description": "testnoord"
+    },
+    {
+      "channel": "#testrc",
+      "description": "testrc"
+    },
+    {
+      "channel": "#tests",
+      "description": "tests"
+    },
+    {
+      "channel": "#testtest",
+      "description": "testtest"
+    },
+    {
+      "channel": "#teszt",
+      "description": "teszt"
+    },
+    {
+      "channel": "#teufelsberg",
+      "description": "teufelsberg"
     },
     {
       "channel": "#texas",
@@ -2187,8 +8259,52 @@
       "description": "texel"
     },
     {
+      "channel": "#tfc",
+      "description": "tfc"
+    },
+    {
+      "channel": "#tfs",
+      "description": "tfs"
+    },
+    {
+      "channel": "#th",
+      "description": "th"
+    },
+    {
       "channel": "#thailand",
       "description": "thailand"
+    },
+    {
+      "channel": "#thb",
+      "description": "thb"
+    },
+    {
+      "channel": "#thegoodplace",
+      "description": "thegoodplace"
+    },
+    {
+      "channel": "#thenorf",
+      "description": "thenorf"
+    },
+    {
+      "channel": "#thijs",
+      "description": "thijs"
+    },
+    {
+      "channel": "#thjg",
+      "description": "thjg"
+    },
+    {
+      "channel": "#thuis",
+      "description": "thuis"
+    },
+    {
+      "channel": "#thun",
+      "description": "thun"
+    },
+    {
+      "channel": "#thw",
+      "description": "thw"
     },
     {
       "channel": "#tiel",
@@ -2199,6 +8315,62 @@
       "description": "tilburg"
     },
     {
+      "channel": "#tilly",
+      "description": "tilly"
+    },
+    {
+      "channel": "#timisoara",
+      "description": "timisoara"
+    },
+    {
+      "channel": "#tipp",
+      "description": "tipp"
+    },
+    {
+      "channel": "#tki",
+      "description": "tki"
+    },
+    {
+      "channel": "#tloo",
+      "description": "tloo"
+    },
+    {
+      "channel": "#tmin",
+      "description": "tmin"
+    },
+    {
+      "channel": "#tmprepper",
+      "description": "tmprepper"
+    },
+    {
+      "channel": "#tn",
+      "description": "tn"
+    },
+    {
+      "channel": "#tn-east",
+      "description": "tn-east"
+    },
+    {
+      "channel": "#tn-hawkins",
+      "description": "tn-hawkins"
+    },
+    {
+      "channel": "#tn-middle",
+      "description": "tn-middle"
+    },
+    {
+      "channel": "#tn-wx",
+      "description": "tn-wx"
+    },
+    {
+      "channel": "#tnc26",
+      "description": "tnc26"
+    },
+    {
+      "channel": "#tno",
+      "description": "tno"
+    },
+    {
       "channel": "#tokyo",
       "description": "tokyo"
     },
@@ -2207,16 +8379,96 @@
       "description": "toronto"
     },
     {
+      "channel": "#torun",
+      "description": "torun"
+    },
+    {
+      "channel": "#tota",
+      "description": "tota"
+    },
+    {
+      "channel": "#toulouse",
+      "description": "toulouse"
+    },
+    {
+      "channel": "#tpr",
+      "description": "tpr"
+    },
+    {
+      "channel": "#traffic",
+      "description": "traffic"
+    },
+    {
       "channel": "#trail",
       "description": "trail"
+    },
+    {
+      "channel": "#translink",
+      "description": "translink"
+    },
+    {
+      "channel": "#tricities",
+      "description": "tricities"
+    },
+    {
+      "channel": "#trier",
+      "description": "trier"
+    },
+    {
+      "channel": "#trondelag",
+      "description": "trondelag"
+    },
+    {
+      "channel": "#trondheim",
+      "description": "trondheim"
+    },
+    {
+      "channel": "#trst",
+      "description": "trst"
+    },
+    {
+      "channel": "#trv",
+      "description": "trv"
+    },
+    {
+      "channel": "#tsgdw",
+      "description": "tsgdw"
     },
     {
       "channel": "#tsunami",
       "description": "tsunami"
     },
     {
+      "channel": "#tt2",
+      "description": "tt2"
+    },
+    {
+      "channel": "#tth-test",
+      "description": "tth-test"
+    },
+    {
+      "channel": "#ttm",
+      "description": "ttm"
+    },
+    {
       "channel": "#tucson",
       "description": "tucson"
+    },
+    {
+      "channel": "#tuebingen",
+      "description": "tuebingen"
+    },
+    {
+      "channel": "#tvtorenmierlo",
+      "description": "tvtorenmierlo"
+    },
+    {
+      "channel": "#tweakers",
+      "description": "tweakers"
+    },
+    {
+      "channel": "#tweakersmeshcore",
+      "description": "tweakersmeshcore"
     },
     {
       "channel": "#twente",
@@ -2227,20 +8479,140 @@
       "description": "txl"
     },
     {
+      "channel": "#tz",
+      "description": "tz"
+    },
+    {
+      "channel": "#u2dsi",
+      "description": "u2dsi"
+    },
+    {
+      "channel": "#u3a",
+      "description": "u3a"
+    },
+    {
+      "channel": "#uao",
+      "description": "uao"
+    },
+    {
+      "channel": "#ubc",
+      "description": "ubc"
+    },
+    {
+      "channel": "#ubot",
+      "description": "ubot"
+    },
+    {
+      "channel": "#ucf5s",
+      "description": "ucf5s"
+    },
+    {
+      "channel": "#uetersen",
+      "description": "uetersen"
+    },
+    {
       "channel": "#uitdagingen",
       "description": "uitdagingen"
+    },
+    {
+      "channel": "#ujazdbot",
+      "description": "ujazdbot"
     },
     {
       "channel": "#uk",
       "description": "uk"
     },
     {
+      "channel": "#ukmeshtest",
+      "description": "ukmeshtest"
+    },
+    {
+      "channel": "#ukpn",
+      "description": "ukpn"
+    },
+    {
+      "channel": "#uksnow",
+      "description": "uksnow"
+    },
+    {
+      "channel": "#ulm",
+      "description": "ulm"
+    },
+    {
+      "channel": "#ulu",
+      "description": "ulu"
+    },
+    {
       "channel": "#unix",
       "description": "unix"
     },
     {
+      "channel": "#unknown",
+      "description": "unknown"
+    },
+    {
+      "channel": "#unna",
+      "description": "unna"
+    },
+    {
+      "channel": "#upallnight",
+      "description": "upallnight"
+    },
+    {
+      "channel": "#uplate",
+      "description": "uplate"
+    },
+    {
+      "channel": "#urfahr-umgebung",
+      "description": "urfahr-umgebung"
+    },
+    {
+      "channel": "#urlaub",
+      "description": "urlaub"
+    },
+    {
+      "channel": "#us",
+      "description": "us"
+    },
+    {
+      "channel": "#us-ga",
+      "description": "us-ga"
+    },
+    {
+      "channel": "#user1",
+      "description": "user1"
+    },
+    {
+      "channel": "#uslar",
+      "description": "uslar"
+    },
+    {
       "channel": "#utrecht",
       "description": "utrecht"
+    },
+    {
+      "channel": "#utrechtseheuvelrug",
+      "description": "utrechtseheuvelrug"
+    },
+    {
+      "channel": "#uvao",
+      "description": "uvao"
+    },
+    {
+      "channel": "#uwmej",
+      "description": "uwmej"
+    },
+    {
+      "channel": "#uzao",
+      "description": "uzao"
+    },
+    {
+      "channel": "#va",
+      "description": "va"
+    },
+    {
+      "channel": "#valkenswaard",
+      "description": "valkenswaard"
     },
     {
       "channel": "#valleibot",
@@ -2255,12 +8627,116 @@
       "description": "vancouver"
     },
     {
+      "channel": "#vao",
+      "description": "vao"
+    },
+    {
+      "channel": "#var",
+      "description": "var"
+    },
+    {
+      "channel": "#varc",
+      "description": "varc"
+    },
+    {
+      "channel": "#vaxjo",
+      "description": "vaxjo"
+    },
+    {
+      "channel": "#vbg",
+      "description": "vbg"
+    },
+    {
+      "channel": "#vcfmw",
+      "description": "vcfmw"
+    },
+    {
+      "channel": "#vdq7a",
+      "description": "vdq7a"
+    },
+    {
+      "channel": "#ve7lse-bot",
+      "description": "ve7lse-bot"
+    },
+    {
+      "channel": "#veenendaal",
+      "description": "veenendaal"
+    },
+    {
+      "channel": "#vegan",
+      "description": "vegan"
+    },
+    {
       "channel": "#vegas",
       "description": "vegas"
     },
     {
+      "channel": "#velbert",
+      "description": "velbert"
+    },
+    {
+      "channel": "#velo",
+      "description": "velo"
+    },
+    {
+      "channel": "#venhuizen",
+      "description": "venhuizen"
+    },
+    {
       "channel": "#venlo",
       "description": "venlo"
+    },
+    {
+      "channel": "#venray",
+      "description": "venray"
+    },
+    {
+      "channel": "#vereinsheim",
+      "description": "vereinsheim"
+    },
+    {
+      "channel": "#verkehr",
+      "description": "verkehr"
+    },
+    {
+      "channel": "#veron",
+      "description": "veron"
+    },
+    {
+      "channel": "#versuch",
+      "description": "versuch"
+    },
+    {
+      "channel": "#veszhelyzet",
+      "description": "veszhelyzet"
+    },
+    {
+      "channel": "#veteranen",
+      "description": "veteranen"
+    },
+    {
+      "channel": "#vhf5",
+      "description": "vhf5"
+    },
+    {
+      "channel": "#vhtlhy",
+      "description": "vhtlhy"
+    },
+    {
+      "channel": "#vic",
+      "description": "vic"
+    },
+    {
+      "channel": "#vice-versa",
+      "description": "vice-versa"
+    },
+    {
+      "channel": "#vice-versa-34",
+      "description": "vice-versa-34"
+    },
+    {
+      "channel": "#vie",
+      "description": "vie"
     },
     {
       "channel": "#vienna",
@@ -2271,6 +8747,22 @@
       "description": "vietnam"
     },
     {
+      "channel": "#vihti",
+      "description": "vihti"
+    },
+    {
+      "channel": "#viraalit",
+      "description": "viraalit"
+    },
+    {
+      "channel": "#vk",
+      "description": "vk"
+    },
+    {
+      "channel": "#vlaanderen",
+      "description": "vlaanderen"
+    },
+    {
       "channel": "#vlaardingen",
       "description": "vlaardingen"
     },
@@ -2279,8 +8771,24 @@
       "description": "vleesboek"
     },
     {
+      "channel": "#vleuten",
+      "description": "vleuten"
+    },
+    {
       "channel": "#vlissingen",
       "description": "vlissingen"
+    },
+    {
+      "channel": "#vlk",
+      "description": "vlk"
+    },
+    {
+      "channel": "#vlk-alerts",
+      "description": "vlk-alerts"
+    },
+    {
+      "channel": "#volcano",
+      "description": "volcano"
     },
     {
       "channel": "#voorburg",
@@ -2291,8 +8799,16 @@
       "description": "voorhout"
     },
     {
+      "channel": "#voorne",
+      "description": "voorne"
+    },
+    {
       "channel": "#voorne-putten",
       "description": "voorne-putten"
+    },
+    {
+      "channel": "#voorneputten",
+      "description": "voorneputten"
     },
     {
       "channel": "#voorthuizen",
@@ -2303,16 +8819,136 @@
       "description": "vpk"
     },
     {
+      "channel": "#vpn",
+      "description": "vpn"
+    },
+    {
+      "channel": "#vratsa",
+      "description": "vratsa"
+    },
+    {
+      "channel": "#vratsabot",
+      "description": "vratsabot"
+    },
+    {
+      "channel": "#vrbot",
+      "description": "vrbot"
+    },
+    {
+      "channel": "#vriezenveen",
+      "description": "vriezenveen"
+    },
+    {
+      "channel": "#vrnhn",
+      "description": "vrnhn"
+    },
+    {
+      "channel": "#vs",
+      "description": "vs"
+    },
+    {
+      "channel": "#vta",
+      "description": "vta"
+    },
+    {
+      "channel": "#vtipy",
+      "description": "vtipy"
+    },
+    {
       "channel": "#vught",
       "description": "vught"
+    },
+    {
+      "channel": "#vysd-x",
+      "description": "vysd-x"
+    },
+    {
+      "channel": "#w5yd",
+      "description": "w5yd"
+    },
+    {
+      "channel": "#w7dk",
+      "description": "w7dk"
+    },
+    {
+      "channel": "#w8ara",
+      "description": "w8ara"
+    },
+    {
+      "channel": "#wabbithunt",
+      "description": "wabbithunt"
+    },
+    {
+      "channel": "#wacken",
+      "description": "wacken"
+    },
+    {
+      "channel": "#wada",
+      "description": "wada"
+    },
+    {
+      "channel": "#wadamesh",
+      "description": "wadamesh"
+    },
+    {
+      "channel": "#wadameshchannel",
+      "description": "wadameshchannel"
+    },
+    {
+      "channel": "#waddinxveen",
+      "description": "waddinxveen"
+    },
+    {
+      "channel": "#waf",
+      "description": "waf"
+    },
+    {
+      "channel": "#wageningen",
+      "description": "wageningen"
+    },
+    {
+      "channel": "#wakefield",
+      "description": "wakefield"
     },
     {
       "channel": "#walcheren",
       "description": "walcheren"
     },
     {
+      "channel": "#waldkirchen",
+      "description": "waldkirchen"
+    },
+    {
+      "channel": "#waldmesh",
+      "description": "waldmesh"
+    },
+    {
       "channel": "#wales",
       "description": "wales"
+    },
+    {
+      "channel": "#walesandwest",
+      "description": "walesandwest"
+    },
+    {
+      "channel": "#walesandwest-chat",
+      "description": "walesandwest-chat"
+    },
+    {
+      "channel": "#walesandwest-test",
+      "description": "walesandwest-test"
+    },
+    {
+      "channel": "#wallonie",
+      "description": "wallonie"
+    },
+    {
+      "channel": "#wallonie-fr",
+      "description": "wallonie-fr"
+    },
+    {
+      "channel": "#wandelenmetdehond",
+      "description": "wandelenmetdehond"
     },
     {
       "channel": "#wardrive",
@@ -2323,6 +8959,26 @@
       "description": "wardriving"
     },
     {
+      "channel": "#warn-pi",
+      "description": "warn-pi"
+    },
+    {
+      "channel": "#warnings",
+      "description": "warnings"
+    },
+    {
+      "channel": "#warnpi",
+      "description": "warnpi"
+    },
+    {
+      "channel": "#warntag2026",
+      "description": "warntag2026"
+    },
+    {
+      "channel": "#warnung",
+      "description": "warnung"
+    },
+    {
       "channel": "#warsaw",
       "description": "warsaw"
     },
@@ -2331,36 +8987,304 @@
       "description": "washingtondc"
     },
     {
+      "channel": "#wasma",
+      "description": "wasma"
+    },
+    {
       "channel": "#wassenaar",
       "description": "wassenaar"
+    },
+    {
+      "channel": "#watchduty",
+      "description": "watchduty"
+    },
+    {
+      "channel": "#wawx",
+      "description": "wawx"
+    },
+    {
+      "channel": "#wcars",
+      "description": "wcars"
     },
     {
       "channel": "#weather",
       "description": "weather"
     },
     {
+      "channel": "#wecg",
+      "description": "wecg"
+    },
+    {
+      "channel": "#wedel",
+      "description": "wedel"
+    },
+    {
+      "channel": "#wedemark",
+      "description": "wedemark"
+    },
+    {
+      "channel": "#weed",
+      "description": "weed"
+    },
+    {
       "channel": "#weer",
       "description": "weer"
+    },
+    {
+      "channel": "#weerbaarheid",
+      "description": "weerbaarheid"
+    },
+    {
+      "channel": "#wehl",
+      "description": "wehl"
+    },
+    {
+      "channel": "#weimar",
+      "description": "weimar"
     },
     {
       "channel": "#wellington",
       "description": "wellington"
     },
     {
+      "channel": "#weserbergland",
+      "description": "weserbergland"
+    },
+    {
+      "channel": "#west",
+      "description": "west"
+    },
+    {
       "channel": "#west-friesland",
       "description": "west-friesland"
+    },
+    {
+      "channel": "#west-terschelling",
+      "description": "west-terschelling"
+    },
+    {
+      "channel": "#westbetuwe",
+      "description": "westbetuwe"
+    },
+    {
+      "channel": "#westbrabant",
+      "description": "westbrabant"
+    },
+    {
+      "channel": "#westerwald",
+      "description": "westerwald"
+    },
+    {
+      "channel": "#westfriesland",
+      "description": "westfriesland"
+    },
+    {
+      "channel": "#westland",
+      "description": "westland"
+    },
+    {
+      "channel": "#westseattle",
+      "description": "westseattle"
+    },
+    {
+      "channel": "#westsussex",
+      "description": "westsussex"
+    },
+    {
+      "channel": "#westterschelling",
+      "description": "westterschelling"
     },
     {
       "channel": "#wetter",
       "description": "wetter"
     },
     {
+      "channel": "#wetter-simmering",
+      "description": "wetter-simmering"
+    },
+    {
+      "channel": "#wetterau",
+      "description": "wetterau"
+    },
+    {
       "channel": "#wezep",
       "description": "wezep"
     },
     {
+      "channel": "#wf",
+      "description": "wf"
+    },
+    {
+      "channel": "#wfmesh",
+      "description": "wfmesh"
+    },
+    {
+      "channel": "#whitesox",
+      "description": "whitesox"
+    },
+    {
+      "channel": "#whm",
+      "description": "whm"
+    },
+    {
+      "channel": "#wicklow",
+      "description": "wicklow"
+    },
+    {
+      "channel": "#wien",
+      "description": "wien"
+    },
+    {
+      "channel": "#wierden",
+      "description": "wierden"
+    },
+    {
+      "channel": "#wilsg",
+      "description": "wilsg"
+    },
+    {
+      "channel": "#winning",
+      "description": "winning"
+    },
+    {
+      "channel": "#winterthur",
+      "description": "winterthur"
+    },
+    {
+      "channel": "#witze",
+      "description": "witze"
+    },
+    {
+      "channel": "#wj",
+      "description": "wj"
+    },
+    {
+      "channel": "#wk26",
+      "description": "wk26"
+    },
+    {
+      "channel": "#wlkp",
+      "description": "wlkp"
+    },
+    {
+      "channel": "#wnc",
+      "description": "wnc"
+    },
+    {
+      "channel": "#wny",
+      "description": "wny"
+    },
+    {
+      "channel": "#woerden",
+      "description": "woerden"
+    },
+    {
+      "channel": "#woerth-am-rhein",
+      "description": "woerth-am-rhein"
+    },
+    {
+      "channel": "#woid",
+      "description": "woid"
+    },
+    {
+      "channel": "#wordle",
+      "description": "wordle"
+    },
+    {
+      "channel": "#world",
+      "description": "world"
+    },
+    {
+      "channel": "#worldcup",
+      "description": "worldcup"
+    },
+    {
+      "channel": "#worms",
+      "description": "worms"
+    },
+    {
+      "channel": "#wrc",
+      "description": "wrc"
+    },
+    {
+      "channel": "#wroc-tech",
+      "description": "wroc-tech"
+    },
+    {
+      "channel": "#wroclaw",
+      "description": "wroclaw"
+    },
+    {
+      "channel": "#wsf",
+      "description": "wsf"
+    },
+    {
+      "channel": "#wsm",
+      "description": "wsm"
+    },
+    {
+      "channel": "#wte",
+      "description": "wte"
+    },
+    {
+      "channel": "#wuelfrath",
+      "description": "wuelfrath"
+    },
+    {
+      "channel": "#wuppertal",
+      "description": "wuppertal"
+    },
+    {
+      "channel": "#wurst",
+      "description": "wurst"
+    },
+    {
+      "channel": "#wvect",
+      "description": "wvect"
+    },
+    {
+      "channel": "#wvl",
+      "description": "wvl"
+    },
+    {
+      "channel": "#wvmesh",
+      "description": "wvmesh"
+    },
+    {
       "channel": "#wx",
       "description": "wx"
+    },
+    {
+      "channel": "#wx-tc",
+      "description": "wx-tc"
+    },
+    {
+      "channel": "#wx-ww",
+      "description": "wx-ww"
+    },
+    {
+      "channel": "#wynental",
+      "description": "wynental"
+    },
+    {
+      "channel": "#wyse",
+      "description": "wyse"
+    },
+    {
+      "channel": "#xaz2c",
+      "description": "xaz2c"
+    },
+    {
+      "channel": "#xbike",
+      "description": "xbike"
+    },
+    {
+      "channel": "#xebia",
+      "description": "xebia"
+    },
+    {
+      "channel": "#xgme",
+      "description": "xgme"
     },
     {
       "channel": "#xr",
@@ -2371,8 +9295,56 @@
       "description": "xrwf"
     },
     {
+      "channel": "#xxvp1",
+      "description": "xxvp1"
+    },
+    {
+      "channel": "#xxx1",
+      "description": "xxx1"
+    },
+    {
+      "channel": "#xxxx",
+      "description": "xxxx"
+    },
+    {
+      "channel": "#xyzzy",
+      "description": "xyzzy"
+    },
+    {
+      "channel": "#y07",
+      "description": "y07"
+    },
+    {
+      "channel": "#y21",
+      "description": "y21"
+    },
+    {
+      "channel": "#y259g",
+      "description": "y259g"
+    },
+    {
+      "channel": "#y2sv6",
+      "description": "y2sv6"
+    },
+    {
+      "channel": "#yamco",
+      "description": "yamco"
+    },
+    {
       "channel": "#ycv-wx",
       "description": "ycv-wx"
+    },
+    {
+      "channel": "#ykw6k",
+      "description": "ykw6k"
+    },
+    {
+      "channel": "#ymrc",
+      "description": "ymrc"
+    },
+    {
+      "channel": "#ynomy",
+      "description": "ynomy"
     },
     {
       "channel": "#yo",
@@ -2383,12 +9355,48 @@
       "description": "yorkshire"
     },
     {
+      "channel": "#yorkshirenet",
+      "description": "yorkshirenet"
+    },
+    {
+      "channel": "#ypenburg",
+      "description": "ypenburg"
+    },
+    {
+      "channel": "#yug",
+      "description": "yug"
+    },
+    {
+      "channel": "#yyc",
+      "description": "yyc"
+    },
+    {
       "channel": "#zaandam",
       "description": "zaandam"
     },
     {
       "channel": "#zaanstreek-waterland",
       "description": "zaanstreek-waterland"
+    },
+    {
+      "channel": "#zachod",
+      "description": "zachod"
+    },
+    {
+      "channel": "#zak",
+      "description": "zak"
+    },
+    {
+      "channel": "#zandbak",
+      "description": "zandbak"
+    },
+    {
+      "channel": "#zdf",
+      "description": "zdf"
+    },
+    {
+      "channel": "#zdravice",
+      "description": "zdravice"
     },
     {
       "channel": "#zeeland",
@@ -2401,6 +9409,54 @@
     {
       "channel": "#zelhem",
       "description": "zelhem"
+    },
+    {
+      "channel": "#zendamateurs",
+      "description": "zendamateurs"
+    },
+    {
+      "channel": "#zero",
+      "description": "zero"
+    },
+    {
+      "channel": "#zevenaar",
+      "description": "zevenaar"
+    },
+    {
+      "channel": "#zgora",
+      "description": "zgora"
+    },
+    {
+      "channel": "#zgz",
+      "description": "zgz"
+    },
+    {
+      "channel": "#zirndorf",
+      "description": "zirndorf"
+    },
+    {
+      "channel": "#zkynj",
+      "description": "zkynj"
+    },
+    {
+      "channel": "#zoetermeer",
+      "description": "zoetermeer"
+    },
+    {
+      "channel": "#zoeterwoude",
+      "description": "zoeterwoude"
+    },
+    {
+      "channel": "#zork",
+      "description": "zork"
+    },
+    {
+      "channel": "#ztay",
+      "description": "ztay"
+    },
+    {
+      "channel": "#zug",
+      "description": "zug"
     },
     {
       "channel": "#zuid-holland",
@@ -2423,8 +9479,20 @@
       "description": "zwickau"
     },
     {
+      "channel": "#zwijndrecht",
+      "description": "zwijndrecht"
+    },
+    {
       "channel": "#zwolle",
       "description": "zwolle"
+    },
+    {
+      "channel": "#zxy",
+      "description": "zxy"
+    },
+    {
+      "channel": "#zzz",
+      "description": "zzz"
     },
     {
       "channel": "public",
