@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T23:47:57Z",
+  "generated_at": "2026-09-26T23:50:59Z",
   "license": "CC0-1.0",
   "channels": [
     {
@@ -2759,6 +2759,10 @@
       "description": "eindhoven"
     },
     {
+      "channel": "#eisenach",
+      "description": "Eisenach"
+    },
+    {
       "channel": "#elbtunnel",
       "description": "elbtunnel"
     },
@@ -3532,7 +3536,7 @@
     },
     {
       "channel": "#gera",
-      "description": "gera"
+      "description": "Gera"
     },
     {
       "channel": "#gerand",
@@ -3656,7 +3660,7 @@
     },
     {
       "channel": "#gotha",
-      "description": "gotha"
+      "description": "Gotha"
     },
     {
       "channel": "#gouda",
@@ -4885,6 +4889,10 @@
     {
       "channel": "#leiria",
       "description": "Leiria PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
+      "channel": "#lej",
+      "description": "Leipzig"
     },
     {
       "channel": "#lekkerkerk",
@@ -6524,7 +6532,7 @@
     },
     {
       "channel": "#ostfriesland",
-      "description": "ostfriesland"
+      "description": "alles was zu Ostfriesland gehört"
     },
     {
       "channel": "#otp",
@@ -7464,7 +7472,7 @@
     },
     {
       "channel": "#rpadmins",
-      "description": "rpadmins"
+      "description": "Kanal für Absprachen unter Repeater Admins"
     },
     {
       "channel": "#rr05",
@@ -7720,7 +7728,7 @@
     },
     {
       "channel": "#seeland",
-      "description": "Biel/Bienne region"
+      "description": "Channel used in the city of Biel/Bienne and everything close by and around it."
     },
     {
       "channel": "#seetal1ag1lu",
@@ -8109,6 +8117,10 @@
     {
       "channel": "#stadskanaal",
       "description": "stadskanaal"
+    },
+    {
+      "channel": "#stadtfunker",
+      "description": "Amateurfunkgruppe aus Hildesheim"
     },
     {
       "channel": "#starcraft",
@@ -8987,6 +8999,10 @@
       "description": "Vila Real PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
     {
+      "channel": "#vilsbiburg",
+      "description": "Vilsbiburg, Lkr. Landshut"
+    },
+    {
       "channel": "#viraalit",
       "description": "viraalit"
     },
@@ -9025,6 +9041,10 @@
     {
       "channel": "#vlk-alerts",
       "description": "vlk-alerts"
+    },
+    {
+      "channel": "#vogelsberg",
+      "description": "Vogelsbergkreis"
     },
     {
       "channel": "#volcano",
@@ -9160,7 +9180,7 @@
     },
     {
       "channel": "#waldmesh",
-      "description": "waldmesh"
+      "description": "Bayerischer Wald und Umland (Vorschlag)"
     },
     {
       "channel": "#wales",
@@ -9284,7 +9304,7 @@
     },
     {
       "channel": "#weimar",
-      "description": "weimar"
+      "description": "Weimar"
     },
     {
       "channel": "#weinstrasse",

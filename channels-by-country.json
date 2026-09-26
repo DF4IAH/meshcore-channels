@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T23:47:57Z",
+  "generated_at": "2026-09-26T23:50:59Z",
   "license": "CC0-1.0",
   "countries": {
     "ad": [],
@@ -139,6 +139,10 @@
       {
         "channel": "#chtest",
         "description": "Main testing channel for Switzerland"
+      },
+      {
+        "channel": "#seeland",
+        "description": "Channel used in the city of Biel/Bienne and everything close by and around it."
       },
       {
         "channel": "#suisse",
@@ -439,6 +443,10 @@
         "description": "Eifel region"
       },
       {
+        "channel": "#eisenach",
+        "description": "Eisenach"
+      },
+      {
         "channel": "#emergency",
         "description": "Not recommended"
       },
@@ -503,8 +511,16 @@
         "description": "Fuerth"
       },
       {
+        "channel": "#gera",
+        "description": "Gera"
+      },
+      {
         "channel": "#germany",
         "description": "germany"
+      },
+      {
+        "channel": "#gotha",
+        "description": "Gotha"
       },
       {
         "channel": "#groetzingen",
@@ -588,6 +604,10 @@
       },
       {
         "channel": "#leipzig",
+        "description": "Leipzig"
+      },
+      {
+        "channel": "#lej",
         "description": "Leipzig"
       },
       {
@@ -691,6 +711,10 @@
         "description": "Upper Hesse region"
       },
       {
+        "channel": "#ostfriesland",
+        "description": "alles was zu Ostfriesland gehört"
+      },
+      {
         "channel": "#pamina",
         "description": "South Palatinate/Baden/Alsace area"
       },
@@ -743,6 +767,10 @@
         "description": "Rosenheim region"
       },
       {
+        "channel": "#rpadmins",
+        "description": "Kanal für Absprachen unter Repeater Admins"
+      },
+      {
         "channel": "#ruhrgebiet",
         "description": "Ruhr area"
       },
@@ -793,6 +821,10 @@
       {
         "channel": "#st",
         "description": "Saxony-Anhalt"
+      },
+      {
+        "channel": "#stadtfunker",
+        "description": "Amateurfunkgruppe aus Hildesheim"
       },
       {
         "channel": "#stricken",
@@ -863,12 +895,28 @@
         "description": "Traffic info from bremenvier.de"
       },
       {
+        "channel": "#vilsbiburg",
+        "description": "Vilsbiburg, Lkr. Landshut"
+      },
+      {
+        "channel": "#vogelsberg",
+        "description": "Vogelsbergkreis"
+      },
+      {
+        "channel": "#waldmesh",
+        "description": "Bayerischer Wald und Umland (Vorschlag)"
+      },
+      {
         "channel": "#wallis",
         "description": "Valais canton"
       },
       {
         "channel": "#warnings",
         "description": "Official authority warnings"
+      },
+      {
+        "channel": "#weimar",
+        "description": "Weimar"
       },
       {
         "channel": "#weinstrasse",
