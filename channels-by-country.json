@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T11:10:12Z",
+  "generated_at": "2026-09-26T23:44:59Z",
   "license": "CC0-1.0",
   "countries": {
     "ad": [],
@@ -233,6 +233,10 @@
       {
         "channel": "#bienen",
         "description": "Beekeeping/honey production"
+      },
+      {
+        "channel": "#bitcoin",
+        "description": "Bitcoin discussion and information"
       },
       {
         "channel": "#bochum",
