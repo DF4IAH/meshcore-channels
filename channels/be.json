@@ -63,6 +63,10 @@
       "description": "Belgian province of Limburg regional channel"
     },
     {
+      "channel": "#namur",
+      "description": "Canal public croise en Wallonie (Namur)"
+    },
+    {
       "channel": "#nerdland",
       "description": "General channel for nerds on Belgian MeshCore"
     },
@@ -77,6 +81,10 @@
     {
       "channel": "#radio-actief",
       "description": "For all RRY members of the Belgian MeshCore network (radio-actief.be)"
+    },
+    {
+      "channel": "#test",
+      "description": "Testkanaal, veroorzaakt veel onnodig verkeer (vooral NL testbots)"
     },
     {
       "channel": "#vlaanderen",
