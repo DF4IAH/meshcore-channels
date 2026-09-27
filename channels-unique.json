@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T23:50:59Z",
+  "generated_at": "2026-09-27T00:04:32Z",
   "license": "CC0-1.0",
   "channels": [
     {
@@ -188,7 +188,7 @@
     },
     {
       "channel": "#420",
-      "description": "420"
+      "description": "Cannabis discussion channel (CascadiaMesh)."
     },
     {
       "channel": "#42489",
@@ -356,7 +356,7 @@
     },
     {
       "channel": "#abdl",
-      "description": "abdl"
+      "description": "ABDL community chat and discussion (CascadiaMesh)."
     },
     {
       "channel": "#ac254",
@@ -377,6 +377,10 @@
     {
       "channel": "#acores",
       "description": "Açores PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
+      "channel": "#act",
+      "description": "State-wide coordination (au-act)."
     },
     {
       "channel": "#adenau",
@@ -463,6 +467,10 @@
       "description": "alabala123"
     },
     {
+      "channel": "#alameda",
+      "description": "Alameda Island local chat (Bay Area)."
+    },
+    {
       "channel": "#alaska",
       "description": "alaska"
     },
@@ -472,11 +480,11 @@
     },
     {
       "channel": "#alert",
-      "description": "alert"
+      "description": "Automatic situation alerts such as fires."
     },
     {
       "channel": "#alerts",
-      "description": "alerts"
+      "description": "Kanal für Alarmierungen"
     },
     {
       "channel": "#alerts-test",
@@ -720,7 +728,7 @@
     },
     {
       "channel": "#astrophotography",
-      "description": "astrophotography"
+      "description": "Astrophotography discussion (CascadiaMesh)."
     },
     {
       "channel": "#at",
@@ -735,8 +743,12 @@
       "description": "at-hl"
     },
     {
+      "channel": "#at-ktn",
+      "description": "Etablierter Hashtag-Kanal für Kärnten im österreichischen MeshCore-Netz"
+    },
+    {
       "channel": "#at-ktn-bot",
-      "description": "at-ktn-bot"
+      "description": "Eigener Bot-Kanal für Kärnten (Wetter, Warnungen, SOTA, Relais per Funkbefehl)"
     },
     {
       "channel": "#at-ost",
@@ -755,12 +767,20 @@
       "description": "atak"
     },
     {
+      "channel": "#atheist",
+      "description": "Atheist, agnostic and secular discussion (CascadiaMesh)."
+    },
+    {
       "channel": "#athens",
       "description": "athens"
     },
     {
       "channel": "#atlanta",
       "description": "atlanta"
+    },
+    {
+      "channel": "#atlas",
+      "description": "Atlas-related channel (MeshSydney)."
     },
     {
       "channel": "#atlmesh",
@@ -783,8 +803,12 @@
       "description": "Northern lights sightings"
     },
     {
+      "channel": "#aurora-alert",
+      "description": "Aurora notifications and location sharing"
+    },
+    {
       "channel": "#aussig",
-      "description": "aussig"
+      "description": "Usti nad Labem and surrounding area"
     },
     {
       "channel": "#austerlitz",
@@ -800,7 +824,7 @@
     },
     {
       "channel": "#austria",
-      "description": "austria"
+      "description": "Landesweiter Kanal für ganz Österreich"
     },
     {
       "channel": "#autism",
@@ -923,12 +947,16 @@
       "description": "bassieenadriaan"
     },
     {
+      "channel": "#bastelbude",
+      "description": "Kanal für Bastelprojekte"
+    },
+    {
       "channel": "#bath",
       "description": "bath"
     },
     {
       "channel": "#bathurst",
-      "description": "bathurst"
+      "description": "Bathurst & Central West conversation and coordination (au-nsw-bhs)."
     },
     {
       "channel": "#bauerbahn",
@@ -980,7 +1008,7 @@
     },
     {
       "channel": "#bc",
-      "description": "bc"
+      "description": "British Columbia province-wide chat (CascadiaMesh)."
     },
     {
       "channel": "#bcarc",
@@ -1011,6 +1039,10 @@
       "description": "be-lgg"
     },
     {
+      "channel": "#beaconhill",
+      "description": "Beacon Hill neighborhood channel, Seattle (CascadiaMesh)."
+    },
+    {
       "channel": "#bears",
       "description": "bears"
     },
@@ -1021,6 +1053,10 @@
     {
       "channel": "#beds-bucks-northants",
       "description": "beds-bucks-northants"
+    },
+    {
+      "channel": "#beefmesh",
+      "description": "Beef Mesh node-status bot channel (au-nsw-syd)."
     },
     {
       "channel": "#beer",
@@ -1072,11 +1108,15 @@
     },
     {
       "channel": "#berlinmesh",
-      "description": "berlinmesh"
+      "description": "Koordinationskanal der Berlin Chaos Mesh Community"
     },
     {
       "channel": "#bern",
       "description": "Bern region"
+    },
+    {
+      "channel": "#beskydy",
+      "description": "Beskydy mountains and area"
     },
     {
       "channel": "#best",
@@ -1163,6 +1203,10 @@
       "description": "bingo"
     },
     {
+      "channel": "#birding",
+      "description": "Bird watching chat (CascadiaMesh)."
+    },
+    {
       "channel": "#birmingham",
       "description": "birmingham"
     },
@@ -1172,7 +1216,7 @@
     },
     {
       "channel": "#bitcoin",
-      "description": "Bitcoin discussion and information"
+      "description": "Bitcoin and cryptocurrency discussion (CascadiaMesh)."
     },
     {
       "channel": "#biw",
@@ -1183,8 +1227,12 @@
       "description": "blabla"
     },
     {
+      "channel": "#blackhawks",
+      "description": "Chicago Blackhawks discussion (Chicagoland Mesh)."
+    },
+    {
       "channel": "#blackout",
-      "description": "blackout"
+      "description": "Blackout information and notification in case of power outages"
     },
     {
       "channel": "#bladtunge",
@@ -1223,6 +1271,10 @@
       "description": "boarder"
     },
     {
+      "channel": "#boating",
+      "description": "Boating, sailing, cruising discussion (CascadiaMesh)."
+    },
+    {
       "channel": "#boaz",
       "description": "boaz"
     },
@@ -1256,7 +1308,7 @@
     },
     {
       "channel": "#bonn",
-      "description": "bonn"
+      "description": "Regionaler Kanal für Bonn"
     },
     {
       "channel": "#bonnwetter",
@@ -1268,7 +1320,7 @@
     },
     {
       "channel": "#books",
-      "description": "books"
+      "description": "Book discussion channel (CascadiaMesh)."
     },
     {
       "channel": "#bordeaux",
@@ -1288,7 +1340,7 @@
     },
     {
       "channel": "#bot",
-      "description": "bot"
+      "description": "Kanal für automatisierte Systeme/Bots"
     },
     {
       "channel": "#bot-bham",
@@ -1303,8 +1355,16 @@
       "description": "bot-everett"
     },
     {
+      "channel": "#bot-islands",
+      "description": "Testing bot for the Salish Sea / Puget Sound Islands (CascadiaMesh)."
+    },
+    {
       "channel": "#bot-kelso",
       "description": "bot-kelso"
+    },
+    {
+      "channel": "#bot-oly",
+      "description": "Testing bot in Olympia, WA (CascadiaMesh)."
     },
     {
       "channel": "#bot-pdx",
@@ -1427,6 +1487,10 @@
       "description": "brazil"
     },
     {
+      "channel": "#breakingnews",
+      "description": "Global events channel (West Coast Mesh)."
+    },
+    {
       "channel": "#breda",
       "description": "breda"
     },
@@ -1468,7 +1532,7 @@
     },
     {
       "channel": "#brno",
-      "description": "brno"
+      "description": "Brno and surrounding area"
     },
     {
       "channel": "#bronbemaling",
@@ -1544,7 +1608,7 @@
     },
     {
       "channel": "#budejce",
-      "description": "budejce"
+      "description": "Ceske Budejovice and area"
     },
     {
       "channel": "#buds",
@@ -1557,6 +1621,14 @@
     {
       "channel": "#bulgaria",
       "description": "bulgaria"
+    },
+    {
+      "channel": "#bullcity",
+      "description": "Durham, NC ('Bull City') local channel (RDUMesh)."
+    },
+    {
+      "channel": "#bulls",
+      "description": "Chicago Bulls discussion (Chicagoland Mesh)."
     },
     {
       "channel": "#burcht",
@@ -1595,6 +1667,10 @@
       "description": "bycno"
     },
     {
+      "channel": "#bydgoszcz",
+      "description": "Bydgoszcz regional channel"
+    },
+    {
       "channel": "#c",
       "description": "c"
     },
@@ -1631,6 +1707,10 @@
       "description": "calw"
     },
     {
+      "channel": "#camas",
+      "description": "Camas, WA chat (CascadiaMesh)."
+    },
+    {
       "channel": "#cambridge",
       "description": "cambridge"
     },
@@ -1640,7 +1720,7 @@
     },
     {
       "channel": "#camping",
-      "description": "camping"
+      "description": "Outdoor camping life discussion (CascadiaMesh)."
     },
     {
       "channel": "#canada",
@@ -1648,11 +1728,15 @@
     },
     {
       "channel": "#canberra",
-      "description": "canberra"
+      "description": "Canberra conversation and coordination (au-act)."
     },
     {
       "channel": "#cannel",
       "description": "cannel"
+    },
+    {
+      "channel": "#canucks",
+      "description": "Vancouver Canucks NHL hockey discussion (CascadiaMesh)."
     },
     {
       "channel": "#cao",
@@ -1684,7 +1768,7 @@
     },
     {
       "channel": "#cars",
-      "description": "cars"
+      "description": "Car discussion and chat (CascadiaMesh)."
     },
     {
       "channel": "#cary",
@@ -1692,7 +1776,7 @@
     },
     {
       "channel": "#cascadia",
-      "description": "cascadia"
+      "description": "Cascadia bioregion and self-determination discussion."
     },
     {
       "channel": "#castelobranco",
@@ -1712,7 +1796,7 @@
     },
     {
       "channel": "#cats",
-      "description": "cats"
+      "description": "Cat facts, stories, and feline-related conversation (CascadiaMesh)."
     },
     {
       "channel": "#cb",
@@ -1753,6 +1837,10 @@
     {
       "channel": "#central-oregon",
       "description": "central-oregon"
+    },
+    {
+      "channel": "#centralcoast",
+      "description": "Central Coast conversation and coordination (au-nsw-syd)."
     },
     {
       "channel": "#cern",
@@ -1799,6 +1887,14 @@
       "description": "channel"
     },
     {
+      "channel": "#channel1",
+      "description": "Cape Town: longer chats moved away from Public channel."
+    },
+    {
+      "channel": "#channel2",
+      "description": "Created for Cape Town alongside #channel1 for longer discussions."
+    },
+    {
       "channel": "#channels",
       "description": "channels"
     },
@@ -1808,7 +1904,7 @@
     },
     {
       "channel": "#chat",
-      "description": "chat"
+      "description": "General conversation"
     },
     {
       "channel": "#chatchannel",
@@ -1835,6 +1931,10 @@
       "description": "chemnitz"
     },
     {
+      "channel": "#chess",
+      "description": "Correspondence chess opponent search using web client"
+    },
+    {
       "channel": "#chesterfield",
       "description": "chesterfield"
     },
@@ -1845,6 +1945,14 @@
     {
       "channel": "#chile",
       "description": "chile"
+    },
+    {
+      "channel": "#chimesh",
+      "description": "Chicagoland Mesh general channel."
+    },
+    {
+      "channel": "#chimesh-observer-alert",
+      "description": "Chicagoland Mesh observer alert channel."
     },
     {
       "channel": "#chocolatine",
@@ -1867,8 +1975,24 @@
       "description": "clafoutis"
     },
     {
+      "channel": "#clallam",
+      "description": "Clallam County, WA chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#claremontupland",
+      "description": "Local chat for the Claremont / Upland area, California."
+    },
+    {
+      "channel": "#climbing",
+      "description": "Climbing hills and mountains discussion (CascadiaMesh)."
+    },
+    {
       "channel": "#cluj",
       "description": "cluj"
+    },
+    {
+      "channel": "#cm-reach",
+      "description": "Use with rangecheck.meshcore.coloradomesh.org to check mesh connectivity (Colorado Mesh)."
     },
     {
       "channel": "#cmd",
@@ -1888,7 +2012,7 @@
     },
     {
       "channel": "#coffee",
-      "description": "coffee"
+      "description": "Kanal für lockeren Austausch abseits der Regionen"
     },
     {
       "channel": "#coimbra",
@@ -1901,6 +2025,10 @@
     {
       "channel": "#colorado",
       "description": "colorado"
+    },
+    {
+      "channel": "#columbiacity",
+      "description": "Columbia City neighborhood channel, Seattle (CascadiaMesh)."
     },
     {
       "channel": "#connections",
@@ -1927,8 +2055,16 @@
       "description": "cornwallanddevon"
     },
     {
+      "channel": "#corvallis",
+      "description": "Corvallis, OR chat (CascadiaMesh)."
+    },
+    {
       "channel": "#coventry",
       "description": "coventry"
+    },
+    {
+      "channel": "#cowlitz",
+      "description": "Cowlitz County, WA regional chat (CascadiaMesh)."
     },
     {
       "channel": "#cpop",
@@ -1955,12 +2091,16 @@
       "description": "Cycling activism coordination"
     },
     {
+      "channel": "#cruising",
+      "description": "Alternative-lifestyle 'cruising' discussion (CascadiaMesh)."
+    },
+    {
       "channel": "#cruxin",
       "description": "cruxin"
     },
     {
       "channel": "#cs",
-      "description": "cs"
+      "description": "International mesh connection via Slovakia, text only"
     },
     {
       "channel": "#csy",
@@ -2008,7 +2148,7 @@
     },
     {
       "channel": "#czech",
-      "description": "czech"
+      "description": "Testing channel for EU Narrow preset"
     },
     {
       "channel": "#d3nkc",
@@ -2204,7 +2344,7 @@
     },
     {
       "channel": "#de-mitte",
-      "description": "de-mitte"
+      "description": "Region um Jena, wird dort nicht mehr weiter repeatet"
     },
     {
       "channel": "#de-mv",
@@ -2224,11 +2364,11 @@
     },
     {
       "channel": "#de-nw-nina-pott",
-      "description": "de-nw-nina-pott"
+      "description": "Automatisierte amtliche Warnmeldungen (NINA/MoWaS BBK) für Essen, Mülheim, Oberhausen, Duisburg, Dortmund, Velbert, Kreis Mettmann"
     },
     {
       "channel": "#de-ost",
-      "description": "de-ost"
+      "description": "Region um Jena, wird dort nicht mehr weiter repeatet"
     },
     {
       "channel": "#de-ping",
@@ -2260,11 +2400,19 @@
     },
     {
       "channel": "#de-th",
-      "description": "de-th"
+      "description": "Region Thüringen, auf Repeatern im Raum Jena konfiguriert"
+    },
+    {
+      "channel": "#de-th-j",
+      "description": "Default-Region & Scope für Jena"
+    },
+    {
+      "channel": "#de-th-shk",
+      "description": "Region Saale-Holzland-Kreis, auf Repeatern im Raum Jena konfiguriert"
     },
     {
       "channel": "#debrecen",
-      "description": "debrecen"
+      "description": "Debrecen and surrounding area chat channel"
     },
     {
       "channel": "#debug",
@@ -2352,7 +2500,7 @@
     },
     {
       "channel": "#dev",
-      "description": "dev"
+      "description": "Mesh developer chat for the Cascadia region."
     },
     {
       "channel": "#deventer",
@@ -2475,6 +2623,10 @@
       "description": "dm69"
     },
     {
+      "channel": "#dma-space",
+      "description": "Seattle hack/maker space channel (DMA.space)."
+    },
+    {
       "channel": "#dmc",
       "description": "dmc"
     },
@@ -2508,7 +2660,7 @@
     },
     {
       "channel": "#dogs",
-      "description": "dogs"
+      "description": "Dog facts, stories, and canine conversation (CascadiaMesh)."
     },
     {
       "channel": "#dolleman",
@@ -2559,6 +2711,10 @@
       "description": "doubs"
     },
     {
+      "channel": "#drama",
+      "description": "Channel for disputes, petty grievances, and arguments (CascadiaMesh)."
+    },
+    {
       "channel": "#drco",
       "description": "drco"
     },
@@ -2595,6 +2751,10 @@
       "description": "German Red Cross members"
     },
     {
+      "channel": "#drones",
+      "description": "Flying drones discussion (CascadiaMesh)."
+    },
+    {
       "channel": "#drugs",
       "description": "drugs"
     },
@@ -2623,6 +2783,10 @@
       "description": "Dublin region"
     },
     {
+      "channel": "#ducks",
+      "description": "Oregon Ducks chat (CascadiaMesh)."
+    },
+    {
       "channel": "#duesseldorf",
       "description": "duesseldorf"
     },
@@ -2635,6 +2799,10 @@
       "description": "duiven"
     },
     {
+      "channel": "#durham",
+      "description": "Durham, NC local channel (RDUMesh)."
+    },
+    {
       "channel": "#durlach",
       "description": "Karlsruhe district"
     },
@@ -2645,6 +2813,10 @@
     {
       "channel": "#dutchmeshcore",
       "description": "dutchmeshcore"
+    },
+    {
+      "channel": "#dwebyvr",
+      "description": "Local channel populated by the DWebYVR / Fraser Lowland mesh community."
     },
     {
       "channel": "#dwqtr",
@@ -2719,6 +2891,10 @@
       "description": "edinburgh"
     },
     {
+      "channel": "#edm",
+      "description": "Electronic music discussion (CascadiaMesh)."
+    },
+    {
       "channel": "#eee",
       "description": "eee"
     },
@@ -2775,6 +2951,10 @@
       "description": "elderveld"
     },
     {
+      "channel": "#eldorado",
+      "description": "Nachod area"
+    },
+    {
       "channel": "#electronics",
       "description": "electronics"
     },
@@ -2784,11 +2964,19 @@
     },
     {
       "channel": "#emcomm",
-      "description": "emcomm"
+      "description": "Discussion about emergency communications (CascadiaMesh)."
+    },
+    {
+      "channel": "#emcommplanning",
+      "description": "Emergency communication planning (West Coast Mesh)."
     },
     {
       "channel": "#emergency",
       "description": "emergency"
+    },
+    {
+      "channel": "#emergency-cowlitz",
+      "description": "Cowlitz County, WA emergency communications and incident coordination."
     },
     {
       "channel": "#emf",
@@ -2808,7 +2996,7 @@
     },
     {
       "channel": "#english",
-      "description": "english"
+      "description": "Internationaler, englischsprachiger Kanal"
     },
     {
       "channel": "#enna",
@@ -2899,6 +3087,10 @@
       "description": "eu"
     },
     {
+      "channel": "#eugene",
+      "description": "Eugene, OR chat (CascadiaMesh)."
+    },
+    {
       "channel": "#europa",
       "description": "europa"
     },
@@ -2911,12 +3103,24 @@
       "description": "evac"
     },
     {
+      "channel": "#event",
+      "description": "Share or plan events, like mesh meet ups (Bay Area)."
+    },
+    {
+      "channel": "#events",
+      "description": "Local and regional gatherings and events (CascadiaMesh)."
+    },
+    {
       "channel": "#events-elmshorn",
       "description": "events-elmshorn"
     },
     {
       "channel": "#evenvroegopstaan",
       "description": "evenvroegopstaan"
+    },
+    {
+      "channel": "#everett",
+      "description": "Everett, WA chat (CascadiaMesh)."
     },
     {
       "channel": "#evora",
@@ -2948,7 +3152,7 @@
     },
     {
       "channel": "#f1",
-      "description": "f1"
+      "description": "Formula One racing discussion (CascadiaMesh)."
     },
     {
       "channel": "#f38",
@@ -2981,6 +3185,10 @@
     {
       "channel": "#faro",
       "description": "faro"
+    },
+    {
+      "channel": "#farsouthcoast",
+      "description": "Far South Coast conversation and coordination."
     },
     {
       "channel": "#fat",
@@ -3039,6 +3247,10 @@
       "description": "fieldday"
     },
     {
+      "channel": "#fifa2026",
+      "description": "FIFA World Cup 2026 discussion (CascadiaMesh)."
+    },
+    {
       "channel": "#fife",
       "description": "fife"
     },
@@ -3072,7 +3284,7 @@
     },
     {
       "channel": "#flachwitze",
-      "description": "flachwitze"
+      "description": "Funny channel for sharing jokes"
     },
     {
       "channel": "#flevoland",
@@ -3107,6 +3319,10 @@
       "description": "fmo"
     },
     {
+      "channel": "#fnsw",
+      "description": "Fire-NeWS; fire-related channel (MeshSydney)."
+    },
+    {
       "channel": "#foo",
       "description": "foo"
     },
@@ -3116,7 +3332,7 @@
     },
     {
       "channel": "#food",
-      "description": "food"
+      "description": "Food and dining discussion (CascadiaMesh)."
     },
     {
       "channel": "#football",
@@ -3320,7 +3536,7 @@
     },
     {
       "channel": "#freebeer",
-      "description": "freebeer"
+      "description": "Social/recreational channel"
     },
     {
       "channel": "#freehardware",
@@ -3384,7 +3600,7 @@
     },
     {
       "channel": "#furry",
-      "description": "furry"
+      "description": "Furry community chat (CascadiaMesh)."
     },
     {
       "channel": "#fussball",
@@ -3448,11 +3664,15 @@
     },
     {
       "channel": "#gaming",
-      "description": "gaming"
+      "description": "Video games, RPGs, board games (CascadiaMesh)."
     },
     {
       "channel": "#garden",
       "description": "garden"
+    },
+    {
+      "channel": "#gardening",
+      "description": "Gardening discussion, from flowers to urban gardening (CascadiaMesh)."
     },
     {
       "channel": "#gas",
@@ -3600,7 +3820,7 @@
     },
     {
       "channel": "#gmrsradio",
-      "description": "gmrsradio"
+      "description": "GMRS radio discussion (CascadiaMesh)."
     },
     {
       "channel": "#gno",
@@ -3653,6 +3873,10 @@
     {
       "channel": "#gorlice",
       "description": "gorlice"
+    },
+    {
+      "channel": "#gorolia",
+      "description": "Trinec area"
     },
     {
       "channel": "#got",
@@ -3768,7 +3992,7 @@
     },
     {
       "channel": "#guns",
-      "description": "guns"
+      "description": "Firearms and gun safety discussion (CascadiaMesh)."
     },
     {
       "channel": "#gwn",
@@ -3864,7 +4088,7 @@
     },
     {
       "channel": "#ham",
-      "description": "ham"
+      "description": "Amateur radio community chat (MeshSydney)."
     },
     {
       "channel": "#hamburg",
@@ -3899,8 +4123,16 @@
       "description": "Hamburg Hansemesh MeshCore group discussion"
     },
     {
+      "channel": "#hard-software",
+      "description": "MeshCore related hardware and software discussion as well as troubleshooting"
+    },
+    {
       "channel": "#harderwijk",
       "description": "harderwijk"
+    },
+    {
+      "channel": "#hardware",
+      "description": "Chat all things hardware (West Coast Mesh)."
     },
     {
       "channel": "#harlingen",
@@ -4080,11 +4312,11 @@
     },
     {
       "channel": "#hiking",
-      "description": "hiking"
+      "description": "Hiking and trail discussion (CascadiaMesh)."
     },
     {
       "channel": "#hildesheim",
-      "description": "hildesheim"
+      "description": "Hildesheim, öffentlich"
     },
     {
       "channel": "#hilfe",
@@ -4127,6 +4359,10 @@
       "description": "homeassistant"
     },
     {
+      "channel": "#homesteading",
+      "description": "Homesteading-related topics."
+    },
+    {
       "channel": "#honk",
       "description": "honk"
     },
@@ -4167,6 +4403,10 @@
       "description": "hps"
     },
     {
+      "channel": "#hradeckralove",
+      "description": "Hradec Kralove region"
+    },
+    {
       "channel": "#hrcc",
       "description": "hrcc"
     },
@@ -4200,11 +4440,15 @@
     },
     {
       "channel": "#hume",
-      "description": "hume"
+      "description": "Albury & Wodonga conversation and coordination (au-hume)."
     },
     {
       "channel": "#hungary",
-      "description": "hungary"
+      "description": "General Hungarian chat channel"
+    },
+    {
+      "channel": "#huskies",
+      "description": "Washington Huskies sports discussion (CascadiaMesh)."
     },
     {
       "channel": "#hvm",
@@ -4237,6 +4481,10 @@
     {
       "channel": "#ibybz",
       "description": "ibybz"
+    },
+    {
+      "channel": "#ice-alert",
+      "description": "ICE (Immigration and Customs Enforcement) activity alerts and safety updates."
     },
     {
       "channel": "#icewatch",
@@ -4284,7 +4532,7 @@
     },
     {
       "channel": "#illawarra",
-      "description": "illawarra"
+      "description": "Illawarra & Wollongong conversation and coordination (au-nsw-wol)."
     },
     {
       "channel": "#illingen",
@@ -4311,12 +4559,20 @@
       "description": "infosec"
     },
     {
+      "channel": "#infra-alert-karlsruhe",
+      "description": "Automatisierte Statusnachrichten bei Infrastrukturstörungen im Raum Karlsruhe"
+    },
+    {
       "channel": "#ingolstadt",
       "description": "Ingolstadt"
     },
     {
+      "channel": "#inlandempire",
+      "description": "Local chat for the Inland Empire, California."
+    },
+    {
       "channel": "#inn-salzach",
-      "description": "inn-salzach"
+      "description": "Kanal für die Grenzregion Innviertel/Salzburg"
     },
     {
       "channel": "#ino",
@@ -4324,7 +4580,7 @@
     },
     {
       "channel": "#insomnia",
-      "description": "insomnia"
+      "description": "Late-night 'can't sleep' conversation (CascadiaMesh)."
     },
     {
       "channel": "#invite",
@@ -4371,12 +4627,20 @@
       "description": "iserlohn"
     },
     {
+      "channel": "#island",
+      "description": "Island County, WA chat (CascadiaMesh)."
+    },
+    {
       "channel": "#isleofwight",
       "description": "isleofwight"
     },
     {
       "channel": "#isny",
       "description": "isny"
+    },
+    {
+      "channel": "#issaquah",
+      "description": "Issaquah, WA chat (CascadiaMesh)."
     },
     {
       "channel": "#it",
@@ -4443,6 +4707,10 @@
       "description": "jeffcomesh"
     },
     {
+      "channel": "#jefferson",
+      "description": "Jefferson County, WA chat (CascadiaMesh)."
+    },
+    {
       "channel": "#jelcz",
       "description": "jelcz"
     },
@@ -4452,7 +4720,7 @@
     },
     {
       "channel": "#jizak",
-      "description": "jizak"
+      "description": "Local topics and meetups, Prague south district (Jizni Mesto) area"
     },
     {
       "channel": "#jj",
@@ -4476,7 +4744,7 @@
     },
     {
       "channel": "#jokes",
-      "description": "Humor sharing"
+      "description": "Humor channel"
     },
     {
       "channel": "#jrs",
@@ -4616,7 +4884,7 @@
     },
     {
       "channel": "#kf",
-      "description": "kf"
+      "description": "MeshCore-Kanal Kärnten, live mitlesbar via meshfeed unter mesh.kaernten-funkt.at"
     },
     {
       "channel": "#khant",
@@ -4632,7 +4900,7 @@
     },
     {
       "channel": "#kiel",
-      "description": "kiel"
+      "description": "Region Kiel"
     },
     {
       "channel": "#kink",
@@ -4641,6 +4909,10 @@
     {
       "channel": "#kinzigtal",
       "description": "kinzigtal"
+    },
+    {
+      "channel": "#kitsap",
+      "description": "Kitsap County, WA chat (CascadiaMesh)."
     },
     {
       "channel": "#kitzingen",
@@ -4719,8 +4991,16 @@
       "description": "kraichgau"
     },
     {
+      "channel": "#kraken",
+      "description": "Seattle Kraken NHL hockey discussion (CascadiaMesh)."
+    },
+    {
       "channel": "#krefeld",
       "description": "krefeld"
+    },
+    {
+      "channel": "#kremwerk",
+      "description": "Discussion about the MeshCore-enabled Seattle club complex Kremwerk."
     },
     {
       "channel": "#krg",
@@ -4787,6 +5067,10 @@
       "description": "lagos"
     },
     {
+      "channel": "#lakeforest",
+      "description": "Local chat for Lake Forest, California."
+    },
+    {
       "channel": "#lancashire",
       "description": "lancashire"
     },
@@ -4809,6 +5093,10 @@
     {
       "channel": "#lasvegas",
       "description": "lasvegas"
+    },
+    {
+      "channel": "#law",
+      "description": "Legal advice/discussion channel (CascadiaMesh)."
     },
     {
       "channel": "#lazu",
@@ -4857,6 +5145,10 @@
     {
       "channel": "#leeuwarden",
       "description": "leeuwarden"
+    },
+    {
+      "channel": "#legnica",
+      "description": "Legnica regional channel"
     },
     {
       "channel": "#leicester",
@@ -5063,6 +5355,10 @@
       "description": "london"
     },
     {
+      "channel": "#longisland",
+      "description": "Long Island, NY regional channel (Long Island Mesh)."
+    },
+    {
       "channel": "#loosdrecht",
       "description": "loosdrecht"
     },
@@ -5143,12 +5439,16 @@
       "description": "lykjk"
     },
     {
+      "channel": "#lynden",
+      "description": "Lynden, WA chat (CascadiaMesh)."
+    },
+    {
       "channel": "#lyon",
       "description": "lyon"
     },
     {
       "channel": "#lysa",
-      "description": "lysa"
+      "description": "Lysa nad Labem residents"
     },
     {
       "channel": "#lzbot",
@@ -5167,8 +5467,28 @@
       "description": "m7syr"
     },
     {
+      "channel": "#ma-classifieds",
+      "description": "Buy/sell/trade/hire, mesh classifieds (Massachusetts)."
+    },
+    {
+      "channel": "#ma-computing",
+      "description": "Computing discussion: hardware, software, OS (Massachusetts)."
+    },
+    {
       "channel": "#ma-hc",
       "description": "ma-hc"
+    },
+    {
+      "channel": "#ma-mesh",
+      "description": "General MA chat - say hi, share a spotting, talk mesh shop with MA folks."
+    },
+    {
+      "channel": "#ma-test",
+      "description": "Massachusetts testing channel (Pioneer Valley Mesh)."
+    },
+    {
+      "channel": "#ma-wardriving",
+      "description": "War driving and mobile testing activities (Massachusetts)."
     },
     {
       "channel": "#maasland",
@@ -5188,7 +5508,7 @@
     },
     {
       "channel": "#macarthur",
-      "description": "macarthur"
+      "description": "Macarthur conversation and coordination (au-nsw-syd)."
     },
     {
       "channel": "#madeira",
@@ -5279,6 +5599,10 @@
       "description": "marin"
     },
     {
+      "channel": "#mariners",
+      "description": "Seattle Mariners MLB baseball chat (CascadiaMesh)."
+    },
+    {
       "channel": "#marktplaats",
       "description": "marktplaats"
     },
@@ -5291,8 +5615,16 @@
       "description": "marv"
     },
     {
+      "channel": "#marysville",
+      "description": "Marysville, WA chat (CascadiaMesh)."
+    },
+    {
       "channel": "#maschen",
       "description": "maschen"
+    },
+    {
+      "channel": "#mason",
+      "description": "Mason County, WA chat (CascadiaMesh)."
     },
     {
       "channel": "#mastodon",
@@ -5332,7 +5664,7 @@
     },
     {
       "channel": "#mc-radar",
-      "description": "mc-radar"
+      "description": "Kanal zur Ausbreitungsmessung; Observer tragen Empfang auf mc-radar.woodwar.com ein"
     },
     {
       "channel": "#mc-tisch",
@@ -5340,7 +5672,7 @@
     },
     {
       "channel": "#mc-treffen",
-      "description": "mc-treffen"
+      "description": "Kanal für lokale Koordination/Treffen (Berlin)"
     },
     {
       "channel": "#mcb",
@@ -5353,6 +5685,10 @@
     {
       "channel": "#mchf",
       "description": "mchf"
+    },
+    {
+      "channel": "#mckenzie",
+      "description": "McKenzie River Valley, OR chat (CascadiaMesh)."
     },
     {
       "channel": "#mclite",
@@ -5395,6 +5731,10 @@
       "description": "medway"
     },
     {
+      "channel": "#meetup",
+      "description": "Austin Mesh meetup coordination channel."
+    },
+    {
       "channel": "#melbourne",
       "description": "melbourne"
     },
@@ -5428,7 +5768,7 @@
     },
     {
       "channel": "#mesh",
-      "description": "mesh"
+      "description": "General mesh networking topics, node setup, and troubleshooting."
     },
     {
       "channel": "#mesh-ai",
@@ -5456,7 +5796,7 @@
     },
     {
       "channel": "#meshcore",
-      "description": "Information about MeshCore"
+      "description": "General MeshCore discussion (CascadiaMesh)."
     },
     {
       "channel": "#meshcore-at",
@@ -5477,6 +5817,10 @@
     {
       "channel": "#meshcore-nl",
       "description": "meshcore-nl"
+    },
+    {
+      "channel": "#meshcore-rs",
+      "description": "Discussion around meshcore-rs, the open-source Rust library for MeshCore devices."
     },
     {
       "channel": "#meshcore-uk",
@@ -5511,12 +5855,20 @@
       "description": "meshoe"
     },
     {
+      "channel": "#meshpotamia",
+      "description": "Higher-level discussion of MeshCore's technical and social challenges."
+    },
+    {
       "channel": "#meshtastic",
       "description": "meshtastic"
     },
     {
       "channel": "#meshtechnik",
       "description": "meshtechnik"
+    },
+    {
+      "channel": "#metalmusic",
+      "description": "Metal, Djent, Metalcore music discussion (CascadiaMesh)."
     },
     {
       "channel": "#meteo",
@@ -5561,6 +5913,10 @@
     {
       "channel": "#midlands",
       "description": "midlands"
+    },
+    {
+      "channel": "#midnorthcoast",
+      "description": "Mid-North Coast conversation and coordination."
     },
     {
       "channel": "#midt-norge",
@@ -5619,6 +5975,10 @@
       "description": "Main-Kinzig-Kreis"
     },
     {
+      "channel": "#mladaboleslav",
+      "description": "Mlada Boleslav and area"
+    },
+    {
       "channel": "#mnot",
       "description": "mnot"
     },
@@ -5672,7 +6032,7 @@
     },
     {
       "channel": "#movies",
-      "description": "movies"
+      "description": "Movie discussion channel (CascadiaMesh)."
     },
     {
       "channel": "#mow",
@@ -5691,8 +6051,12 @@
       "description": "msc"
     },
     {
+      "channel": "#mshbot",
+      "description": "General mesh bot channel (MeshSydney)."
+    },
+    {
       "channel": "#mu-praha",
-      "description": "mu-praha"
+      "description": "Regional emergency channel for Prague and area, testing phase"
     },
     {
       "channel": "#muc",
@@ -5715,8 +6079,12 @@
       "description": "muensterland"
     },
     {
+      "channel": "#mukilteo",
+      "description": "Mukilteo, WA chat (CascadiaMesh)."
+    },
+    {
       "channel": "#multibyte",
-      "description": "multibyte"
+      "description": "Channel for testing multi-byte path hash mode (CascadiaMesh)."
     },
     {
       "channel": "#mumbai",
@@ -5732,7 +6100,7 @@
     },
     {
       "channel": "#music",
-      "description": "music"
+      "description": "Music discussion and chat (CascadiaMesh)."
     },
     {
       "channel": "#musik",
@@ -5777,6 +6145,10 @@
     {
       "channel": "#nairobi",
       "description": "nairobi"
+    },
+    {
+      "channel": "#naked",
+      "description": "Nudist community chat (CascadiaMesh)."
     },
     {
       "channel": "#nancy",
@@ -5835,8 +6207,16 @@
       "description": "neo"
     },
     {
+      "channel": "#nepean",
+      "description": "Nepean conversation and coordination (au-nsw-syd)."
+    },
+    {
       "channel": "#nerd",
       "description": "nerd"
+    },
+    {
+      "channel": "#nerd-flohmarkt",
+      "description": "Kanal für Kleinanzeigen/Flohmarkt unter Bastlern"
     },
     {
       "channel": "#nerg",
@@ -5867,8 +6247,12 @@
       "description": "nevada"
     },
     {
+      "channel": "#newbies",
+      "description": "For novices where experienced users can advise, primarily for official firmware"
+    },
+    {
       "channel": "#newcastle",
-      "description": "newcastle"
+      "description": "Newcastle & Hunter conversation and coordination (au-nsw-ntl)."
     },
     {
       "channel": "#newiebot2300",
@@ -5876,7 +6260,7 @@
     },
     {
       "channel": "#news",
-      "description": "Nachrichten von butenunbinnen.de"
+      "description": "BC Headlines from KamBot (CascadiaMesh)."
     },
     {
       "channel": "#newyork",
@@ -5895,12 +6279,20 @@
       "description": "nga"
     },
     {
+      "channel": "#nhhc",
+      "description": "New Hampshire health-check pings."
+    },
+    {
+      "channel": "#nhmesh",
+      "description": "New Hampshire-focused general chat."
+    },
+    {
       "channel": "#nhn",
       "description": "nhn"
     },
     {
       "channel": "#ni",
-      "description": "ni"
+      "description": "Niedersachsen"
     },
     {
       "channel": "#niederbayern",
@@ -6136,7 +6528,7 @@
     },
     {
       "channel": "#noe",
-      "description": "noe"
+      "description": "Regionaler Kanal für Niederösterreich"
     },
     {
       "channel": "#noginsk",
@@ -6219,8 +6611,16 @@
       "description": "northbay"
     },
     {
+      "channel": "#northbend",
+      "description": "North Bend, WA chat (CascadiaMesh)."
+    },
+    {
       "channel": "#northeast",
       "description": "northeast"
+    },
+    {
+      "channel": "#northend",
+      "description": "Lake Forest Park, Shoreline, Kenmore and Bothell, WA (CascadiaMesh)."
     },
     {
       "channel": "#northwales",
@@ -6255,12 +6655,20 @@
       "description": "nova"
     },
     {
+      "channel": "#novato",
+      "description": "Novato local chat."
+    },
+    {
+      "channel": "#nowra",
+      "description": "Nowra and Shoalhaven conversation and coordination (au-nsw-noa)."
+    },
+    {
       "channel": "#npn",
       "description": "npn"
     },
     {
       "channel": "#nrl",
-      "description": "nrl"
+      "description": "Rugby League (NRL) discussion (MeshSydney)."
     },
     {
       "channel": "#nrw",
@@ -6284,7 +6692,7 @@
     },
     {
       "channel": "#nsw",
-      "description": "nsw"
+      "description": "State-wide coordination (au-nsw)."
     },
     {
       "channel": "#nuenen",
@@ -6391,6 +6799,10 @@
       "description": "oegstgeest"
     },
     {
+      "channel": "#oeradio",
+      "description": "Kanal des Vereins OERadio, seit 31.08.2026 live im Discord mitlesbar (Kärnten)"
+    },
+    {
       "channel": "#oersoep",
       "description": "oersoep"
     },
@@ -6435,6 +6847,10 @@
       "description": "oldeholtpade"
     },
     {
+      "channel": "#olomouc",
+      "description": "Olomouc region"
+    },
+    {
       "channel": "#olpe",
       "description": "olpe"
     },
@@ -6449,6 +6865,10 @@
     {
       "channel": "#olympia",
       "description": "olympia"
+    },
+    {
+      "channel": "#olypen",
+      "description": "Olympic Peninsula (Port Angeles, Sequim, Port Townsend) chat."
     },
     {
       "channel": "#on0vw",
@@ -6489,6 +6909,18 @@
     {
       "channel": "#ops",
       "description": "ops"
+    },
+    {
+      "channel": "#orangecounty",
+      "description": "Local chat for Orange County, California."
+    },
+    {
+      "channel": "#orcas",
+      "description": "Seattle Orcas Major League Cricket discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#oregon",
+      "description": "Oregon statewide chat (CascadiaMesh)."
     },
     {
       "channel": "#oresund",
@@ -6533,6 +6965,10 @@
     {
       "channel": "#ostfriesland",
       "description": "alles was zu Ostfriesland gehört"
+    },
+    {
+      "channel": "#ostrava",
+      "description": "Ostrava and surrounding area"
     },
     {
       "channel": "#otp",
@@ -6763,6 +7199,10 @@
       "description": "philly"
     },
     {
+      "channel": "#philomath",
+      "description": "Philomath, OR regional chat (CascadiaMesh)."
+    },
+    {
       "channel": "#phoenix",
       "description": "phoenix"
     },
@@ -6812,7 +7252,7 @@
     },
     {
       "channel": "#ping",
-      "description": "Ping/pong tests with bot responses"
+      "description": "Kanal für Tests, u.a. automatisierte Ping-Bots"
     },
     {
       "channel": "#ping-bw",
@@ -6868,7 +7308,7 @@
     },
     {
       "channel": "#plzen",
-      "description": "plzen"
+      "description": "Plzen area"
     },
     {
       "channel": "#pm",
@@ -6888,7 +7328,7 @@
     },
     {
       "channel": "#pnw",
-      "description": "pnw"
+      "description": "Pacific Northwest discussion (CascadiaMesh, spans US/Canada)."
     },
     {
       "channel": "#pnwd",
@@ -6900,7 +7340,7 @@
     },
     {
       "channel": "#pokemon",
-      "description": "pokemon"
+      "description": "Pokemon discussion channel (CascadiaMesh)."
     },
     {
       "channel": "#poland",
@@ -6929,6 +7369,10 @@
     {
       "channel": "#pong",
       "description": "pong"
+    },
+    {
+      "channel": "#poprad",
+      "description": "Poprad area"
     },
     {
       "channel": "#porn",
@@ -6975,6 +7419,10 @@
       "description": "pouet"
     },
     {
+      "channel": "#power",
+      "description": "Automated power outage alerts from PG&E (Bay Area)."
+    },
+    {
       "channel": "#poz",
       "description": "poz"
     },
@@ -7004,7 +7452,7 @@
     },
     {
       "channel": "#praha",
-      "description": "praha"
+      "description": "Prague and surrounding area"
     },
     {
       "channel": "#prepper",
@@ -7023,8 +7471,16 @@
       "description": "preset-test"
     },
     {
+      "channel": "#presov",
+      "description": "Presov area"
+    },
+    {
       "channel": "#pride",
       "description": "pride"
+    },
+    {
+      "channel": "#prievidza",
+      "description": "Prievidza area"
     },
     {
       "channel": "#prikbord",
@@ -7144,7 +7600,15 @@
     },
     {
       "channel": "#qrv",
-      "description": "qrv"
+      "description": "Channel for licensed amateur radio operators to coordinate and log contacts (QSOs)"
+    },
+    {
+      "channel": "#quakealerts",
+      "description": "NZ-wide earthquake notifications from GeoNet."
+    },
+    {
+      "channel": "#queenanne",
+      "description": "Queen Anne neighborhood channel, Seattle (CascadiaMesh)."
     },
     {
       "channel": "#queens",
@@ -7179,12 +7643,20 @@
       "description": "radio-zend-amateurs"
     },
     {
+      "channel": "#radioamatori-yo",
+      "description": "Discussion space for radio amateurs with YO callsigns and technical experiments"
+    },
+    {
       "channel": "#radioxford",
       "description": "radioxford"
     },
     {
       "channel": "#radsr",
       "description": "radsr"
+    },
+    {
+      "channel": "#raleigh",
+      "description": "Raleigh, NC local channel (RDUMesh)."
     },
     {
       "channel": "#ramada",
@@ -7211,8 +7683,12 @@
       "description": "rave"
     },
     {
+      "channel": "#ravenna",
+      "description": "Ravenna neighborhood channel, Seattle (CascadiaMesh)."
+    },
+    {
       "channel": "#raves",
-      "description": "raves"
+      "description": "Underground rave, club and EDM festival discussion (CascadiaMesh)."
     },
     {
       "channel": "#rbit",
@@ -7231,8 +7707,16 @@
       "description": "rdu"
     },
     {
+      "channel": "#rdumesh",
+      "description": "Channel to talk about the RDUMesh network itself."
+    },
+    {
       "channel": "#reading",
       "description": "reading"
+    },
+    {
+      "channel": "#recs",
+      "description": "Recommendations channel (MeshSydney)."
     },
     {
       "channel": "#redditch-hams",
@@ -7261,6 +7745,10 @@
     {
       "channel": "#regions",
       "description": "regions"
+    },
+    {
+      "channel": "#reign",
+      "description": "Seattle Reign NWSL soccer discussion (CascadiaMesh)."
     },
     {
       "channel": "#rein",
@@ -7308,7 +7796,7 @@
     },
     {
       "channel": "#reticulum",
-      "description": "reticulum"
+      "description": "Reticulum project discussion"
     },
     {
       "channel": "#retie",
@@ -7371,6 +7859,10 @@
       "description": "riotfest"
     },
     {
+      "channel": "#riverina",
+      "description": "Wagga Wagga & Riverina conversation and coordination (au-hume)."
+    },
+    {
       "channel": "#rkn",
       "description": "rkn"
     },
@@ -7429,6 +7921,14 @@
     {
       "channel": "#roe",
       "description": "roe"
+    },
+    {
+      "channel": "#roguevalley",
+      "description": "Jackson and Josephine counties, Oregon (CascadiaMesh)."
+    },
+    {
+      "channel": "#rolojnr",
+      "description": "RoloJnr bot channel: help, ping, test, path, wx, time, signal, AI queries (au-nsw-syd)."
     },
     {
       "channel": "#romandie",
@@ -7515,8 +8015,16 @@
       "description": "rude"
     },
     {
+      "channel": "#rugby",
+      "description": "Rugby discussion (CascadiaMesh)."
+    },
+    {
       "channel": "#ruhrgebiet",
       "description": "Ruhr area"
+    },
+    {
+      "channel": "#running",
+      "description": "Running and jogging discussion (CascadiaMesh)."
     },
     {
       "channel": "#ruse",
@@ -7591,8 +8099,16 @@
       "description": "salem"
     },
     {
+      "channel": "#salishmesh",
+      "description": "Primary hashtag channel for the Salish Mesh network, Fraser Lowland / SW British Columbia."
+    },
+    {
       "channel": "#salland",
       "description": "salland"
+    },
+    {
+      "channel": "#sanbernardino",
+      "description": "Local chat for San Bernardino County."
     },
     {
       "channel": "#sandiego",
@@ -7601,6 +8117,10 @@
     {
       "channel": "#sanjose",
       "description": "sanjose"
+    },
+    {
+      "channel": "#sanleandro",
+      "description": "San Leandro local chat."
     },
     {
       "channel": "#santarem",
@@ -7616,11 +8136,15 @@
     },
     {
       "channel": "#sar",
-      "description": "sar"
+      "description": "Search and Rescue coordination channel (CascadiaMesh)."
     },
     {
       "channel": "#sarlorlux",
       "description": "Saarland"
+    },
+    {
+      "channel": "#sartest",
+      "description": "Testing channel for the MeshCore-SAR app (CascadiaMesh)."
     },
     {
       "channel": "#sas2j",
@@ -7629,6 +8153,10 @@
     {
       "channel": "#sauerland",
       "description": "Sauerland region"
+    },
+    {
+      "channel": "#sbcountymesh",
+      "description": "Local chat for Santa Barbara County."
     },
     {
       "channel": "#sbh",
@@ -7685,6 +8213,10 @@
     {
       "channel": "#scouting",
       "description": "scouting"
+    },
+    {
+      "channel": "#scvmesh",
+      "description": "Local chat for Santa Clarita Valley."
     },
     {
       "channel": "#sda",
@@ -7759,6 +8291,10 @@
       "description": "seoul"
     },
     {
+      "channel": "#sequim",
+      "description": "Sequim, WA chat (CascadiaMesh)."
+    },
+    {
       "channel": "#serbia",
       "description": "serbia"
     },
@@ -7804,7 +8340,7 @@
     },
     {
       "channel": "#sh",
-      "description": "sh"
+      "description": "Schleswig-Holstein"
     },
     {
       "channel": "#shd",
@@ -7877,6 +8413,10 @@
     {
       "channel": "#siscd",
       "description": "siscd"
+    },
+    {
+      "channel": "#skagit",
+      "description": "Skagit County, WA chat (CascadiaMesh)."
     },
     {
       "channel": "#skanderborg",
@@ -7987,6 +8527,14 @@
       "description": "sondy"
     },
     {
+      "channel": "#sonoma",
+      "description": "Sonoma (town) local chat."
+    },
+    {
+      "channel": "#sonoma-county",
+      "description": "Sonoma County local chat."
+    },
+    {
       "channel": "#sop",
       "description": "sop"
     },
@@ -8007,6 +8555,10 @@
       "description": "sounders"
     },
     {
+      "channel": "#south-bay-peninsula",
+      "description": "South Bay / Peninsula local chat."
+    },
+    {
       "channel": "#southafrica",
       "description": "southafrica"
     },
@@ -8021,6 +8573,14 @@
     {
       "channel": "#southeast",
       "description": "southeast"
+    },
+    {
+      "channel": "#southern-oregon",
+      "description": "Southern Oregon regional chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#southisland",
+      "description": "Greater Victoria, BC (CascadiaMesh)."
     },
     {
       "channel": "#southwest",
@@ -8068,7 +8628,7 @@
     },
     {
       "channel": "#sports",
-      "description": "Sports enthusiasts"
+      "description": "Sports discussion (MeshSydney)."
     },
     {
       "channel": "#sportscores",
@@ -8195,6 +8755,14 @@
       "description": "styrum"
     },
     {
+      "channel": "#suburbs",
+      "description": "Chicago suburbs regional channel (Chicagoland Mesh)."
+    },
+    {
+      "channel": "#sudety",
+      "description": "Sudety mountain region"
+    },
+    {
       "channel": "#suedbaden",
       "description": "suedbaden"
     },
@@ -8276,7 +8844,7 @@
     },
     {
       "channel": "#sydney",
-      "description": "sydney"
+      "description": "Sydney metro conversation and coordination (au-nsw-syd)."
     },
     {
       "channel": "#szao",
@@ -8347,6 +8915,10 @@
       "description": "Taunus region (www.taunus-mesh.de)"
     },
     {
+      "channel": "#taunusmesh",
+      "description": "Taunus-Mesh, öffentlich"
+    },
+    {
       "channel": "#tbarc",
       "description": "tbarc"
     },
@@ -8368,7 +8940,7 @@
     },
     {
       "channel": "#tech",
-      "description": "tech"
+      "description": "Hardware/software discussions"
     },
     {
       "channel": "#technic",
@@ -8392,7 +8964,7 @@
     },
     {
       "channel": "#teplotaveskleniku",
-      "description": "teplotaveskleniku"
+      "description": "Informal/lifestyle channel"
     },
     {
       "channel": "#terschelling",
@@ -8404,7 +8976,7 @@
     },
     {
       "channel": "#test",
-      "description": "test"
+      "description": "Testkanal"
     },
     {
       "channel": "#test-1",
@@ -8555,6 +9127,10 @@
       "description": "tilly"
     },
     {
+      "channel": "#timbers",
+      "description": "Portland Timbers chat (CascadiaMesh)."
+    },
+    {
       "channel": "#timisoara",
       "description": "timisoara"
     },
@@ -8591,8 +9167,24 @@
       "description": "tn-hawkins"
     },
     {
+      "channel": "#tn-knox",
+      "description": "Local channel for Knox County, TN."
+    },
+    {
+      "channel": "#tn-mcminn",
+      "description": "Local channel for McMinn County, TN."
+    },
+    {
       "channel": "#tn-middle",
       "description": "tn-middle"
+    },
+    {
+      "channel": "#tn-polk",
+      "description": "Local channel for Polk County, TN."
+    },
+    {
+      "channel": "#tn-west",
+      "description": "Conversations and coordination for West Tennessee."
     },
     {
       "channel": "#tn-wx",
@@ -8637,6 +9229,14 @@
     {
       "channel": "#trail",
       "description": "trail"
+    },
+    {
+      "channel": "#tramping",
+      "description": "Hiking and tramping conversation."
+    },
+    {
+      "channel": "#transit",
+      "description": "Transit information bot channel (CascadiaMesh)."
     },
     {
       "channel": "#translink",
@@ -8693,6 +9293,10 @@
     {
       "channel": "#tuebingen",
       "description": "tuebingen"
+    },
+    {
+      "channel": "#turiec",
+      "description": "Martin, Turcianske Teplice, and Vrutky areas"
     },
     {
       "channel": "#tvtorenmierlo",
@@ -8864,7 +9468,15 @@
     },
     {
       "channel": "#vancouver",
-      "description": "vancouver"
+      "description": "Vancouver, BC area chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#vancouverwa",
+      "description": "Vancouver, WA chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#vanisle",
+      "description": "Vancouver Island, BC regional chat (CascadiaMesh)."
     },
     {
       "channel": "#vao",
@@ -8931,6 +9543,10 @@
       "description": "venray"
     },
     {
+      "channel": "#venturacounty",
+      "description": "Local chat for Ventura County, California."
+    },
+    {
       "channel": "#vereinsheim",
       "description": "vereinsheim"
     },
@@ -8948,7 +9564,7 @@
     },
     {
       "channel": "#veszhelyzet",
-      "description": "veszhelyzet"
+      "description": "Disaster management news and lake storm warning system info channel"
     },
     {
       "channel": "#veteranen",
@@ -8979,12 +9595,16 @@
       "description": "vice-versa-34"
     },
     {
+      "channel": "#victoria",
+      "description": "Victoria, BC chat (CascadiaMesh)."
+    },
+    {
       "channel": "#vie",
       "description": "vie"
     },
     {
       "channel": "#vienna",
-      "description": "vienna"
+      "description": "Regionaler Kanal für Wien"
     },
     {
       "channel": "#vietnam",
@@ -9119,6 +9739,10 @@
       "description": "vught"
     },
     {
+      "channel": "#vychod",
+      "description": "Eastern Slovakia region"
+    },
+    {
       "channel": "#vysd-x",
       "description": "vysd-x"
     },
@@ -9148,7 +9772,7 @@
     },
     {
       "channel": "#wadamesh",
-      "description": "wadamesh"
+      "description": "Discussion about the standalone T-Deck firmware from WaDaMesh.com."
     },
     {
       "channel": "#wadameshchannel",
@@ -9247,6 +9871,14 @@
       "description": "warsaw"
     },
     {
+      "channel": "#washcoares",
+      "description": "Washington County, OR ARES amateur radio emergency services coordination."
+    },
+    {
+      "channel": "#washington",
+      "description": "Washington statewide chat (CascadiaMesh)."
+    },
+    {
       "channel": "#washingtondc",
       "description": "washingtondc"
     },
@@ -9272,7 +9904,7 @@
     },
     {
       "channel": "#weather",
-      "description": "weather"
+      "description": "Weather bot channel: 'wx <location>' or 'wx' (MeshSydney)."
     },
     {
       "channel": "#wecg",
@@ -9368,7 +10000,7 @@
     },
     {
       "channel": "#wetter-simmering",
-      "description": "wetter-simmering"
+      "description": "Wetterkanal, Region \"at-w\" (Simmering, Wien)"
     },
     {
       "channel": "#wetterau",
@@ -9385,6 +10017,10 @@
     {
       "channel": "#wfmesh",
       "description": "wfmesh"
+    },
+    {
+      "channel": "#whitecaps",
+      "description": "Vancouver Whitecaps MLS soccer chat (CascadiaMesh)."
     },
     {
       "channel": "#whitesox",
@@ -9431,8 +10067,20 @@
       "description": "wk26"
     },
     {
+      "channel": "#wlg-marine",
+      "description": "Wellington marine forecasts, tides, sea temperature (5am & 12pm daily)."
+    },
+    {
+      "channel": "#wlg-weather",
+      "description": "Wellington, Kapiti, Blenheim forecasts (6am & 7pm) plus Metservice alerts."
+    },
+    {
       "channel": "#wlkp",
       "description": "wlkp"
+    },
+    {
+      "channel": "#wmass",
+      "description": "Western Massachusetts regional channel (Pioneer Valley Mesh)."
     },
     {
       "channel": "#wnc",
@@ -9453,6 +10101,10 @@
     {
       "channel": "#woid",
       "description": "woid"
+    },
+    {
+      "channel": "#wolbot",
+      "description": "Wollongong bot channel (au-nsw-wol)."
     },
     {
       "channel": "#wolfsburg",
@@ -9668,7 +10320,7 @@
     },
     {
       "channel": "#zdravice",
-      "description": "zdravice"
+      "description": "Greetings channel"
     },
     {
       "channel": "#zeeland",
@@ -9703,12 +10355,20 @@
       "description": "zgz"
     },
     {
+      "channel": "#zilina",
+      "description": "Zilina area"
+    },
+    {
       "channel": "#zirndorf",
       "description": "zirndorf"
     },
     {
       "channel": "#zkynj",
       "description": "zkynj"
+    },
+    {
+      "channel": "#zlin",
+      "description": "Zlin region"
     },
     {
       "channel": "#zoetermeer",
@@ -9721,6 +10381,14 @@
     {
       "channel": "#zork",
       "description": "zork"
+    },
+    {
+      "channel": "#zpovednice",
+      "description": "Confessions channel"
+    },
+    {
+      "channel": "#zspace",
+      "description": "Local channel populated by the DWebYVR / Fraser Lowland mesh community."
     },
     {
       "channel": "#ztay",
@@ -9751,6 +10419,10 @@
       "description": "zutphen"
     },
     {
+      "channel": "#zvolen",
+      "description": "Zvolen area"
+    },
+    {
       "channel": "#zwickau",
       "description": "Zwickau"
     },
@@ -9771,9 +10443,34 @@
       "description": "zzz"
     },
     {
+      "channel": "abruzzo",
+      "description": "Abruzzo regional channel",
+      "key": "isN2tAMpdljWKhkdt8dKfA=="
+    },
+    {
       "channel": "alert-lo",
       "description": "Automated weather alert and emergencies, Lombardia region",
       "key": "wvjINGz5QNg8e/ECY8u4Uw=="
+    },
+    {
+      "channel": "alto-adige-sudtirol",
+      "description": "Alto Adige/Südtirol regional channel",
+      "key": "/YefVnmjoQoeM9WP5bIdRA=="
+    },
+    {
+      "channel": "basilicata",
+      "description": "Basilicata regional channel",
+      "key": "MH6ww+41rTx+8Z/KnRXblw=="
+    },
+    {
+      "channel": "calabria",
+      "description": "Calabria regional channel",
+      "key": "hdroHYjRI/WB8DW/wFzwJA=="
+    },
+    {
+      "channel": "campania",
+      "description": "Campania regional channel",
+      "key": "SVm/Hl2MPJvZMg23o3Jnsw=="
     },
     {
       "channel": "emilia-romagna",
@@ -9791,6 +10488,11 @@
       "key": "TJe/5DGr4gZyJZ2baWnc7A=="
     },
     {
+      "channel": "lazio",
+      "description": "Lazio regional channel",
+      "key": "p0MI8cLr/ZvU86kdVcmdKA=="
+    },
+    {
       "channel": "liguria",
       "description": "Liguria region",
       "key": "u8/tjfIueiFjgmSBoG9YTQ=="
@@ -9801,6 +10503,11 @@
       "key": "ejqYj3d1AmbjZJMtlMz1IQ=="
     },
     {
+      "channel": "marche",
+      "description": "Marche regional channel",
+      "key": "2Sj2nrfcfN/ur+zAMK7diA=="
+    },
+    {
       "channel": "meteo",
       "description": "Discussions about weather",
       "key": "gxrw9Qt78UOkdwwFrj64iA=="
@@ -9809,6 +10516,11 @@
       "channel": "milano",
       "description": "Milano city and province",
       "key": "yh1i8/ES8Zgcjup1av4Quw=="
+    },
+    {
+      "channel": "molise",
+      "description": "Molise regional channel",
+      "key": "ETQCHzolqbSXhY2DNt8a+w=="
     },
     {
       "channel": "news",
@@ -9831,9 +10543,24 @@
       "key": "izOH6cXN6mrJ5e26oRXNcg=="
     },
     {
+      "channel": "puglia",
+      "description": "Puglia regional channel",
+      "key": "ye4KV7aI0iNEYsA5soAftg=="
+    },
+    {
+      "channel": "sardegna",
+      "description": "Sardegna regional channel",
+      "key": "Jswt/Nt9qoLYVj32AQC1zg=="
+    },
+    {
       "channel": "seeland",
       "description": "Biel/Bienne and surrounding areas",
       "key": "9DuSeXfSbvS2C1gXGcMTfA=="
+    },
+    {
+      "channel": "sicilia",
+      "description": "Sicilia regional channel",
+      "key": "BWouR2QucVFt19HR0/LuqQ=="
     },
     {
       "channel": "suisse-romande",
@@ -9844,6 +10571,21 @@
       "channel": "toscana",
       "description": "Toscana region",
       "key": "WOr44P+lKcR9cfSde0OEpQ=="
+    },
+    {
+      "channel": "trentino",
+      "description": "Trentino regional channel",
+      "key": "1YK0rvSvrMVv14p0vINddA=="
+    },
+    {
+      "channel": "umbria",
+      "description": "Umbria regional channel",
+      "key": "ay6oKyHK8ASHyp+rAjCXsw=="
+    },
+    {
+      "channel": "valle-d-aosta",
+      "description": "Valle d'Aosta regional channel",
+      "key": "m6rMjANJYg0JZU6QZdH7hQ=="
     },
     {
       "channel": "veneto",

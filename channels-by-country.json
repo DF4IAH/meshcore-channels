@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T23:50:59Z",
+  "generated_at": "2026-09-27T00:04:32Z",
   "license": "CC0-1.0",
   "countries": {
     "ad": [],
@@ -13,8 +13,182 @@
     "aq": [],
     "ar": [],
     "as": [],
-    "at": [],
-    "au": [],
+    "at": [
+      {
+        "channel": "#alerts",
+        "description": "Kanal für Alarmierungen"
+      },
+      {
+        "channel": "#at-ktn",
+        "description": "Etablierter Hashtag-Kanal für Kärnten im österreichischen MeshCore-Netz"
+      },
+      {
+        "channel": "#at-ktn-bot",
+        "description": "Eigener Bot-Kanal für Kärnten (Wetter, Warnungen, SOTA, Relais per Funkbefehl)"
+      },
+      {
+        "channel": "#austria",
+        "description": "Landesweiter Kanal für ganz Österreich"
+      },
+      {
+        "channel": "#bot",
+        "description": "Kanal für automatisierte Systeme/Bots"
+      },
+      {
+        "channel": "#coffee",
+        "description": "Kanal für lockeren Austausch abseits der Regionen"
+      },
+      {
+        "channel": "#english",
+        "description": "Internationaler, englischsprachiger Kanal"
+      },
+      {
+        "channel": "#inn-salzach",
+        "description": "Kanal für die Grenzregion Innviertel/Salzburg"
+      },
+      {
+        "channel": "#kf",
+        "description": "MeshCore-Kanal Kärnten, live mitlesbar via meshfeed unter mesh.kaernten-funkt.at"
+      },
+      {
+        "channel": "#noe",
+        "description": "Regionaler Kanal für Niederösterreich"
+      },
+      {
+        "channel": "#oeradio",
+        "description": "Kanal des Vereins OERadio, seit 31.08.2026 live im Discord mitlesbar (Kärnten)"
+      },
+      {
+        "channel": "#ping",
+        "description": "Kanal für Tests, u.a. automatisierte Ping-Bots"
+      },
+      {
+        "channel": "#test",
+        "description": "Testkanal"
+      },
+      {
+        "channel": "#vienna",
+        "description": "Regionaler Kanal für Wien"
+      },
+      {
+        "channel": "#wetter-simmering",
+        "description": "Wetterkanal, Region \"at-w\" (Simmering, Wien)"
+      }
+    ],
+    "au": [
+      {
+        "channel": "#act",
+        "description": "State-wide coordination (au-act)."
+      },
+      {
+        "channel": "#alert",
+        "description": "Automatic situation alerts such as fires."
+      },
+      {
+        "channel": "#atlas",
+        "description": "Atlas-related channel (MeshSydney)."
+      },
+      {
+        "channel": "#bathurst",
+        "description": "Bathurst & Central West conversation and coordination (au-nsw-bhs)."
+      },
+      {
+        "channel": "#beefmesh",
+        "description": "Beef Mesh node-status bot channel (au-nsw-syd)."
+      },
+      {
+        "channel": "#canberra",
+        "description": "Canberra conversation and coordination (au-act)."
+      },
+      {
+        "channel": "#centralcoast",
+        "description": "Central Coast conversation and coordination (au-nsw-syd)."
+      },
+      {
+        "channel": "#farsouthcoast",
+        "description": "Far South Coast conversation and coordination."
+      },
+      {
+        "channel": "#fnsw",
+        "description": "Fire-NeWS; fire-related channel (MeshSydney)."
+      },
+      {
+        "channel": "#ham",
+        "description": "Amateur radio community chat (MeshSydney)."
+      },
+      {
+        "channel": "#hume",
+        "description": "Albury & Wodonga conversation and coordination (au-hume)."
+      },
+      {
+        "channel": "#illawarra",
+        "description": "Illawarra & Wollongong conversation and coordination (au-nsw-wol)."
+      },
+      {
+        "channel": "#macarthur",
+        "description": "Macarthur conversation and coordination (au-nsw-syd)."
+      },
+      {
+        "channel": "#midnorthcoast",
+        "description": "Mid-North Coast conversation and coordination."
+      },
+      {
+        "channel": "#mshbot",
+        "description": "General mesh bot channel (MeshSydney)."
+      },
+      {
+        "channel": "#nepean",
+        "description": "Nepean conversation and coordination (au-nsw-syd)."
+      },
+      {
+        "channel": "#newcastle",
+        "description": "Newcastle & Hunter conversation and coordination (au-nsw-ntl)."
+      },
+      {
+        "channel": "#nowra",
+        "description": "Nowra and Shoalhaven conversation and coordination (au-nsw-noa)."
+      },
+      {
+        "channel": "#nrl",
+        "description": "Rugby League (NRL) discussion (MeshSydney)."
+      },
+      {
+        "channel": "#nsw",
+        "description": "State-wide coordination (au-nsw)."
+      },
+      {
+        "channel": "#recs",
+        "description": "Recommendations channel (MeshSydney)."
+      },
+      {
+        "channel": "#riverina",
+        "description": "Wagga Wagga & Riverina conversation and coordination (au-hume)."
+      },
+      {
+        "channel": "#rolojnr",
+        "description": "RoloJnr bot channel: help, ping, test, path, wx, time, signal, AI queries (au-nsw-syd)."
+      },
+      {
+        "channel": "#sports",
+        "description": "Sports discussion (MeshSydney)."
+      },
+      {
+        "channel": "#sydney",
+        "description": "Sydney metro conversation and coordination (au-nsw-syd)."
+      },
+      {
+        "channel": "#test",
+        "description": "Connection testing. Bots may auto-reply to test, ping, or path (au-nsw or IATA)."
+      },
+      {
+        "channel": "#weather",
+        "description": "Weather bot channel: 'wx <location>' or 'wx' (MeshSydney)."
+      },
+      {
+        "channel": "#wolbot",
+        "description": "Wollongong bot channel (au-nsw-wol)."
+      }
+    ],
     "aw": [],
     "ax": [],
     "az": [],
@@ -122,12 +296,253 @@
     "bw": [],
     "by": [],
     "bz": [],
-    "ca": [],
+    "ca": [
+      {
+        "channel": "#420",
+        "description": "Cannabis discussion channel (CascadiaMesh)."
+      },
+      {
+        "channel": "#abdl",
+        "description": "ABDL community chat and discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#astrophotography",
+        "description": "Astrophotography discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#atheist",
+        "description": "Atheist, agnostic and secular discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#bc",
+        "description": "British Columbia province-wide chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#birding",
+        "description": "Bird watching chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#bitcoin",
+        "description": "Bitcoin and cryptocurrency discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#boating",
+        "description": "Boating, sailing, cruising discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#books",
+        "description": "Book discussion channel (CascadiaMesh)."
+      },
+      {
+        "channel": "#camping",
+        "description": "Outdoor camping life discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#canucks",
+        "description": "Vancouver Canucks NHL hockey discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#cars",
+        "description": "Car discussion and chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#cascadia",
+        "description": "Cascadia bioregion and self-determination discussion."
+      },
+      {
+        "channel": "#cats",
+        "description": "Cat facts, stories, and feline-related conversation (CascadiaMesh)."
+      },
+      {
+        "channel": "#climbing",
+        "description": "Climbing hills and mountains discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#cruising",
+        "description": "Alternative-lifestyle 'cruising' discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#dev",
+        "description": "Mesh developer chat for the Cascadia region."
+      },
+      {
+        "channel": "#dogs",
+        "description": "Dog facts, stories, and canine conversation (CascadiaMesh)."
+      },
+      {
+        "channel": "#drama",
+        "description": "Channel for disputes, petty grievances, and arguments (CascadiaMesh)."
+      },
+      {
+        "channel": "#drones",
+        "description": "Flying drones discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#dwebyvr",
+        "description": "Local channel populated by the DWebYVR / Fraser Lowland mesh community."
+      },
+      {
+        "channel": "#edm",
+        "description": "Electronic music discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#emcomm",
+        "description": "Discussion about emergency communications (CascadiaMesh)."
+      },
+      {
+        "channel": "#events",
+        "description": "Local and regional gatherings and events (CascadiaMesh)."
+      },
+      {
+        "channel": "#f1",
+        "description": "Formula One racing discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#fifa2026",
+        "description": "FIFA World Cup 2026 discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#food",
+        "description": "Food and dining discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#furry",
+        "description": "Furry community chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#gaming",
+        "description": "Video games, RPGs, board games (CascadiaMesh)."
+      },
+      {
+        "channel": "#gardening",
+        "description": "Gardening discussion, from flowers to urban gardening (CascadiaMesh)."
+      },
+      {
+        "channel": "#gmrsradio",
+        "description": "GMRS radio discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#guns",
+        "description": "Firearms and gun safety discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#hiking",
+        "description": "Hiking and trail discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#insomnia",
+        "description": "Late-night 'can't sleep' conversation (CascadiaMesh)."
+      },
+      {
+        "channel": "#law",
+        "description": "Legal advice/discussion channel (CascadiaMesh)."
+      },
+      {
+        "channel": "#mesh",
+        "description": "General mesh networking topics, node setup, and troubleshooting."
+      },
+      {
+        "channel": "#meshcore",
+        "description": "General MeshCore discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#meshpotamia",
+        "description": "Higher-level discussion of MeshCore's technical and social challenges."
+      },
+      {
+        "channel": "#metalmusic",
+        "description": "Metal, Djent, Metalcore music discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#movies",
+        "description": "Movie discussion channel (CascadiaMesh)."
+      },
+      {
+        "channel": "#multibyte",
+        "description": "Channel for testing multi-byte path hash mode (CascadiaMesh)."
+      },
+      {
+        "channel": "#music",
+        "description": "Music discussion and chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#naked",
+        "description": "Nudist community chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#news",
+        "description": "BC Headlines from KamBot (CascadiaMesh)."
+      },
+      {
+        "channel": "#pnw",
+        "description": "Pacific Northwest discussion (CascadiaMesh, spans US/Canada)."
+      },
+      {
+        "channel": "#pokemon",
+        "description": "Pokemon discussion channel (CascadiaMesh)."
+      },
+      {
+        "channel": "#raves",
+        "description": "Underground rave, club and EDM festival discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#rugby",
+        "description": "Rugby discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#running",
+        "description": "Running and jogging discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#salishmesh",
+        "description": "Primary hashtag channel for the Salish Mesh network, Fraser Lowland / SW British Columbia."
+      },
+      {
+        "channel": "#sar",
+        "description": "Search and Rescue coordination channel (CascadiaMesh)."
+      },
+      {
+        "channel": "#southisland",
+        "description": "Greater Victoria, BC (CascadiaMesh)."
+      },
+      {
+        "channel": "#transit",
+        "description": "Transit information bot channel (CascadiaMesh)."
+      },
+      {
+        "channel": "#vancouver",
+        "description": "Vancouver, BC area chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#vanisle",
+        "description": "Vancouver Island, BC regional chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#victoria",
+        "description": "Victoria, BC chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#wadamesh",
+        "description": "Discussion about the standalone T-Deck firmware from WaDaMesh.com."
+      },
+      {
+        "channel": "#whitecaps",
+        "description": "Vancouver Whitecaps MLS soccer chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#zspace",
+        "description": "Local channel populated by the DWebYVR / Fraser Lowland mesh community."
+      }
+    ],
     "cc": [],
     "cd": [],
     "cf": [],
     "cg": [],
     "ch": [
+      {
+        "channel": "#aurora-alert",
+        "description": "Aurora notifications and location sharing"
+      },
       {
         "channel": "#basel",
         "description": "Basel Stadt and Basel Land region"
@@ -137,8 +552,28 @@
         "description": "Bern region"
       },
       {
+        "channel": "#blackout",
+        "description": "Blackout information and notification in case of power outages"
+      },
+      {
         "channel": "#chtest",
         "description": "Main testing channel for Switzerland"
+      },
+      {
+        "channel": "#flachwitze",
+        "description": "Funny channel for sharing jokes"
+      },
+      {
+        "channel": "#hamradio",
+        "description": "Main MeshCore Channel for HAM Radio Operators"
+      },
+      {
+        "channel": "#hard-software",
+        "description": "MeshCore related hardware and software discussion as well as troubleshooting"
+      },
+      {
+        "channel": "#qrv",
+        "description": "Channel for licensed amateur radio operators to coordinate and log contacts (QSOs)"
       },
       {
         "channel": "#seeland",
@@ -192,7 +627,152 @@
     "cw": [],
     "cx": [],
     "cy": [],
-    "cz": [],
+    "cz": [
+      {
+        "channel": "#aussig",
+        "description": "Usti nad Labem and surrounding area"
+      },
+      {
+        "channel": "#beskydy",
+        "description": "Beskydy mountains and area"
+      },
+      {
+        "channel": "#bitcoin",
+        "description": "Bitcoin discussion"
+      },
+      {
+        "channel": "#brno",
+        "description": "Brno and surrounding area"
+      },
+      {
+        "channel": "#budejce",
+        "description": "Ceske Budejovice and area"
+      },
+      {
+        "channel": "#chat",
+        "description": "General conversation"
+      },
+      {
+        "channel": "#chess",
+        "description": "Correspondence chess opponent search using web client"
+      },
+      {
+        "channel": "#cs",
+        "description": "International mesh connection via Slovakia, text only"
+      },
+      {
+        "channel": "#czech",
+        "description": "Testing channel for EU Narrow preset"
+      },
+      {
+        "channel": "#eldorado",
+        "description": "Nachod area"
+      },
+      {
+        "channel": "#emergency",
+        "description": "ONLY for emergency situations and threat reports"
+      },
+      {
+        "channel": "#english",
+        "description": "Refuge/chat channel for non-Czech speakers"
+      },
+      {
+        "channel": "#freebeer",
+        "description": "Social/recreational channel"
+      },
+      {
+        "channel": "#gorolia",
+        "description": "Trinec area"
+      },
+      {
+        "channel": "#hamradio",
+        "description": "Amateur radio enthusiasts"
+      },
+      {
+        "channel": "#hradeckralove",
+        "description": "Hradec Kralove region"
+      },
+      {
+        "channel": "#jizak",
+        "description": "Local topics and meetups, Prague south district (Jizni Mesto) area"
+      },
+      {
+        "channel": "#jokes",
+        "description": "Humor channel"
+      },
+      {
+        "channel": "#lysa",
+        "description": "Lysa nad Labem residents"
+      },
+      {
+        "channel": "#meshcore",
+        "description": "Coordination for MeshCore in Czech Republic"
+      },
+      {
+        "channel": "#mladaboleslav",
+        "description": "Mlada Boleslav and area"
+      },
+      {
+        "channel": "#mu-praha",
+        "description": "Regional emergency channel for Prague and area, testing phase"
+      },
+      {
+        "channel": "#newbies",
+        "description": "For novices where experienced users can advise, primarily for official firmware"
+      },
+      {
+        "channel": "#olomouc",
+        "description": "Olomouc region"
+      },
+      {
+        "channel": "#ostrava",
+        "description": "Ostrava and surrounding area"
+      },
+      {
+        "channel": "#plzen",
+        "description": "Plzen area"
+      },
+      {
+        "channel": "#praha",
+        "description": "Prague and surrounding area"
+      },
+      {
+        "channel": "#reticulum",
+        "description": "Reticulum project discussion"
+      },
+      {
+        "channel": "#sports",
+        "description": "Sports fans"
+      },
+      {
+        "channel": "#sudety",
+        "description": "Sudety mountain region"
+      },
+      {
+        "channel": "#tech",
+        "description": "Hardware/software discussions"
+      },
+      {
+        "channel": "#teplotaveskleniku",
+        "description": "Informal/lifestyle channel"
+      },
+      {
+        "channel": "#test",
+        "description": "AI/bot testing with commands like 'ping'"
+      },
+      {
+        "channel": "#zdravice",
+        "description": "Greetings channel"
+      },
+      {
+        "channel": "#zlin",
+        "description": "Zlin region"
+      },
+      {
+        "channel": "#zpovednice",
+        "description": "Confessions channel"
+      }
+    ],
     "de": [
       {
         "channel": "#allgaeu",
@@ -209,6 +789,10 @@
       {
         "channel": "#aurora",
         "description": "Northern lights sightings"
+      },
+      {
+        "channel": "#bastelbude",
+        "description": "Kanal für Bastelprojekte"
       },
       {
         "channel": "#bbxdwd",
@@ -229,6 +813,10 @@
       {
         "channel": "#berlinbrandenburg",
         "description": "Berlin/Brandenburg"
+      },
+      {
+        "channel": "#berlinmesh",
+        "description": "Koordinationskanal der Berlin Chaos Mesh Community"
       },
       {
         "channel": "#bern",
@@ -252,7 +840,7 @@
       },
       {
         "channel": "#bonn",
-        "description": "bonn"
+        "description": "Regionaler Kanal für Bonn"
       },
       {
         "channel": "#bot",
@@ -383,6 +971,18 @@
         "description": "Uckermark district"
       },
       {
+        "channel": "#de-mitte",
+        "description": "Region um Jena, wird dort nicht mehr weiter repeatet"
+      },
+      {
+        "channel": "#de-nw-nina-pott",
+        "description": "Automatisierte amtliche Warnmeldungen (NINA/MoWaS BBK) für Essen, Mülheim, Oberhausen, Duisburg, Dortmund, Velbert, Kreis Mettmann"
+      },
+      {
+        "channel": "#de-ost",
+        "description": "Region um Jena, wird dort nicht mehr weiter repeatet"
+      },
+      {
         "channel": "#de-sn-dd",
         "description": "Region/scope experiments"
       },
@@ -393,6 +993,18 @@
       {
         "channel": "#de-sn-pir",
         "description": "Pirna region experiments"
+      },
+      {
+        "channel": "#de-th",
+        "description": "Region Thüringen, auf Repeatern im Raum Jena konfiguriert"
+      },
+      {
+        "channel": "#de-th-j",
+        "description": "Default-Region & Scope für Jena"
+      },
+      {
+        "channel": "#de-th-shk",
+        "description": "Region Saale-Holzland-Kreis, auf Repeatern im Raum Jena konfiguriert"
       },
       {
         "channel": "#detmold",
@@ -555,6 +1167,14 @@
         "description": "Helmstedt district"
       },
       {
+        "channel": "#hildesheim",
+        "description": "Hildesheim, öffentlich"
+      },
+      {
+        "channel": "#infra-alert-karlsruhe",
+        "description": "Automatisierte Statusnachrichten bei Infrastrukturstörungen im Raum Karlsruhe"
+      },
+      {
         "channel": "#ingolstadt",
         "description": "Ingolstadt"
       },
@@ -581,6 +1201,10 @@
       {
         "channel": "#kats",
         "description": "Disaster protection coordination"
+      },
+      {
+        "channel": "#kiel",
+        "description": "Region Kiel"
       },
       {
         "channel": "#koblenz",
@@ -639,6 +1263,14 @@
         "description": "3D printing, laser cutting, CNC"
       },
       {
+        "channel": "#mc-radar",
+        "description": "Kanal zur Ausbreitungsmessung; Observer tragen Empfang auf mc-radar.woodwar.com ein"
+      },
+      {
+        "channel": "#mc-treffen",
+        "description": "Kanal für lokale Koordination/Treffen (Berlin)"
+      },
+      {
         "channel": "#meow",
         "description": "meow"
       },
@@ -679,8 +1311,16 @@
         "description": "muenster"
       },
       {
+        "channel": "#nerd-flohmarkt",
+        "description": "Kanal für Kleinanzeigen/Flohmarkt unter Bastlern"
+      },
+      {
         "channel": "#news",
         "description": "Nachrichten von butenunbinnen.de"
+      },
+      {
+        "channel": "#ni",
+        "description": "Niedersachsen"
       },
       {
         "channel": "#niedersachsen",
@@ -799,6 +1439,10 @@
         "description": "Seevetal municipality"
       },
       {
+        "channel": "#sh",
+        "description": "Schleswig-Holstein"
+      },
+      {
         "channel": "#sn",
         "description": "Saxony"
       },
@@ -853,6 +1497,10 @@
       {
         "channel": "#taunus",
         "description": "Taunus region (www.taunus-mesh.de)"
+      },
+      {
+        "channel": "#taunusmesh",
+        "description": "Taunus-Mesh, öffentlich"
       },
       {
         "channel": "#test",
@@ -1128,7 +1776,20 @@
     "hn": [],
     "hr": [],
     "ht": [],
-    "hu": [],
+    "hu": [
+      {
+        "channel": "#debrecen",
+        "description": "Debrecen and surrounding area chat channel"
+      },
+      {
+        "channel": "#hungary",
+        "description": "General Hungarian chat channel"
+      },
+      {
+        "channel": "#veszhelyzet",
+        "description": "Disaster management news and lake storm warning system info channel"
+      }
+    ],
     "id": [],
     "ie": [
       {
@@ -1174,9 +1835,34 @@
         "description": "Main testing channel for Italy"
       },
       {
+        "channel": "abruzzo",
+        "description": "Abruzzo regional channel",
+        "key": "isN2tAMpdljWKhkdt8dKfA=="
+      },
+      {
         "channel": "alert-lo",
         "description": "Automated weather alert and emergencies, Lombardia region",
         "key": "wvjINGz5QNg8e/ECY8u4Uw=="
+      },
+      {
+        "channel": "alto-adige-sudtirol",
+        "description": "Alto Adige/Südtirol regional channel",
+        "key": "/YefVnmjoQoeM9WP5bIdRA=="
+      },
+      {
+        "channel": "basilicata",
+        "description": "Basilicata regional channel",
+        "key": "MH6ww+41rTx+8Z/KnRXblw=="
+      },
+      {
+        "channel": "calabria",
+        "description": "Calabria regional channel",
+        "key": "hdroHYjRI/WB8DW/wFzwJA=="
+      },
+      {
+        "channel": "campania",
+        "description": "Campania regional channel",
+        "key": "SVm/Hl2MPJvZMg23o3Jnsw=="
       },
       {
         "channel": "emilia-romagna",
@@ -1194,6 +1880,11 @@
         "key": "TJe/5DGr4gZyJZ2baWnc7A=="
       },
       {
+        "channel": "lazio",
+        "description": "Lazio regional channel",
+        "key": "p0MI8cLr/ZvU86kdVcmdKA=="
+      },
+      {
         "channel": "liguria",
         "description": "Liguria region",
         "key": "u8/tjfIueiFjgmSBoG9YTQ=="
@@ -1202,6 +1893,11 @@
         "channel": "lombardia",
         "description": "Lombardia region",
         "key": "ejqYj3d1AmbjZJMtlMz1IQ=="
+      },
+      {
+        "channel": "marche",
+        "description": "Marche regional channel",
+        "key": "2Sj2nrfcfN/ur+zAMK7diA=="
       },
       {
         "channel": "meteo",
@@ -1214,6 +1910,11 @@
         "key": "yh1i8/ES8Zgcjup1av4Quw=="
       },
       {
+        "channel": "molise",
+        "description": "Molise regional channel",
+        "key": "ETQCHzolqbSXhY2DNt8a+w=="
+      },
+      {
         "channel": "news",
         "description": "Announcements regarding the Italian Meshcore Network",
         "key": "Ox/70K9DxRePjQuDJb/qbQ=="
@@ -1224,9 +1925,39 @@
         "key": "W5uu9MPYdR4vkpLwufe2pg=="
       },
       {
+        "channel": "puglia",
+        "description": "Puglia regional channel",
+        "key": "ye4KV7aI0iNEYsA5soAftg=="
+      },
+      {
+        "channel": "sardegna",
+        "description": "Sardegna regional channel",
+        "key": "Jswt/Nt9qoLYVj32AQC1zg=="
+      },
+      {
+        "channel": "sicilia",
+        "description": "Sicilia regional channel",
+        "key": "BWouR2QucVFt19HR0/LuqQ=="
+      },
+      {
         "channel": "toscana",
         "description": "Toscana region",
         "key": "WOr44P+lKcR9cfSde0OEpQ=="
+      },
+      {
+        "channel": "trentino",
+        "description": "Trentino regional channel",
+        "key": "1YK0rvSvrMVv14p0vINddA=="
+      },
+      {
+        "channel": "umbria",
+        "description": "Umbria regional channel",
+        "key": "ay6oKyHK8ASHyp+rAjCXsw=="
+      },
+      {
+        "channel": "valle-d-aosta",
+        "description": "Valle d'Aosta regional channel",
+        "key": "m6rMjANJYg0JZU6QZdH7hQ=="
       },
       {
         "channel": "veneto",
@@ -10801,7 +11532,52 @@
     "np": [],
     "nr": [],
     "nu": [],
-    "nz": [],
+    "nz": [
+      {
+        "channel": "#alerts",
+        "description": "Notices relevant to the mesh community."
+      },
+      {
+        "channel": "#emergency",
+        "description": "Emergency communications."
+      },
+      {
+        "channel": "#ham",
+        "description": "Ham radio discussion."
+      },
+      {
+        "channel": "#homesteading",
+        "description": "Homesteading-related topics."
+      },
+      {
+        "channel": "#jokes",
+        "description": "Light-hearted, appropriate conversation."
+      },
+      {
+        "channel": "#quakealerts",
+        "description": "NZ-wide earthquake notifications from GeoNet."
+      },
+      {
+        "channel": "#testing",
+        "description": "Connection testing and bots; send !bot to discover reachable bots (akl, hlz, wre, tga)."
+      },
+      {
+        "channel": "#tramping",
+        "description": "Hiking and tramping conversation."
+      },
+      {
+        "channel": "#weather",
+        "description": "Weather reports and warnings."
+      },
+      {
+        "channel": "#wlg-marine",
+        "description": "Wellington marine forecasts, tides, sea temperature (5am & 12pm daily)."
+      },
+      {
+        "channel": "#wlg-weather",
+        "description": "Wellington, Kapiti, Blenheim forecasts (6am & 7pm) plus Metservice alerts."
+      }
+    ],
     "om": [],
     "pa": [],
     "pe": [],
@@ -10809,7 +11585,64 @@
     "pg": [],
     "ph": [],
     "pk": [],
-    "pl": [],
+    "pl": [
+      {
+        "channel": "#bot",
+        "description": "Connectivity test channel handled by bots"
+      },
+      {
+        "channel": "#bydgoszcz",
+        "description": "Bydgoszcz regional channel"
+      },
+      {
+        "channel": "#dolnoslaskie",
+        "description": "Dolnoslaskie (Lower Silesia) regional channel"
+      },
+      {
+        "channel": "#ds-test",
+        "description": "Dolnoslaskie region connectivity test channel"
+      },
+      {
+        "channel": "#hamradio",
+        "description": "Amateur radio discussion channel"
+      },
+      {
+        "channel": "#legnica",
+        "description": "Legnica regional channel"
+      },
+      {
+        "channel": "#lodzkie",
+        "description": "Lodzkie regional channel"
+      },
+      {
+        "channel": "#polska",
+        "description": "Dedicated channel for Polish-language discussions, commonly used network-wide"
+      },
+      {
+        "channel": "#tech",
+        "description": "Technical discussion channel"
+      },
+      {
+        "channel": "#test",
+        "description": "Connectivity test channel, expect acks from other people"
+      },
+      {
+        "channel": "#wlkp",
+        "description": "Wielkopolska regional channel"
+      },
+      {
+        "channel": "#wroc-tech",
+        "description": "Technical matters concerning the MeshCore network in Wroclaw"
+      },
+      {
+        "channel": "#wroclaw",
+        "description": "Wroclaw regional channel"
+      },
+      {
+        "channel": "#zachod",
+        "description": "Western Poland regional channel"
+      }
+    ],
     "pm": [],
     "pn": [],
     "pr": [],
@@ -10928,7 +11761,48 @@
     "py": [],
     "qa": [],
     "re": [],
-    "ro": [],
+    "ro": [
+      {
+        "channel": "#112",
+        "description": "Reserved for genuine emergencies and priority communications"
+      },
+      {
+        "channel": "#banat",
+        "description": "Regional channel for Banat, local coordination and coverage tests"
+      },
+      {
+        "channel": "#btest",
+        "description": "Regional test channel for Bucuresti, no general traffic"
+      },
+      {
+        "channel": "#bucuresti",
+        "description": "Discussions and coordination for Bucuresti and the metropolitan area"
+      },
+      {
+        "channel": "#craiova",
+        "description": "Local channel for Craiova, Dolj and regional links in the area"
+      },
+      {
+        "channel": "#dx",
+        "description": "Distance reports, propagation, links between cities and coverage tests"
+      },
+      {
+        "channel": "#jokes",
+        "description": "Jokes and relaxed conversation, separate from operational channels"
+      },
+      {
+        "channel": "#radioamatori-yo",
+        "description": "Discussion space for radio amateurs with YO callsigns and technical experiments"
+      },
+      {
+        "channel": "#romania",
+        "description": "National channel for useful discussions, announcements and coordination between zones"
+      },
+      {
+        "channel": "#rotest",
+        "description": "National tests, pings and configuration checks without noise on general"
+      }
+    ],
     "rs": [],
     "ru": [],
     "rw": [],
@@ -10940,9 +11814,63 @@
     "se": [],
     "sg": [],
     "sh": [],
-    "si": [],
+    "si": [
+      {
+        "channel": "#slovenija",
+        "description": "Official Slovenian MeshCore community channel to share, chat, learn and help one another"
+      }
+    ],
     "sj": [],
-    "sk": [],
+    "sk": [
+      {
+        "channel": "#alerts",
+        "description": "Weather warnings, storm radar, radiation, earthquakes"
+      },
+      {
+        "channel": "#bratislava",
+        "description": "Bratislava area"
+      },
+      {
+        "channel": "#kosice",
+        "description": "Kosice area"
+      },
+      {
+        "channel": "#nitra",
+        "description": "Nitra area"
+      },
+      {
+        "channel": "#poprad",
+        "description": "Poprad area"
+      },
+      {
+        "channel": "#presov",
+        "description": "Presov area"
+      },
+      {
+        "channel": "#prievidza",
+        "description": "Prievidza area"
+      },
+      {
+        "channel": "#slovakia",
+        "description": "Slovak national hashtag channel"
+      },
+      {
+        "channel": "#turiec",
+        "description": "Martin, Turcianske Teplice, and Vrutky areas"
+      },
+      {
+        "channel": "#vychod",
+        "description": "Eastern Slovakia region"
+      },
+      {
+        "channel": "#zilina",
+        "description": "Zilina area"
+      },
+      {
+        "channel": "#zvolen",
+        "description": "Zvolen area"
+      }
+    ],
     "sl": [],
     "sm": [],
     "sn": [],
@@ -10975,8 +11903,120 @@
     "um": [],
     "us": [
       {
+        "channel": "#2600",
+        "description": "Hacker culture channel on RDUMesh."
+      },
+      {
+        "channel": "#3dprinting",
+        "description": "Chat all things 3D printing (West Coast Mesh)."
+      },
+      {
+        "channel": "#420",
+        "description": "Cannabis discussion channel (CascadiaMesh)."
+      },
+      {
+        "channel": "#95033",
+        "description": "Santa Cruz Mountains local chat."
+      },
+      {
+        "channel": "#abdl",
+        "description": "ABDL community chat and discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#alameda",
+        "description": "Alameda Island local chat (Bay Area)."
+      },
+      {
+        "channel": "#alert",
+        "description": "Network-wide alerts and urgent communications (Bay Area)."
+      },
+      {
+        "channel": "#apex",
+        "description": "Apex, NC local channel (RDUMesh)."
+      },
+      {
+        "channel": "#astrophotography",
+        "description": "Astrophotography discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#atheist",
+        "description": "Atheist, agnostic and secular discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#aviation",
+        "description": "Chat all things planes and aviation (West Coast Mesh)."
+      },
+      {
+        "channel": "#beaconhill",
+        "description": "Beacon Hill neighborhood channel, Seattle (CascadiaMesh)."
+      },
+      {
+        "channel": "#bears",
+        "description": "Chicago Bears discussion (Chicagoland Mesh)."
+      },
+      {
+        "channel": "#bham",
+        "description": "Bellingham, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#birding",
+        "description": "Bird watching chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#bitcoin",
+        "description": "Bitcoin and cryptocurrency discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#blackhawks",
+        "description": "Chicago Blackhawks discussion (Chicagoland Mesh)."
+      },
+      {
+        "channel": "#boating",
+        "description": "Boating, sailing, cruising discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#bookclub",
+        "description": "Share what you're reading: recommendations, reviews (Bay Area)."
+      },
+      {
+        "channel": "#books",
+        "description": "Book discussion channel (CascadiaMesh)."
+      },
+      {
         "channel": "#bot",
         "description": "PugetMesh bot channel (Puget Sound, WA)"
+      },
+      {
+        "channel": "#bot-bham",
+        "description": "Bot testing, diagnostics and bot-related chat in Bellingham, WA."
+      },
+      {
+        "channel": "#bot-eug",
+        "description": "Testing bot for Eugene, OR (CascadiaMesh)."
+      },
+      {
+        "channel": "#bot-islands",
+        "description": "Testing bot for the Salish Sea / Puget Sound Islands (CascadiaMesh)."
+      },
+      {
+        "channel": "#bot-kelso",
+        "description": "Testing bot for Kelso, WA (CascadiaMesh)."
+      },
+      {
+        "channel": "#bot-oly",
+        "description": "Testing bot in Olympia, WA (CascadiaMesh)."
+      },
+      {
+        "channel": "#bot-pdx",
+        "description": "Testing bot in Portland, OR (CascadiaMesh)."
+      },
+      {
+        "channel": "#bot-sea",
+        "description": "Testing bot in Seattle, WA (CascadiaMesh)."
+      },
+      {
+        "channel": "#bot-sle",
+        "description": "Testing bot in Salem, OR (CascadiaMesh)."
       },
       {
         "channel": "#bot-tacoma",
@@ -10987,24 +12027,568 @@
         "description": "PugetMesh bot channel for Vancouver, WA"
       },
       {
+        "channel": "#breakingnews",
+        "description": "Global events channel (West Coast Mesh)."
+      },
+      {
+        "channel": "#bullcity",
+        "description": "Durham, NC ('Bull City') local channel (RDUMesh)."
+      },
+      {
+        "channel": "#bulls",
+        "description": "Chicago Bulls discussion (Chicagoland Mesh)."
+      },
+      {
+        "channel": "#camas",
+        "description": "Camas, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#camping",
+        "description": "Outdoor camping life discussion (CascadiaMesh)."
+      },
+      {
         "channel": "#capitolhill",
         "description": "Capitol Hill neighborhood, Seattle, WA"
+      },
+      {
+        "channel": "#cars",
+        "description": "Car discussion and chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#cary",
+        "description": "Cary, NC local channel (RDUMesh)."
+      },
+      {
+        "channel": "#cascadia",
+        "description": "Cascadia bioregion and self-determination discussion."
+      },
+      {
+        "channel": "#cats",
+        "description": "Cat facts, stories, and feline-related conversation (CascadiaMesh)."
+      },
+      {
+        "channel": "#central-oregon",
+        "description": "Central Oregon regional chat (Bend, Redmond, Sisters, Prineville, Madras)."
+      },
+      {
+        "channel": "#cert",
+        "description": "Community Emergency Response Team coordination channel (Bay Area)."
+      },
+      {
+        "channel": "#chat",
+        "description": "General chit chat (West Coast Mesh)."
+      },
+      {
+        "channel": "#chicago",
+        "description": "Chicago regional channel (Chicagoland Mesh)."
+      },
+      {
+        "channel": "#chimesh",
+        "description": "Chicagoland Mesh general channel."
+      },
+      {
+        "channel": "#chimesh-observer-alert",
+        "description": "Chicagoland Mesh observer alert channel."
+      },
+      {
+        "channel": "#clallam",
+        "description": "Clallam County, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#claremontupland",
+        "description": "Local chat for the Claremont / Upland area, California."
+      },
+      {
+        "channel": "#climbing",
+        "description": "Climbing hills and mountains discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#cm-reach",
+        "description": "Use with rangecheck.meshcore.coloradomesh.org to check mesh connectivity (Colorado Mesh)."
+      },
+      {
+        "channel": "#coffee",
+        "description": "Local meetup and casual social coordination (Greater Boston Mesh)."
+      },
+      {
+        "channel": "#columbiacity",
+        "description": "Columbia City neighborhood channel, Seattle (CascadiaMesh)."
+      },
+      {
+        "channel": "#corvallis",
+        "description": "Corvallis, OR chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#cowlitz",
+        "description": "Cowlitz County, WA regional chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#cruising",
+        "description": "Alternative-lifestyle 'cruising' discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#cubs",
+        "description": "Chicago Cubs discussion (Chicagoland Mesh)."
+      },
+      {
+        "channel": "#dev",
+        "description": "Mesh developer chat for the Cascadia region."
+      },
+      {
+        "channel": "#dma-space",
+        "description": "Seattle hack/maker space channel (DMA.space)."
+      },
+      {
+        "channel": "#dogs",
+        "description": "Dog facts, stories, and canine conversation (CascadiaMesh)."
+      },
+      {
+        "channel": "#drama",
+        "description": "Channel for disputes, petty grievances, and arguments (CascadiaMesh)."
+      },
+      {
+        "channel": "#drones",
+        "description": "Flying drones discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#ducks",
+        "description": "Oregon Ducks chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#durham",
+        "description": "Durham, NC local channel (RDUMesh)."
+      },
+      {
+        "channel": "#earthquake",
+        "description": "Automated earthquake alerts from USGS for the Bay Area, magnitude 3.0+."
+      },
+      {
+        "channel": "#eastbay",
+        "description": "East Bay local chat."
+      },
+      {
+        "channel": "#eastside",
+        "description": "Bellevue, Redmond, Kirkland, etc. chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#edm",
+        "description": "Electronic music discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#emcomm",
+        "description": "Discussion about emergency communications (CascadiaMesh)."
+      },
+      {
+        "channel": "#emcommplanning",
+        "description": "Emergency communication planning (West Coast Mesh)."
       },
       {
         "channel": "#emergency",
         "description": "PugetMesh emergency channel (Puget Sound, WA)"
       },
       {
+        "channel": "#emergency-cowlitz",
+        "description": "Cowlitz County, WA emergency communications and incident coordination."
+      },
+      {
+        "channel": "#eugene",
+        "description": "Eugene, OR chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#event",
+        "description": "Share or plan events, like mesh meet ups (Bay Area)."
+      },
+      {
+        "channel": "#events",
+        "description": "Local and regional gatherings and events (CascadiaMesh)."
+      },
+      {
+        "channel": "#everett",
+        "description": "Everett, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#f1",
+        "description": "Formula One racing discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#fifa2026",
+        "description": "FIFA World Cup 2026 discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#fire",
+        "description": "Automated wildfire alerts for the Bay Area."
+      },
+      {
+        "channel": "#florida",
+        "description": "Florida statewide MeshCore chat."
+      },
+      {
+        "channel": "#food",
+        "description": "Food and dining discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#furry",
+        "description": "Furry community chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#gaming",
+        "description": "Video games, RPGs, board games (CascadiaMesh)."
+      },
+      {
+        "channel": "#gardening",
+        "description": "Gardening discussion, from flowers to urban gardening (CascadiaMesh)."
+      },
+      {
+        "channel": "#gmrs",
+        "description": "GMRS radio related discussions (TennMesh)."
+      },
+      {
+        "channel": "#gmrsradio",
+        "description": "GMRS radio discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#guns",
+        "description": "Firearms and gun safety discussion (CascadiaMesh)."
+      },
+      {
         "channel": "#hamradio",
         "description": "PugetMesh ham radio operators (Puget Sound, WA)"
+      },
+      {
+        "channel": "#hardware",
+        "description": "Chat all things hardware (West Coast Mesh)."
+      },
+      {
+        "channel": "#healthcheck",
+        "description": "Use healthcheck.bayareameshcore.org to learn how far your node's messages are reaching."
+      },
+      {
+        "channel": "#hiking",
+        "description": "Hiking and trail discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#howlbot",
+        "description": "The original testing bot, Everett, WA."
+      },
+      {
+        "channel": "#huskies",
+        "description": "Washington Huskies sports discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#ice-alert",
+        "description": "ICE (Immigration and Customs Enforcement) activity alerts and safety updates."
+      },
+      {
+        "channel": "#icewatch",
+        "description": "Automated updates on ICE, CBP, FPS and other federal police activity."
+      },
+      {
+        "channel": "#inlandempire",
+        "description": "Local chat for the Inland Empire, California."
+      },
+      {
+        "channel": "#insomnia",
+        "description": "Late-night 'can't sleep' conversation (CascadiaMesh)."
+      },
+      {
+        "channel": "#island",
+        "description": "Island County, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#issaquah",
+        "description": "Issaquah, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#jefferson",
+        "description": "Jefferson County, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#jokes",
+        "description": "Tell us a joke! (West Coast Mesh)."
+      },
+      {
+        "channel": "#kent",
+        "description": "Kent, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#kitsap",
+        "description": "Kitsap County, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#kraken",
+        "description": "Seattle Kraken NHL hockey discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#kremwerk",
+        "description": "Discussion about the MeshCore-enabled Seattle club complex Kremwerk."
+      },
+      {
+        "channel": "#lakeforest",
+        "description": "Local chat for Lake Forest, California."
+      },
+      {
+        "channel": "#law",
+        "description": "Legal advice/discussion channel (CascadiaMesh)."
+      },
+      {
+        "channel": "#longisland",
+        "description": "Long Island, NY regional channel (Long Island Mesh)."
+      },
+      {
+        "channel": "#losangeles",
+        "description": "Local chat for Los Angeles County."
+      },
+      {
+        "channel": "#lynden",
+        "description": "Lynden, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#ma-classifieds",
+        "description": "Buy/sell/trade/hire, mesh classifieds (Massachusetts)."
+      },
+      {
+        "channel": "#ma-computing",
+        "description": "Computing discussion: hardware, software, OS (Massachusetts)."
+      },
+      {
+        "channel": "#ma-hc",
+        "description": "Massachusetts health-check pings for repeater testing."
+      },
+      {
+        "channel": "#ma-mesh",
+        "description": "General MA chat - say hi, share a spotting, talk mesh shop with MA folks."
+      },
+      {
+        "channel": "#ma-test",
+        "description": "Massachusetts testing channel (Pioneer Valley Mesh)."
+      },
+      {
+        "channel": "#ma-wardriving",
+        "description": "War driving and mobile testing activities (Massachusetts)."
+      },
+      {
+        "channel": "#marin",
+        "description": "Marin county local chat."
+      },
+      {
+        "channel": "#mariners",
+        "description": "Seattle Mariners MLB baseball chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#marysville",
+        "description": "Marysville, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#mason",
+        "description": "Mason County, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#mckenzie",
+        "description": "McKenzie River Valley, OR chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#mcmonday",
+        "description": "Like APRS Thursday but for the mesh: map the network every Monday (Bay Area)."
+      },
+      {
+        "channel": "#meetup",
+        "description": "Austin Mesh meetup coordination channel."
+      },
+      {
+        "channel": "#mesh",
+        "description": "General mesh networking topics, node setup, and troubleshooting."
+      },
+      {
+        "channel": "#meshbud",
+        "description": "Your friendly neighborhood robot (West Coast Mesh)."
+      },
+      {
+        "channel": "#meshcore",
+        "description": "General MeshCore discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#meshcore-rs",
+        "description": "Discussion around meshcore-rs, the open-source Rust library for MeshCore devices."
+      },
+      {
+        "channel": "#meshpotamia",
+        "description": "Higher-level discussion of MeshCore's technical and social challenges."
+      },
+      {
+        "channel": "#metalmusic",
+        "description": "Metal, Djent, Metalcore music discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#movies",
+        "description": "Movie discussion channel (CascadiaMesh)."
+      },
+      {
+        "channel": "#mukilteo",
+        "description": "Mukilteo, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#multibyte",
+        "description": "Channel for testing multi-byte path hash mode (CascadiaMesh)."
+      },
+      {
+        "channel": "#music",
+        "description": "Music discussion and chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#naked",
+        "description": "Nudist community chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#nhhc",
+        "description": "New Hampshire health-check pings."
+      },
+      {
+        "channel": "#nhmesh",
+        "description": "New Hampshire-focused general chat."
+      },
+      {
+        "channel": "#northbend",
+        "description": "North Bend, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#northend",
+        "description": "Lake Forest Park, Shoreline, Kenmore and Bothell, WA (CascadiaMesh)."
+      },
+      {
+        "channel": "#novato",
+        "description": "Novato local chat."
+      },
+      {
+        "channel": "#nyc",
+        "description": "New York City regional channel (Long Island Mesh)."
+      },
+      {
+        "channel": "#olympia",
+        "description": "Olympia, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#olypen",
+        "description": "Olympic Peninsula (Port Angeles, Sequim, Port Townsend) chat."
+      },
+      {
+        "channel": "#orangecounty",
+        "description": "Local chat for Orange County, California."
+      },
+      {
+        "channel": "#orcas",
+        "description": "Seattle Orcas Major League Cricket discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#oregon",
+        "description": "Oregon statewide chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#pdx",
+        "description": "Portland, OR chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#philomath",
+        "description": "Philomath, OR regional chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#pierce",
+        "description": "Pierce County, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#pnw",
+        "description": "Pacific Northwest discussion (CascadiaMesh, spans US/Canada)."
+      },
+      {
+        "channel": "#pokemon",
+        "description": "Pokemon discussion channel (CascadiaMesh)."
+      },
+      {
+        "channel": "#politics",
+        "description": "Politics-focused discussion (Greater Boston Mesh)."
+      },
+      {
+        "channel": "#power",
+        "description": "Automated power outage alerts from PG&E (Bay Area)."
+      },
+      {
+        "channel": "#prepping",
+        "description": "Prepping planning (West Coast Mesh)."
       },
       {
         "channel": "#protest",
         "description": "PugetMesh protest coordination (Puget Sound, WA)"
       },
       {
+        "channel": "#queenanne",
+        "description": "Queen Anne neighborhood channel, Seattle (CascadiaMesh)."
+      },
+      {
         "channel": "#queer",
         "description": "PugetMesh queer community (Puget Sound, WA)"
+      },
+      {
+        "channel": "#raleigh",
+        "description": "Raleigh, NC local channel (RDUMesh)."
+      },
+      {
+        "channel": "#ravenna",
+        "description": "Ravenna neighborhood channel, Seattle (CascadiaMesh)."
+      },
+      {
+        "channel": "#raves",
+        "description": "Underground rave, club and EDM festival discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#rdumesh",
+        "description": "Channel to talk about the RDUMesh network itself."
+      },
+      {
+        "channel": "#reign",
+        "description": "Seattle Reign NWSL soccer discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#roguevalley",
+        "description": "Jackson and Josephine counties, Oregon (CascadiaMesh)."
+      },
+      {
+        "channel": "#rugby",
+        "description": "Rugby discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#running",
+        "description": "Running and jogging discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#salem",
+        "description": "Salem, OR chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#sanbernardino",
+        "description": "Local chat for San Bernardino County."
+      },
+      {
+        "channel": "#sandiego",
+        "description": "Local chat for San Diego County."
+      },
+      {
+        "channel": "#sanleandro",
+        "description": "San Leandro local chat."
+      },
+      {
+        "channel": "#sar",
+        "description": "Search and Rescue coordination channel (CascadiaMesh)."
+      },
+      {
+        "channel": "#sartest",
+        "description": "Testing channel for the MeshCore-SAR app (CascadiaMesh)."
+      },
+      {
+        "channel": "#sbcountymesh",
+        "description": "Local chat for Santa Barbara County."
+      },
+      {
+        "channel": "#scvmesh",
+        "description": "Local chat for Santa Clarita Valley."
       },
       {
         "channel": "#seahawks",
@@ -11015,12 +12599,192 @@
         "description": "Seattle metro area, WA"
       },
       {
+        "channel": "#sequim",
+        "description": "Sequim, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#sf",
+        "description": "San Francisco local chat."
+      },
+      {
+        "channel": "#sfv",
+        "description": "Local chat for San Fernando Valley."
+      },
+      {
+        "channel": "#skagit",
+        "description": "Skagit County, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#sky",
+        "description": "Chicago Sky (WNBA) discussion (Chicagoland Mesh)."
+      },
+      {
+        "channel": "#slo",
+        "description": "San Luis Obispo local chat."
+      },
+      {
+        "channel": "#snoco",
+        "description": "Snohomish County, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#socalalert",
+        "description": "Local nonemergency notifications (West Coast Mesh / SoCal)."
+      },
+      {
+        "channel": "#sonoma",
+        "description": "Sonoma (town) local chat."
+      },
+      {
+        "channel": "#sonoma-county",
+        "description": "Sonoma County local chat."
+      },
+      {
+        "channel": "#sounders",
+        "description": "Seattle Sounders FC soccer chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#south-bay-peninsula",
+        "description": "South Bay / Peninsula local chat."
+      },
+      {
+        "channel": "#southbay",
+        "description": "Local chat for South Bay, California."
+      },
+      {
+        "channel": "#southern-oregon",
+        "description": "Southern Oregon regional chat (CascadiaMesh)."
+      },
+      {
         "channel": "#sports",
         "description": "PugetMesh sports chat (Puget Sound, WA)"
       },
       {
+        "channel": "#storm",
+        "description": "Seattle Storm WNBA basketball chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#suburbs",
+        "description": "Chicago suburbs regional channel (Chicagoland Mesh)."
+      },
+      {
+        "channel": "#tacoma",
+        "description": "Tacoma, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#tech",
+        "description": "Technology topics and tech chat for the Seattle area (CascadiaMesh)."
+      },
+      {
+        "channel": "#tenntalk",
+        "description": "General chat for Tennessee, like a TN-specific 'Public' channel."
+      },
+      {
+        "channel": "#test",
+        "description": "Testing the mesh itself; send 'test' as a message for an automatic bot reply."
+      },
+      {
         "channel": "#testing",
         "description": "PugetMesh testing channel (Puget Sound, WA)"
+      },
+      {
+        "channel": "#thegoodplace",
+        "description": "Come talk to Janet, the all-seeing inhabitant of the Void (Bay Area)."
+      },
+      {
+        "channel": "#timbers",
+        "description": "Portland Timbers chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#tn-east",
+        "description": "Conversations and coordination for East Tennessee."
+      },
+      {
+        "channel": "#tn-knox",
+        "description": "Local channel for Knox County, TN."
+      },
+      {
+        "channel": "#tn-mcminn",
+        "description": "Local channel for McMinn County, TN."
+      },
+      {
+        "channel": "#tn-middle",
+        "description": "Conversations and coordination for Middle Tennessee."
+      },
+      {
+        "channel": "#tn-polk",
+        "description": "Local channel for Polk County, TN."
+      },
+      {
+        "channel": "#tn-west",
+        "description": "Conversations and coordination for West Tennessee."
+      },
+      {
+        "channel": "#tn-wx",
+        "description": "Severe weather updates and reports across Tennessee."
+      },
+      {
+        "channel": "#transit",
+        "description": "Transit information bot channel (CascadiaMesh)."
+      },
+      {
+        "channel": "#vancouverwa",
+        "description": "Vancouver, WA chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#venturacounty",
+        "description": "Local chat for Ventura County, California."
+      },
+      {
+        "channel": "#volcano",
+        "description": "San Diego based mesh bot (West Coast Mesh)."
+      },
+      {
+        "channel": "#wadamesh",
+        "description": "Discussion about the standalone T-Deck firmware from WaDaMesh.com."
+      },
+      {
+        "channel": "#wardriving",
+        "description": "Semi-automated messages generated during wardrive mesh testing sessions."
+      },
+      {
+        "channel": "#washcoares",
+        "description": "Washington County, OR ARES amateur radio emergency services coordination."
+      },
+      {
+        "channel": "#washington",
+        "description": "Washington statewide chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#watchduty",
+        "description": "WatchDuty app wildfire/emergency reports (West Coast Mesh)."
+      },
+      {
+        "channel": "#weather",
+        "description": "Automated weather alerts from the NWS covering 8 Bay Area zones."
+      },
+      {
+        "channel": "#westseattle",
+        "description": "West Seattle neighborhood channel (CascadiaMesh)."
+      },
+      {
+        "channel": "#whitesox",
+        "description": "Chicago White Sox discussion (Chicagoland Mesh)."
+      },
+      {
+        "channel": "#wmass",
+        "description": "Western Massachusetts regional channel (Pioneer Valley Mesh)."
+      },
+      {
+        "channel": "#wvmesh",
+        "description": "Willamette Valley discussion, Oregon (CascadiaMesh)."
+      },
+      {
+        "channel": "#yamco",
+        "description": "Yamhill County, OR regional chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#yo",
+        "description": "A playful homage to the 'Yo' social network; only 'Yo' allowed (Bay Area)."
       }
     ],
     "uy": [],
@@ -11036,7 +12800,32 @@
     "ws": [],
     "ye": [],
     "yt": [],
-    "za": [],
+    "za": [
+      {
+        "channel": "#channel1",
+        "description": "Cape Town: longer chats moved away from Public channel."
+      },
+      {
+        "channel": "#channel2",
+        "description": "Created for Cape Town alongside #channel1 for longer discussions."
+      },
+      {
+        "channel": "#jokes",
+        "description": "Cape Town: joke sharing channel."
+      },
+      {
+        "channel": "#ping",
+        "description": "Cape Town: get bot responses when posting ping or trace."
+      },
+      {
+        "channel": "#test",
+        "description": "Cape Town: where users do their testing."
+      },
+      {
+        "channel": "#wardriving",
+        "description": "Cape Town: Meshmapper app sends coverage data here."
+      }
+    ],
     "zm": [],
     "zw": []
   }
