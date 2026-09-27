@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:04:32Z",
+  "generated_at": "2026-09-27T00:06:54Z",
   "license": "CC0-1.0",
   "countries": {
     "ad": [],
@@ -197,8 +197,20 @@
     "bd": [],
     "be": [
       {
+        "channel": "#73sbe",
+        "description": "Initiative of radio amateur friends group 73s.be"
+      },
+      {
         "channel": "#antwerpen",
         "description": "antwerpen"
+      },
+      {
+        "channel": "#b-stby",
+        "description": "Test channel of noodcommunicatie.be (Belgian emergency comms group)"
+      },
+      {
+        "channel": "#belgium-mesh",
+        "description": "Belgian MeshCore public channel, per MeshCore Europe community directory"
       },
       {
         "channel": "#bemesh",
@@ -209,6 +221,14 @@
         "description": "brugge"
       },
       {
+        "channel": "#brussels",
+        "description": "Brussels regional channel (English name), live on Belgian MQTT analyzer"
+      },
+      {
+        "channel": "#bruxelles",
+        "description": "Brussels regional channel (French name), live on Belgian MQTT analyzer"
+      },
+      {
         "channel": "#dirage",
         "description": "dirage"
       },
@@ -217,12 +237,48 @@
         "description": "gent"
       },
       {
+        "channel": "#hamradio",
+        "description": "For radio amateurs, incl. users from the Netherlands"
+      },
+      {
         "channel": "#hsg",
         "description": "hsg"
       },
       {
         "channel": "#kortrijk",
         "description": "kortrijk"
+      },
+      {
+        "channel": "#liege",
+        "description": "Liège regional channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#limburg",
+        "description": "Belgian province of Limburg regional channel"
+      },
+      {
+        "channel": "#nerdland",
+        "description": "General channel for nerds on Belgian MeshCore"
+      },
+      {
+        "channel": "#oostende",
+        "description": "City channel for Ostend/Oostende"
+      },
+      {
+        "channel": "#ostbelgien",
+        "description": "German-speaking Community of Belgium (Ostbelgien) channel"
+      },
+      {
+        "channel": "#radio-actief",
+        "description": "For all RRY members of the Belgian MeshCore network (radio-actief.be)"
+      },
+      {
+        "channel": "#vlaanderen",
+        "description": "Flanders (Vlaanderen) regional channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#wallonie",
+        "description": "Wallonia regional channel, live on EU MeshCore analyzer"
       }
     ],
     "bf": [],
@@ -1608,39 +1664,258 @@
       }
     ],
     "dj": [],
-    "dk": [],
+    "dk": [
+      {
+        "channel": "#3fyn",
+        "description": "Funen area channel"
+      },
+      {
+        "channel": "#aalborg",
+        "description": "Aalborg city channel"
+      },
+      {
+        "channel": "#aarhus",
+        "description": "Aarhus city channel"
+      },
+      {
+        "channel": "#corescopebot",
+        "description": "corescopebot"
+      },
+      {
+        "channel": "#danmark",
+        "description": "National Danish channel (alt. name), live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#djursland",
+        "description": "Djursland peninsula regional channel"
+      },
+      {
+        "channel": "#dk",
+        "description": "National Danish channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#dk-backbone",
+        "description": "Danish backbone repeater coordination channel"
+      },
+      {
+        "channel": "#dk-bornholm",
+        "description": "Bornholm island regional channel"
+      },
+      {
+        "channel": "#dk-fyn",
+        "description": "Funen (Fyn) regional channel"
+      },
+      {
+        "channel": "#dk-fyn-nyborg",
+        "description": "Nyborg (Funen) local channel"
+      },
+      {
+        "channel": "#dk-fyn-svendborg",
+        "description": "Svendborg (Funen) local channel"
+      },
+      {
+        "channel": "#dk-kbh",
+        "description": "Copenhagen (København) channel"
+      },
+      {
+        "channel": "#dk-nordsjaelland",
+        "description": "North Zealand regional channel"
+      },
+      {
+        "channel": "#dk-sjaelland",
+        "description": "Zealand (Sjælland) regional channel"
+      },
+      {
+        "channel": "#dk-storkbh",
+        "description": "Greater Copenhagen channel"
+      },
+      {
+        "channel": "#dk-vejvagt",
+        "description": "Danish road-watch/traffic channel"
+      },
+      {
+        "channel": "#dk2600",
+        "description": "dk2600"
+      },
+      {
+        "channel": "#dk3400",
+        "description": "dk3400"
+      },
+      {
+        "channel": "#dk4000",
+        "description": "dk4000"
+      },
+      {
+        "channel": "#dk594",
+        "description": "dk594"
+      },
+      {
+        "channel": "#fredericia",
+        "description": "Fredericia city channel"
+      },
+      {
+        "channel": "#fyn",
+        "description": "Funen (Fyn) channel"
+      },
+      {
+        "channel": "#gilleleje",
+        "description": "gilleleje"
+      },
+      {
+        "channel": "#hornslet",
+        "description": "Hornslet town channel"
+      },
+      {
+        "channel": "#horsens",
+        "description": "Horsens city channel"
+      },
+      {
+        "channel": "#jylland",
+        "description": "Jutland regional channel"
+      },
+      {
+        "channel": "#nordjylland",
+        "description": "North Jutland regional channel"
+      },
+      {
+        "channel": "#oestjylland",
+        "description": "East Jutland regional channel"
+      },
+      {
+        "channel": "#scout",
+        "description": "Danish Scouts channel"
+      },
+      {
+        "channel": "#skanderborg",
+        "description": "Skanderborg town channel"
+      },
+      {
+        "channel": "#spejder",
+        "description": "Danish Scouts channel (\"spejder\" = scout in Danish)"
+      },
+      {
+        "channel": "#taastrup",
+        "description": "taastrup"
+      }
+    ],
     "dm": [],
     "do": [],
     "dz": [],
     "ec": [],
-    "ee": [],
+    "ee": [
+      {
+        "channel": "#estonia",
+        "description": "National Estonian channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#kose",
+        "description": "Kose town channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#kriis",
+        "description": "Estonian crisis/emergency information channel (\"kriis\" = crisis), live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#tartu",
+        "description": "Tartu city channel, live on EU MeshCore analyzer"
+      }
+    ],
     "eg": [],
     "eh": [],
     "er": [],
     "es": [],
     "et": [],
     "eu": [],
-    "fi": [],
+    "fi": [
+      {
+        "channel": "#espoo",
+        "description": "Espoo city channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#finland",
+        "description": "National Finnish channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#vihti",
+        "description": "Vihti municipality channel, live on EU MeshCore analyzer"
+      }
+    ],
     "fj": [],
     "fk": [],
     "fm": [],
     "fo": [],
     "fr": [
       {
+        "channel": "#adrasec",
+        "description": "Channel for French civil-defense radio auxiliary ADRASEC"
+      },
+      {
         "channel": "#alsace",
         "description": "Alsace region"
+      },
+      {
+        "channel": "#bordeaux",
+        "description": "Bordeaux channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#bretagne",
+        "description": "Brittany (Bretagne) regional channel, live on EU MeshCore analyzer"
       },
       {
         "channel": "#fr",
         "description": "France (nationwide)"
       },
       {
+        "channel": "#france",
+        "description": "National French channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#gironde",
+        "description": "Gironde department channel, example used in the French naming guide"
+      },
+      {
+        "channel": "#la-rochelle",
+        "description": "La Rochelle channel, used as example bound to region fr-17 in the French naming guide"
+      },
+      {
+        "channel": "#lyon",
+        "description": "Lyon channel; also given as the canonical commune-channel example in the French naming guide"
+      },
+      {
+        "channel": "#marseille",
+        "description": "Marseille channel, referenced as a real-world example (scoped to fr-13) in the French naming guide"
+      },
+      {
         "channel": "#metz",
         "description": "Metz and Moselle (Lorraine)"
       },
       {
+        "channel": "#nantes",
+        "description": "Nantes channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#nouvelle-aquitaine",
+        "description": "Nouvelle-Aquitaine regional channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#paris",
+        "description": "Paris channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#rcsc",
+        "description": "Channel referenced alongside #adrasec as a legitimate use-case channel"
+      },
+      {
         "channel": "#saarlorlux",
         "description": "Saar-Lor-Lux cross-border region (DE/FR/LU)"
+      },
+      {
+        "channel": "#test",
+        "description": "International test channel, noted as commonly used by the French community"
+      },
+      {
+        "channel": "#toulouse",
+        "description": "Toulouse channel, live on EU MeshCore analyzer"
       }
     ],
     "ga": [],
@@ -1652,6 +1927,10 @@
       {
         "channel": "#berks",
         "description": "berks"
+      },
+      {
+        "channel": "#birmingham",
+        "description": "City channel for Birmingham"
       },
       {
         "channel": "#bristol",
@@ -1666,6 +1945,10 @@
         "description": "cornwall"
       },
       {
+        "channel": "#cornwallanddevon",
+        "description": "Regional channel covering Cornwall and Devon"
+      },
+      {
         "channel": "#derbyshire",
         "description": "derbyshire"
       },
@@ -1674,8 +1957,16 @@
         "description": "eastbourne"
       },
       {
+        "channel": "#eastofengland",
+        "description": "Regional channel for the East of England"
+      },
+      {
         "channel": "#essex",
         "description": "essex"
+      },
+      {
+        "channel": "#greatermanchester",
+        "description": "Regional channel for Greater Manchester"
       },
       {
         "channel": "#hampshire",
@@ -1718,8 +2009,16 @@
         "description": "lowestoft"
       },
       {
+        "channel": "#meshcore-uk",
+        "description": "UK-wide MeshCore public channel"
+      },
+      {
         "channel": "#midlands",
         "description": "midlands"
+      },
+      {
+        "channel": "#northwales",
+        "description": "Regional channel for North Wales"
       },
       {
         "channel": "#northwest",
@@ -1750,8 +2049,20 @@
         "description": "wales"
       },
       {
+        "channel": "#walesandwest",
+        "description": "Regional scope channel for South Wales & the West of England (scope swsw)"
+      },
+      {
+        "channel": "#walesandwest-chat",
+        "description": "Local chat channel for South Wales & the West, no scope restriction"
+      },
+      {
         "channel": "#yorkshire",
         "description": "yorkshire"
+      },
+      {
+        "channel": "#yorkshirenet",
+        "description": "Yorkshire MeshCore network channel, linked to a Yorkshire mesh Facebook group"
       }
     ],
     "gd": [],
@@ -1793,6 +2104,10 @@
     "id": [],
     "ie": [
       {
+        "channel": "#cork",
+        "description": "City/county channel for Cork, Ireland"
+      },
+      {
         "channel": "#dublin",
         "description": "Dublin region"
       },
@@ -1803,6 +2118,14 @@
       {
         "channel": "#lifethreat",
         "description": "For notifications of events that may post risk to health or safety"
+      },
+      {
+        "channel": "#mayo",
+        "description": "County Mayo channel (distinct from #mayo-mesh), live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#mayo-mesh",
+        "description": "County Mayo mesh networking channel — Ireland's first, per MeshCore Europe community directory"
       },
       {
         "channel": "#norniron",
@@ -1987,7 +2310,12 @@
     "lk": [],
     "lr": [],
     "ls": [],
-    "lt": [],
+    "lt": [
+      {
+        "channel": "#lietuva",
+        "description": "National Lithuanian channel, live on EU MeshCore analyzer"
+      }
+    ],
     "lu": [
       {
         "channel": "#luxembourg",
@@ -11528,7 +11856,32 @@
         "key": "izOH6cXN6mrJ5e26oRXNcg=="
       }
     ],
-    "no": [],
+    "no": [
+      {
+        "channel": "#baerum",
+        "description": "Bærum municipality example channel from the Norwegian MeshCore configurator docs"
+      },
+      {
+        "channel": "#midt-norge",
+        "description": "Central Norway (Midt-Norge) regional channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#oslo",
+        "description": "Oslo channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#ostlandet",
+        "description": "Østlandet (Eastern Norway) example regional channel from the Norwegian MeshCore configurator docs"
+      },
+      {
+        "channel": "#trondelag",
+        "description": "Trøndelag regional channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#trondheim",
+        "description": "Trondheim channel, live on EU MeshCore analyzer"
+      }
+    ],
     "np": [],
     "nr": [],
     "nu": [],
@@ -11809,9 +12162,75 @@
     "sa": [],
     "sb": [],
     "sc": [],
-    "sco": [],
+    "sco": [
+      {
+        "channel": "#edinburgh",
+        "description": "City channel for Edinburgh, Scotland, observed on ScotMesh network analyzer"
+      },
+      {
+        "channel": "#fife",
+        "description": "Regional channel for Fife, Scotland, observed on ScotMesh network analyzer"
+      },
+      {
+        "channel": "#scotland",
+        "description": "Primary Scottish MeshCore channel, scope sco, run by ScotMesh"
+      },
+      {
+        "channel": "#traffic",
+        "description": "Scottish road traffic updates (ScotBot), e.g. Fife bridge closures"
+      }
+    ],
     "sd": [],
-    "se": [],
+    "se": [
+      {
+        "channel": "#goteborg",
+        "description": "Gothenburg (Göteborg) channel"
+      },
+      {
+        "channel": "#helsingborg",
+        "description": "Helsingborg channel"
+      },
+      {
+        "channel": "#jonkoping",
+        "description": "Jönköping channel"
+      },
+      {
+        "channel": "#kalmar",
+        "description": "Kalmar channel"
+      },
+      {
+        "channel": "#kungsbacka",
+        "description": "Kungsbacka channel"
+      },
+      {
+        "channel": "#linkoping",
+        "description": "Linköping channel"
+      },
+      {
+        "channel": "#nykoping",
+        "description": "Nyköping channel"
+      },
+      {
+        "channel": "#orebro",
+        "description": "Örebro channel"
+      },
+      {
+        "channel": "#se12",
+        "description": "se12"
+      },
+      {
+        "channel": "#stockholm",
+        "description": "Stockholm channel, live on Swedish/Nordic MeshCore analyzer (meshat.se)"
+      },
+      {
+        "channel": "#sverige",
+        "description": "National Swedish channel (alt. name)"
+      },
+      {
+        "channel": "#sweden",
+        "description": "National Swedish channel"
+      }
+    ],
     "sg": [],
     "sh": [],
     "si": [
