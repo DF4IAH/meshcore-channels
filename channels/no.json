@@ -1,5 +1,30 @@
 {
   "code": "no",
   "name": "Norway",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#baerum",
+      "description": "Bærum municipality example channel from the Norwegian MeshCore configurator docs"
+    },
+    {
+      "channel": "#midt-norge",
+      "description": "Central Norway (Midt-Norge) regional channel, live on EU MeshCore analyzer"
+    },
+    {
+      "channel": "#oslo",
+      "description": "Oslo channel, live on EU MeshCore analyzer"
+    },
+    {
+      "channel": "#ostlandet",
+      "description": "Østlandet (Eastern Norway) example regional channel from the Norwegian MeshCore configurator docs"
+    },
+    {
+      "channel": "#trondelag",
+      "description": "Trøndelag regional channel, live on EU MeshCore analyzer"
+    },
+    {
+      "channel": "#trondheim",
+      "description": "Trondheim channel, live on EU MeshCore analyzer"
+    }
+  ]
 }

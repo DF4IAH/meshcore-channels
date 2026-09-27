@@ -3,8 +3,20 @@
   "name": "Belgium",
   "channels": [
     {
+      "channel": "#73sbe",
+      "description": "Initiative of radio amateur friends group 73s.be"
+    },
+    {
       "channel": "#antwerpen",
       "description": "antwerpen"
+    },
+    {
+      "channel": "#b-stby",
+      "description": "Test channel of noodcommunicatie.be (Belgian emergency comms group)"
+    },
+    {
+      "channel": "#belgium-mesh",
+      "description": "Belgian MeshCore public channel, per MeshCore Europe community directory"
     },
     {
       "channel": "#bemesh",
@@ -15,6 +27,14 @@
       "description": "brugge"
     },
     {
+      "channel": "#brussels",
+      "description": "Brussels regional channel (English name), live on Belgian MQTT analyzer"
+    },
+    {
+      "channel": "#bruxelles",
+      "description": "Brussels regional channel (French name), live on Belgian MQTT analyzer"
+    },
+    {
       "channel": "#dirage",
       "description": "dirage"
     },
@@ -23,12 +43,48 @@
       "description": "gent"
     },
     {
+      "channel": "#hamradio",
+      "description": "For radio amateurs, incl. users from the Netherlands"
+    },
+    {
       "channel": "#hsg",
       "description": "hsg"
     },
     {
       "channel": "#kortrijk",
       "description": "kortrijk"
+    },
+    {
+      "channel": "#liege",
+      "description": "Liège regional channel, live on EU MeshCore analyzer"
+    },
+    {
+      "channel": "#limburg",
+      "description": "Belgian province of Limburg regional channel"
+    },
+    {
+      "channel": "#nerdland",
+      "description": "General channel for nerds on Belgian MeshCore"
+    },
+    {
+      "channel": "#oostende",
+      "description": "City channel for Ostend/Oostende"
+    },
+    {
+      "channel": "#ostbelgien",
+      "description": "German-speaking Community of Belgium (Ostbelgien) channel"
+    },
+    {
+      "channel": "#radio-actief",
+      "description": "For all RRY members of the Belgian MeshCore network (radio-actief.be)"
+    },
+    {
+      "channel": "#vlaanderen",
+      "description": "Flanders (Vlaanderen) regional channel, live on EU MeshCore analyzer"
+    },
+    {
+      "channel": "#wallonie",
+      "description": "Wallonia regional channel, live on EU MeshCore analyzer"
     }
   ]
 }

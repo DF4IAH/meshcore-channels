@@ -11,6 +11,10 @@
       "description": "berks"
     },
     {
+      "channel": "#birmingham",
+      "description": "City channel for Birmingham"
+    },
+    {
       "channel": "#bristol",
       "description": "bristol"
     },
@@ -23,6 +27,10 @@
       "description": "cornwall"
     },
     {
+      "channel": "#cornwallanddevon",
+      "description": "Regional channel covering Cornwall and Devon"
+    },
+    {
       "channel": "#derbyshire",
       "description": "derbyshire"
     },
@@ -31,8 +39,16 @@
       "description": "eastbourne"
     },
     {
+      "channel": "#eastofengland",
+      "description": "Regional channel for the East of England"
+    },
+    {
       "channel": "#essex",
       "description": "essex"
+    },
+    {
+      "channel": "#greatermanchester",
+      "description": "Regional channel for Greater Manchester"
     },
     {
       "channel": "#hampshire",
@@ -75,8 +91,16 @@
       "description": "lowestoft"
     },
     {
+      "channel": "#meshcore-uk",
+      "description": "UK-wide MeshCore public channel"
+    },
+    {
       "channel": "#midlands",
       "description": "midlands"
+    },
+    {
+      "channel": "#northwales",
+      "description": "Regional channel for North Wales"
     },
     {
       "channel": "#northwest",
@@ -107,8 +131,20 @@
       "description": "wales"
     },
     {
+      "channel": "#walesandwest",
+      "description": "Regional scope channel for South Wales & the West of England (scope swsw)"
+    },
+    {
+      "channel": "#walesandwest-chat",
+      "description": "Local chat channel for South Wales & the West, no scope restriction"
+    },
+    {
       "channel": "#yorkshire",
       "description": "yorkshire"
+    },
+    {
+      "channel": "#yorkshirenet",
+      "description": "Yorkshire MeshCore network channel, linked to a Yorkshire mesh Facebook group"
     }
   ]
 }

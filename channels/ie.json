@@ -3,6 +3,10 @@
   "name": "Ireland",
   "channels": [
     {
+      "channel": "#cork",
+      "description": "City/county channel for Cork, Ireland"
+    },
+    {
       "channel": "#dublin",
       "description": "Dublin region"
     },
@@ -13,6 +17,14 @@
     {
       "channel": "#lifethreat",
       "description": "For notifications of events that may post risk to health or safety"
+    },
+    {
+      "channel": "#mayo",
+      "description": "County Mayo channel (distinct from #mayo-mesh), live on EU MeshCore analyzer"
+    },
+    {
+      "channel": "#mayo-mesh",
+      "description": "County Mayo mesh networking channel — Ireland's first, per MeshCore Europe community directory"
     },
     {
       "channel": "#norniron",

@@ -1,5 +1,138 @@
 {
   "code": "dk",
   "name": "Denmark",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#3fyn",
+      "description": "Funen area channel"
+    },
+    {
+      "channel": "#aalborg",
+      "description": "Aalborg city channel"
+    },
+    {
+      "channel": "#aarhus",
+      "description": "Aarhus city channel"
+    },
+    {
+      "channel": "#corescopebot",
+      "description": "corescopebot"
+    },
+    {
+      "channel": "#danmark",
+      "description": "National Danish channel (alt. name), live on EU MeshCore analyzer"
+    },
+    {
+      "channel": "#djursland",
+      "description": "Djursland peninsula regional channel"
+    },
+    {
+      "channel": "#dk",
+      "description": "National Danish channel, live on EU MeshCore analyzer"
+    },
+    {
+      "channel": "#dk-backbone",
+      "description": "Danish backbone repeater coordination channel"
+    },
+    {
+      "channel": "#dk-bornholm",
+      "description": "Bornholm island regional channel"
+    },
+    {
+      "channel": "#dk-fyn",
+      "description": "Funen (Fyn) regional channel"
+    },
+    {
+      "channel": "#dk-fyn-nyborg",
+      "description": "Nyborg (Funen) local channel"
+    },
+    {
+      "channel": "#dk-fyn-svendborg",
+      "description": "Svendborg (Funen) local channel"
+    },
+    {
+      "channel": "#dk-kbh",
+      "description": "Copenhagen (København) channel"
+    },
+    {
+      "channel": "#dk-nordsjaelland",
+      "description": "North Zealand regional channel"
+    },
+    {
+      "channel": "#dk-sjaelland",
+      "description": "Zealand (Sjælland) regional channel"
+    },
+    {
+      "channel": "#dk-storkbh",
+      "description": "Greater Copenhagen channel"
+    },
+    {
+      "channel": "#dk-vejvagt",
+      "description": "Danish road-watch/traffic channel"
+    },
+    {
+      "channel": "#dk2600",
+      "description": "dk2600"
+    },
+    {
+      "channel": "#dk3400",
+      "description": "dk3400"
+    },
+    {
+      "channel": "#dk4000",
+      "description": "dk4000"
+    },
+    {
+      "channel": "#dk594",
+      "description": "dk594"
+    },
+    {
+      "channel": "#fredericia",
+      "description": "Fredericia city channel"
+    },
+    {
+      "channel": "#fyn",
+      "description": "Funen (Fyn) channel"
+    },
+    {
+      "channel": "#gilleleje",
+      "description": "gilleleje"
+    },
+    {
+      "channel": "#hornslet",
+      "description": "Hornslet town channel"
+    },
+    {
+      "channel": "#horsens",
+      "description": "Horsens city channel"
+    },
+    {
+      "channel": "#jylland",
+      "description": "Jutland regional channel"
+    },
+    {
+      "channel": "#nordjylland",
+      "description": "North Jutland regional channel"
+    },
+    {
+      "channel": "#oestjylland",
+      "description": "East Jutland regional channel"
+    },
+    {
+      "channel": "#scout",
+      "description": "Danish Scouts channel"
+    },
+    {
+      "channel": "#skanderborg",
+      "description": "Skanderborg town channel"
+    },
+    {
+      "channel": "#spejder",
+      "description": "Danish Scouts channel (\"spejder\" = scout in Danish)"
+    },
+    {
+      "channel": "#taastrup",
+      "description": "taastrup"
+    }
+  ]
 }

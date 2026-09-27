@@ -1,5 +1,18 @@
 {
   "code": "fi",
   "name": "Finland",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#espoo",
+      "description": "Espoo city channel, live on EU MeshCore analyzer"
+    },
+    {
+      "channel": "#finland",
+      "description": "National Finnish channel, live on EU MeshCore analyzer"
+    },
+    {
+      "channel": "#vihti",
+      "description": "Vihti municipality channel, live on EU MeshCore analyzer"
+    }
+  ]
 }

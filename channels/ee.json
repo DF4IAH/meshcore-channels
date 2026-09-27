@@ -1,5 +1,22 @@
 {
   "code": "ee",
   "name": "Estonia",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#estonia",
+      "description": "National Estonian channel, live on EU MeshCore analyzer"
+    },
+    {
+      "channel": "#kose",
+      "description": "Kose town channel, live on EU MeshCore analyzer"
+    },
+    {
+      "channel": "#kriis",
+      "description": "Estonian crisis/emergency information channel (\"kriis\" = crisis), live on EU MeshCore analyzer"
+    },
+    {
+      "channel": "#tartu",
+      "description": "Tartu city channel, live on EU MeshCore analyzer"
+    }
+  ]
 }

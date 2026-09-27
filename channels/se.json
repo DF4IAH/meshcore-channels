@@ -1,5 +1,54 @@
 {
   "code": "se",
   "name": "Sweden",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#goteborg",
+      "description": "Gothenburg (Göteborg) channel"
+    },
+    {
+      "channel": "#helsingborg",
+      "description": "Helsingborg channel"
+    },
+    {
+      "channel": "#jonkoping",
+      "description": "Jönköping channel"
+    },
+    {
+      "channel": "#kalmar",
+      "description": "Kalmar channel"
+    },
+    {
+      "channel": "#kungsbacka",
+      "description": "Kungsbacka channel"
+    },
+    {
+      "channel": "#linkoping",
+      "description": "Linköping channel"
+    },
+    {
+      "channel": "#nykoping",
+      "description": "Nyköping channel"
+    },
+    {
+      "channel": "#orebro",
+      "description": "Örebro channel"
+    },
+    {
+      "channel": "#se12",
+      "description": "se12"
+    },
+    {
+      "channel": "#stockholm",
+      "description": "Stockholm channel, live on Swedish/Nordic MeshCore analyzer (meshat.se)"
+    },
+    {
+      "channel": "#sverige",
+      "description": "National Swedish channel (alt. name)"
+    },
+    {
+      "channel": "#sweden",
+      "description": "National Swedish channel"
+    }
+  ]
 }

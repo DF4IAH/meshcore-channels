@@ -1,5 +1,22 @@
 {
   "code": "sco",
   "name": "Scotland",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#edinburgh",
+      "description": "City channel for Edinburgh, Scotland, observed on ScotMesh network analyzer"
+    },
+    {
+      "channel": "#fife",
+      "description": "Regional channel for Fife, Scotland, observed on ScotMesh network analyzer"
+    },
+    {
+      "channel": "#scotland",
+      "description": "Primary Scottish MeshCore channel, scope sco, run by ScotMesh"
+    },
+    {
+      "channel": "#traffic",
+      "description": "Scottish road traffic updates (ScotBot), e.g. Fife bridge closures"
+    }
+  ]
 }
