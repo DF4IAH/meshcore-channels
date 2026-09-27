@@ -11,6 +11,14 @@
       "description": "ABDL community chat and discussion (CascadiaMesh)."
     },
     {
+      "channel": "#airdrie",
+      "description": "AlbertaMesh.ca Calgary/Airdrie community RX channel"
+    },
+    {
+      "channel": "#albertamesh",
+      "description": "AlbertaMesh.ca province-wide community RX channel"
+    },
+    {
       "channel": "#astrophotography",
       "description": "Astrophotography discussion (CascadiaMesh)."
     },
@@ -39,6 +47,10 @@
       "description": "Book discussion channel (CascadiaMesh)."
     },
     {
+      "channel": "#calgary",
+      "description": "AlbertaMesh.ca Calgary community RX channel"
+    },
+    {
       "channel": "#camping",
       "description": "Outdoor camping life discussion (CascadiaMesh)."
     },
@@ -59,8 +71,16 @@
       "description": "Cat facts, stories, and feline-related conversation (CascadiaMesh)."
     },
     {
+      "channel": "#chat",
+      "description": "AlbertaMesh.ca (Calgary) general chat RX channel"
+    },
+    {
       "channel": "#climbing",
       "description": "Climbing hills and mountains discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#corecomms",
+      "description": "AlbertaMesh.ca (Calgary) RX channel"
     },
     {
       "channel": "#cruising",
@@ -93,6 +113,10 @@
     {
       "channel": "#emcomm",
       "description": "Discussion about emergency communications (CascadiaMesh)."
+    },
+    {
+      "channel": "#emergency",
+      "description": "AlbertaMesh.ca (Calgary) emergency RX channel"
     },
     {
       "channel": "#events",
@@ -131,12 +155,20 @@
       "description": "Firearms and gun safety discussion (CascadiaMesh)."
     },
     {
+      "channel": "#hamradio",
+      "description": "AlbertaMesh.ca (Calgary) amateur radio RX channel"
+    },
+    {
       "channel": "#hiking",
       "description": "Hiking and trail discussion (CascadiaMesh)."
     },
     {
       "channel": "#insomnia",
       "description": "Late-night 'can't sleep' conversation (CascadiaMesh)."
+    },
+    {
+      "channel": "#jokes",
+      "description": "AlbertaMesh.ca (Calgary) jokes RX channel"
     },
     {
       "channel": "#law",
@@ -149,6 +181,14 @@
     {
       "channel": "#meshcore",
       "description": "General MeshCore discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#meshcorealberta",
+      "description": "AlbertaMesh.ca province-wide community RX channel"
+    },
+    {
+      "channel": "#meshmonitoring",
+      "description": "AlbertaMesh.ca (Calgary) monitoring-related RX channel"
     },
     {
       "channel": "#meshpotamia",
@@ -207,8 +247,24 @@
       "description": "Search and Rescue coordination channel (CascadiaMesh)."
     },
     {
+      "channel": "#sos",
+      "description": "AlbertaMesh.ca (Calgary) emergency/SOS RX channel"
+    },
+    {
       "channel": "#southisland",
       "description": "Greater Victoria, BC (CascadiaMesh)."
+    },
+    {
+      "channel": "#sports",
+      "description": "AlbertaMesh.ca (Calgary) sports RX channel"
+    },
+    {
+      "channel": "#test",
+      "description": "AlbertaMesh.ca (Calgary) development/testing RX channel"
+    },
+    {
+      "channel": "#testing",
+      "description": "AlbertaMesh.ca (Calgary) development/testing RX channel"
     },
     {
       "channel": "#transit",
@@ -231,8 +287,32 @@
       "description": "Discussion about the standalone T-Deck firmware from WaDaMesh.com."
     },
     {
+      "channel": "#wardriving",
+      "description": "AlbertaMesh.ca (Calgary) wardriving RX channel"
+    },
+    {
+      "channel": "#weather",
+      "description": "AlbertaMesh.ca (Calgary) weather RX channel"
+    },
+    {
       "channel": "#whitecaps",
       "description": "Vancouver Whitecaps MLS soccer chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#wx",
+      "description": "AlbertaMesh.ca (Calgary) weather RX channel"
+    },
+    {
+      "channel": "#yegwx",
+      "description": "YEGMesh (Edmonton): automatic weather updates, advisories and severe weather alerts"
+    },
+    {
+      "channel": "#yyc",
+      "description": "Calgary/Airdrie MeshCore (AlbertaMesh.ca): Calgary community RX channel"
+    },
+    {
+      "channel": "#yyc-weather",
+      "description": "AlbertaMesh.ca (Calgary) weather RX channel"
     },
     {
       "channel": "#zspace",

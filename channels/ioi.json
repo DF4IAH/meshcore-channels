@@ -1,5 +1,18 @@
 {
   "code": "ioi",
   "name": "Island of Ireland",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#ioi-test",
+      "description": "Island of Ireland test channel for running a Health Check, region scope ioi"
+    },
+    {
+      "channel": "#wardrive",
+      "description": "ioi-admin traffic, wardrive pings, separate from ioi"
+    },
+    {
+      "channel": "#wardriving",
+      "description": "MeshMapper coverage-mapping pings channel, scoped ioi"
+    }
+  ]
 }

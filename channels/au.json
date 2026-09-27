@@ -31,6 +31,10 @@
       "description": "Central Coast conversation and coordination (au-nsw-syd)."
     },
     {
+      "channel": "#emergency",
+      "description": "Emergency communications only"
+    },
+    {
       "channel": "#farsouthcoast",
       "description": "Far South Coast conversation and coordination."
     },
@@ -51,8 +55,16 @@
       "description": "Illawarra & Wollongong conversation and coordination (au-nsw-wol)."
     },
     {
+      "channel": "#jokes",
+      "description": "Mostly poor dad jokes channel"
+    },
+    {
       "channel": "#macarthur",
       "description": "Macarthur conversation and coordination (au-nsw-syd)."
+    },
+    {
+      "channel": "#market",
+      "description": "Marketplace for selling MeshCore related items"
     },
     {
       "channel": "#midnorthcoast",
@@ -83,6 +95,14 @@
       "description": "State-wide coordination (au-nsw)."
     },
     {
+      "channel": "#ping",
+      "description": "Ping/pong signal tests, reports hop count to sender"
+    },
+    {
+      "channel": "#quotes",
+      "description": "Motivational quotes and other famous sayings"
+    },
+    {
       "channel": "#recs",
       "description": "Recommendations channel (MeshSydney)."
     },
@@ -93,6 +113,10 @@
     {
       "channel": "#rolojnr",
       "description": "RoloJnr bot channel: help, ping, test, path, wx, time, signal, AI queries (au-nsw-syd)."
+    },
+    {
+      "channel": "#secret",
+      "description": "Secret channel, contents undisclosed by wiki authors"
     },
     {
       "channel": "#sports",

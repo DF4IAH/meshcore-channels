@@ -1,5 +1,10 @@
 {
   "code": "im",
   "name": "Isle of Man",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#manx",
+      "description": "Isle of Man channel; region scope iom"
+    }
+  ]
 }

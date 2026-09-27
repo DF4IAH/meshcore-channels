@@ -3,8 +3,56 @@
   "name": "Lithuania",
   "channels": [
     {
+      "channel": "#bot",
+      "description": "Separater Kanal für Bots, Scope lt"
+    },
+    {
+      "channel": "#emergency",
+      "description": "Notfall-Kanal, Scope lt"
+    },
+    {
+      "channel": "#hamradio",
+      "description": "Kanal für Funkamateure, Scope lt"
+    },
+    {
+      "channel": "#iranga",
+      "description": "Kanal für Ausrüstung/Equipment, Scope lt"
+    },
+    {
+      "channel": "#kaunas",
+      "description": "Kanal für Kaunas, Scope kun"
+    },
+    {
       "channel": "#lietuva",
       "description": "National Lithuanian channel, live on EU MeshCore analyzer"
+    },
+    {
+      "channel": "#pietu-lietuva",
+      "description": "Südlitauen-Kanal, Scope kun; laut Quelle aktuell ungenutzt/für die Zukunft beschrieben"
+    },
+    {
+      "channel": "#rytu-lietuva",
+      "description": "Ostlitauen-Kanal, Scope vno; laut Quelle aktuell ungenutzt/für die Zukunft beschrieben"
+    },
+    {
+      "channel": "#siaures-lietuva",
+      "description": "Nordlitauen-Kanal, Scope laut Quelle plq; aktuell ungenutzt/für die Zukunft beschrieben"
+    },
+    {
+      "channel": "#test",
+      "description": "Test-/Ping-Kanal, Scope lt: alle ping/test-Nachrichten"
+    },
+    {
+      "channel": "#vakaru-lietuva",
+      "description": "Westlitauen-Kanal, Scope laut Quelle sqq; aktuell ungenutzt/für die Zukunft beschrieben"
+    },
+    {
+      "channel": "#vilnius",
+      "description": "Kanal für Vilnius, Scope vno"
+    },
+    {
+      "channel": "#wardriving",
+      "description": "Für Netzwerk-Wardriving; Region wird automatisch via MeshMapper-App gesetzt"
     }
   ]
 }

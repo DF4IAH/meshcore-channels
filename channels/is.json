@@ -1,5 +1,10 @@
 {
   "code": "is",
   "name": "Iceland",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#wardriving",
+      "description": "Auf rkv.meshmapper.net (Reykjavik) beobachteter Kanal (RX Channels)"
+    }
+  ]
 }

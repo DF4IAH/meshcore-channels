@@ -3,6 +3,10 @@
   "name": "Finland",
   "channels": [
     {
+      "channel": "#bot",
+      "description": "Auf finland.meshmapper.net beobachteter Kanal (RX Channels der finnischen MeshCore-Repeater HEL/KOK/SJY/TKU)"
+    },
+    {
       "channel": "#espoo",
       "description": "Espoo city channel, live on EU MeshCore analyzer"
     },
@@ -11,8 +15,32 @@
       "description": "National Finnish channel, live on EU MeshCore analyzer"
     },
     {
+      "channel": "#ping",
+      "description": "Auf finland.meshmapper.net beobachteter Kanal (RX Channels der finnischen MeshCore-Repeater HEL/KOK/SJY/TKU)"
+    },
+    {
+      "channel": "#saaristo",
+      "description": "Auf finland.meshmapper.net beobachteter Kanal (RX Channels der finnischen MeshCore-Repeater HEL/KOK/SJY/TKU)"
+    },
+    {
+      "channel": "#telemetry",
+      "description": "Auf finland.meshmapper.net beobachteter Kanal (RX Channels der finnischen MeshCore-Repeater HEL/KOK/SJY/TKU)"
+    },
+    {
+      "channel": "#test",
+      "description": "Auf finland.meshmapper.net beobachteter Kanal (RX Channels der finnischen MeshCore-Repeater HEL/KOK/SJY/TKU)"
+    },
+    {
+      "channel": "#testi",
+      "description": "Auf finland.meshmapper.net beobachteter Kanal (RX Channels der finnischen MeshCore-Repeater HEL/KOK/SJY/TKU)"
+    },
+    {
       "channel": "#vihti",
       "description": "Vihti municipality channel, live on EU MeshCore analyzer"
+    },
+    {
+      "channel": "#wardriving",
+      "description": "Auf finland.meshmapper.net beobachteter Kanal (RX Channels der finnischen MeshCore-Repeater HEL/KOK/SJY/TKU)"
     }
   ]
 }

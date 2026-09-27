@@ -3,16 +3,40 @@
   "name": "Scotland",
   "channels": [
     {
+      "channel": "#central",
+      "description": "Central Scotland regional channel, scope cen, proposed"
+    },
+    {
+      "channel": "#dundee",
+      "description": "Dundee area local channel, scope dun, proposed"
+    },
+    {
       "channel": "#edinburgh",
       "description": "City channel for Edinburgh, Scotland, observed on ScotMesh network analyzer"
+    },
+    {
+      "channel": "#falkirk",
+      "description": "Falkirk area local channel, scope fal, proposed"
     },
     {
       "channel": "#fife",
       "description": "Regional channel for Fife, Scotland, observed on ScotMesh network analyzer"
     },
     {
+      "channel": "#glasgow",
+      "description": "Glasgow area local channel, scope gla, proposed"
+    },
+    {
+      "channel": "#perth",
+      "description": "Perth area local channel, scope per, proposed"
+    },
+    {
       "channel": "#scotland",
       "description": "Primary Scottish MeshCore channel, scope sco, run by ScotMesh"
+    },
+    {
+      "channel": "#tayside",
+      "description": "Tayside regional channel, scope tay, proposed"
     },
     {
       "channel": "#traffic",

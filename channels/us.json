@@ -327,6 +327,10 @@
       "description": "Food and dining discussion (CascadiaMesh)."
     },
     {
+      "channel": "#fun",
+      "description": "Gulf Coast Mesh: dad jokes / casual content channel"
+    },
+    {
       "channel": "#furry",
       "description": "Furry community chat (CascadiaMesh)."
     },
@@ -383,6 +387,10 @@
       "description": "Automated updates on ICE, CBP, FPS and other federal police activity."
     },
     {
+      "channel": "#idahomesh",
+      "description": "IdahoMesh main community group channel"
+    },
+    {
       "channel": "#inlandempire",
       "description": "Local chat for the Inland Empire, California."
     },
@@ -429,6 +437,10 @@
     {
       "channel": "#law",
       "description": "Legal advice/discussion channel (CascadiaMesh)."
+    },
+    {
+      "channel": "#li",
+      "description": "Long Island Mesh: channel scoped to the \"li\" (Long Island) region"
     },
     {
       "channel": "#longisland",
@@ -539,6 +551,10 @@
       "description": "Nudist community chat (CascadiaMesh)."
     },
     {
+      "channel": "#news",
+      "description": "Gulf Coast Mesh (Louisiana/Gulf Coast): news & announcements, incl. automated bot posts during emergencies"
+    },
+    {
       "channel": "#nhhc",
       "description": "New Hampshire health-check pings."
     },
@@ -619,6 +635,10 @@
       "description": "PugetMesh protest coordination (Puget Sound, WA)"
     },
     {
+      "channel": "#public",
+      "description": "Long Island Mesh: default/public MeshCore channel, region dependent"
+    },
+    {
       "channel": "#queenanne",
       "description": "Queen Anne neighborhood channel, Seattle (CascadiaMesh)."
     },
@@ -645,6 +665,10 @@
     {
       "channel": "#reign",
       "description": "Seattle Reign NWSL soccer discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#repeater-testing",
+      "description": "Gulf Coast Mesh: testing deployments without cluttering public channels"
     },
     {
       "channel": "#roguevalley",
@@ -885,6 +909,11 @@
     {
       "channel": "#yo",
       "description": "A playful homage to the 'Yo' social network; only 'Yo' allowed (Bay Area)."
+    },
+    {
+      "channel": "centralnj-mc",
+      "description": "CNJ Mesh (Central/South New Jersey): named MeshCore channel for Central NJ operators, Kendall Park area infrastructure",
+      "key": "3MlLNp/u7jCYAO4VoSQD7Q=="
     }
   ]
 }
