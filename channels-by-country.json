@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:06:54Z",
+  "generated_at": "2026-09-27T00:12:10Z",
   "license": "CC0-1.0",
   "countries": {
     "ad": [],
@@ -105,6 +105,10 @@
         "description": "Central Coast conversation and coordination (au-nsw-syd)."
       },
       {
+        "channel": "#emergency",
+        "description": "Emergency communications only"
+      },
+      {
         "channel": "#farsouthcoast",
         "description": "Far South Coast conversation and coordination."
       },
@@ -125,8 +129,16 @@
         "description": "Illawarra & Wollongong conversation and coordination (au-nsw-wol)."
       },
       {
+        "channel": "#jokes",
+        "description": "Mostly poor dad jokes channel"
+      },
+      {
         "channel": "#macarthur",
         "description": "Macarthur conversation and coordination (au-nsw-syd)."
+      },
+      {
+        "channel": "#market",
+        "description": "Marketplace for selling MeshCore related items"
       },
       {
         "channel": "#midnorthcoast",
@@ -157,6 +169,14 @@
         "description": "State-wide coordination (au-nsw)."
       },
       {
+        "channel": "#ping",
+        "description": "Ping/pong signal tests, reports hop count to sender"
+      },
+      {
+        "channel": "#quotes",
+        "description": "Motivational quotes and other famous sayings"
+      },
+      {
         "channel": "#recs",
         "description": "Recommendations channel (MeshSydney)."
       },
@@ -167,6 +187,10 @@
       {
         "channel": "#rolojnr",
         "description": "RoloJnr bot channel: help, ping, test, path, wx, time, signal, AI queries (au-nsw-syd)."
+      },
+      {
+        "channel": "#secret",
+        "description": "Secret channel, contents undisclosed by wiki authors"
       },
       {
         "channel": "#sports",
@@ -362,6 +386,14 @@
         "description": "ABDL community chat and discussion (CascadiaMesh)."
       },
       {
+        "channel": "#airdrie",
+        "description": "AlbertaMesh.ca Calgary/Airdrie community RX channel"
+      },
+      {
+        "channel": "#albertamesh",
+        "description": "AlbertaMesh.ca province-wide community RX channel"
+      },
+      {
         "channel": "#astrophotography",
         "description": "Astrophotography discussion (CascadiaMesh)."
       },
@@ -390,6 +422,10 @@
         "description": "Book discussion channel (CascadiaMesh)."
       },
       {
+        "channel": "#calgary",
+        "description": "AlbertaMesh.ca Calgary community RX channel"
+      },
+      {
         "channel": "#camping",
         "description": "Outdoor camping life discussion (CascadiaMesh)."
       },
@@ -410,8 +446,16 @@
         "description": "Cat facts, stories, and feline-related conversation (CascadiaMesh)."
       },
       {
+        "channel": "#chat",
+        "description": "AlbertaMesh.ca (Calgary) general chat RX channel"
+      },
+      {
         "channel": "#climbing",
         "description": "Climbing hills and mountains discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#corecomms",
+        "description": "AlbertaMesh.ca (Calgary) RX channel"
       },
       {
         "channel": "#cruising",
@@ -444,6 +488,10 @@
       {
         "channel": "#emcomm",
         "description": "Discussion about emergency communications (CascadiaMesh)."
+      },
+      {
+        "channel": "#emergency",
+        "description": "AlbertaMesh.ca (Calgary) emergency RX channel"
       },
       {
         "channel": "#events",
@@ -482,12 +530,20 @@
         "description": "Firearms and gun safety discussion (CascadiaMesh)."
       },
       {
+        "channel": "#hamradio",
+        "description": "AlbertaMesh.ca (Calgary) amateur radio RX channel"
+      },
+      {
         "channel": "#hiking",
         "description": "Hiking and trail discussion (CascadiaMesh)."
       },
       {
         "channel": "#insomnia",
         "description": "Late-night 'can't sleep' conversation (CascadiaMesh)."
+      },
+      {
+        "channel": "#jokes",
+        "description": "AlbertaMesh.ca (Calgary) jokes RX channel"
       },
       {
         "channel": "#law",
@@ -500,6 +556,14 @@
       {
         "channel": "#meshcore",
         "description": "General MeshCore discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#meshcorealberta",
+        "description": "AlbertaMesh.ca province-wide community RX channel"
+      },
+      {
+        "channel": "#meshmonitoring",
+        "description": "AlbertaMesh.ca (Calgary) monitoring-related RX channel"
       },
       {
         "channel": "#meshpotamia",
@@ -558,8 +622,24 @@
         "description": "Search and Rescue coordination channel (CascadiaMesh)."
       },
       {
+        "channel": "#sos",
+        "description": "AlbertaMesh.ca (Calgary) emergency/SOS RX channel"
+      },
+      {
         "channel": "#southisland",
         "description": "Greater Victoria, BC (CascadiaMesh)."
+      },
+      {
+        "channel": "#sports",
+        "description": "AlbertaMesh.ca (Calgary) sports RX channel"
+      },
+      {
+        "channel": "#test",
+        "description": "AlbertaMesh.ca (Calgary) development/testing RX channel"
+      },
+      {
+        "channel": "#testing",
+        "description": "AlbertaMesh.ca (Calgary) development/testing RX channel"
       },
       {
         "channel": "#transit",
@@ -582,8 +662,32 @@
         "description": "Discussion about the standalone T-Deck firmware from WaDaMesh.com."
       },
       {
+        "channel": "#wardriving",
+        "description": "AlbertaMesh.ca (Calgary) wardriving RX channel"
+      },
+      {
+        "channel": "#weather",
+        "description": "AlbertaMesh.ca (Calgary) weather RX channel"
+      },
+      {
         "channel": "#whitecaps",
         "description": "Vancouver Whitecaps MLS soccer chat (CascadiaMesh)."
+      },
+      {
+        "channel": "#wx",
+        "description": "AlbertaMesh.ca (Calgary) weather RX channel"
+      },
+      {
+        "channel": "#yegwx",
+        "description": "YEGMesh (Edmonton): automatic weather updates, advisories and severe weather alerts"
+      },
+      {
+        "channel": "#yyc",
+        "description": "Calgary/Airdrie MeshCore (AlbertaMesh.ca): Calgary community RX channel"
+      },
+      {
+        "channel": "#yyc-weather",
+        "description": "AlbertaMesh.ca (Calgary) weather RX channel"
       },
       {
         "channel": "#zspace",
@@ -1782,6 +1886,10 @@
         "description": "East Jutland regional channel"
       },
       {
+        "channel": "#ping",
+        "description": "Kanal für den Pingbot (Konnektivitäts-Test), dokumentiert auf MeshCore.dk"
+      },
+      {
         "channel": "#scout",
         "description": "Danish Scouts channel"
       },
@@ -1828,6 +1936,10 @@
     "eu": [],
     "fi": [
       {
+        "channel": "#bot",
+        "description": "Auf finland.meshmapper.net beobachteter Kanal (RX Channels der finnischen MeshCore-Repeater HEL/KOK/SJY/TKU)"
+      },
+      {
         "channel": "#espoo",
         "description": "Espoo city channel, live on EU MeshCore analyzer"
       },
@@ -1836,8 +1948,32 @@
         "description": "National Finnish channel, live on EU MeshCore analyzer"
       },
       {
+        "channel": "#ping",
+        "description": "Auf finland.meshmapper.net beobachteter Kanal (RX Channels der finnischen MeshCore-Repeater HEL/KOK/SJY/TKU)"
+      },
+      {
+        "channel": "#saaristo",
+        "description": "Auf finland.meshmapper.net beobachteter Kanal (RX Channels der finnischen MeshCore-Repeater HEL/KOK/SJY/TKU)"
+      },
+      {
+        "channel": "#telemetry",
+        "description": "Auf finland.meshmapper.net beobachteter Kanal (RX Channels der finnischen MeshCore-Repeater HEL/KOK/SJY/TKU)"
+      },
+      {
+        "channel": "#test",
+        "description": "Auf finland.meshmapper.net beobachteter Kanal (RX Channels der finnischen MeshCore-Repeater HEL/KOK/SJY/TKU)"
+      },
+      {
+        "channel": "#testi",
+        "description": "Auf finland.meshmapper.net beobachteter Kanal (RX Channels der finnischen MeshCore-Repeater HEL/KOK/SJY/TKU)"
+      },
+      {
         "channel": "#vihti",
         "description": "Vihti municipality channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#wardriving",
+        "description": "Auf finland.meshmapper.net beobachteter Kanal (RX Channels der finnischen MeshCore-Repeater HEL/KOK/SJY/TKU)"
       }
     ],
     "fj": [],
@@ -2137,13 +2273,36 @@
       }
     ],
     "il": [],
-    "im": [],
+    "im": [
+      {
+        "channel": "#manx",
+        "description": "Isle of Man channel; region scope iom"
+      }
+    ],
     "in": [],
     "io": [],
-    "ioi": [],
+    "ioi": [
+      {
+        "channel": "#ioi-test",
+        "description": "Island of Ireland test channel for running a Health Check, region scope ioi"
+      },
+      {
+        "channel": "#wardrive",
+        "description": "ioi-admin traffic, wardrive pings, separate from ioi"
+      },
+      {
+        "channel": "#wardriving",
+        "description": "MeshMapper coverage-mapping pings channel, scoped ioi"
+      }
+    ],
     "iq": [],
     "ir": [],
-    "is": [],
+    "is": [
+      {
+        "channel": "#wardriving",
+        "description": "Auf rkv.meshmapper.net (Reykjavik) beobachteter Kanal (RX Channels)"
+      }
+    ],
     "it": [
       {
         "channel": "#bot",
@@ -2312,8 +2471,56 @@
     "ls": [],
     "lt": [
       {
+        "channel": "#bot",
+        "description": "Separater Kanal für Bots, Scope lt"
+      },
+      {
+        "channel": "#emergency",
+        "description": "Notfall-Kanal, Scope lt"
+      },
+      {
+        "channel": "#hamradio",
+        "description": "Kanal für Funkamateure, Scope lt"
+      },
+      {
+        "channel": "#iranga",
+        "description": "Kanal für Ausrüstung/Equipment, Scope lt"
+      },
+      {
+        "channel": "#kaunas",
+        "description": "Kanal für Kaunas, Scope kun"
+      },
+      {
         "channel": "#lietuva",
         "description": "National Lithuanian channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#pietu-lietuva",
+        "description": "Südlitauen-Kanal, Scope kun; laut Quelle aktuell ungenutzt/für die Zukunft beschrieben"
+      },
+      {
+        "channel": "#rytu-lietuva",
+        "description": "Ostlitauen-Kanal, Scope vno; laut Quelle aktuell ungenutzt/für die Zukunft beschrieben"
+      },
+      {
+        "channel": "#siaures-lietuva",
+        "description": "Nordlitauen-Kanal, Scope laut Quelle plq; aktuell ungenutzt/für die Zukunft beschrieben"
+      },
+      {
+        "channel": "#test",
+        "description": "Test-/Ping-Kanal, Scope lt: alle ping/test-Nachrichten"
+      },
+      {
+        "channel": "#vakaru-lietuva",
+        "description": "Westlitauen-Kanal, Scope laut Quelle sqq; aktuell ungenutzt/für die Zukunft beschrieben"
+      },
+      {
+        "channel": "#vilnius",
+        "description": "Kanal für Vilnius, Scope vno"
+      },
+      {
+        "channel": "#wardriving",
+        "description": "Für Netzwerk-Wardriving; Region wird automatisch via MeshMapper-App gesetzt"
       }
     ],
     "lu": [
@@ -12164,16 +12371,40 @@
     "sc": [],
     "sco": [
       {
+        "channel": "#central",
+        "description": "Central Scotland regional channel, scope cen, proposed"
+      },
+      {
+        "channel": "#dundee",
+        "description": "Dundee area local channel, scope dun, proposed"
+      },
+      {
         "channel": "#edinburgh",
         "description": "City channel for Edinburgh, Scotland, observed on ScotMesh network analyzer"
+      },
+      {
+        "channel": "#falkirk",
+        "description": "Falkirk area local channel, scope fal, proposed"
       },
       {
         "channel": "#fife",
         "description": "Regional channel for Fife, Scotland, observed on ScotMesh network analyzer"
       },
       {
+        "channel": "#glasgow",
+        "description": "Glasgow area local channel, scope gla, proposed"
+      },
+      {
+        "channel": "#perth",
+        "description": "Perth area local channel, scope per, proposed"
+      },
+      {
         "channel": "#scotland",
         "description": "Primary Scottish MeshCore channel, scope sco, run by ScotMesh"
+      },
+      {
+        "channel": "#tayside",
+        "description": "Tayside regional channel, scope tay, proposed"
       },
       {
         "channel": "#traffic",
@@ -12646,6 +12877,10 @@
         "description": "Food and dining discussion (CascadiaMesh)."
       },
       {
+        "channel": "#fun",
+        "description": "Gulf Coast Mesh: dad jokes / casual content channel"
+      },
+      {
         "channel": "#furry",
         "description": "Furry community chat (CascadiaMesh)."
       },
@@ -12702,6 +12937,10 @@
         "description": "Automated updates on ICE, CBP, FPS and other federal police activity."
       },
       {
+        "channel": "#idahomesh",
+        "description": "IdahoMesh main community group channel"
+      },
+      {
         "channel": "#inlandempire",
         "description": "Local chat for the Inland Empire, California."
       },
@@ -12748,6 +12987,10 @@
       {
         "channel": "#law",
         "description": "Legal advice/discussion channel (CascadiaMesh)."
+      },
+      {
+        "channel": "#li",
+        "description": "Long Island Mesh: channel scoped to the \"li\" (Long Island) region"
       },
       {
         "channel": "#longisland",
@@ -12858,6 +13101,10 @@
         "description": "Nudist community chat (CascadiaMesh)."
       },
       {
+        "channel": "#news",
+        "description": "Gulf Coast Mesh (Louisiana/Gulf Coast): news & announcements, incl. automated bot posts during emergencies"
+      },
+      {
         "channel": "#nhhc",
         "description": "New Hampshire health-check pings."
       },
@@ -12938,6 +13185,10 @@
         "description": "PugetMesh protest coordination (Puget Sound, WA)"
       },
       {
+        "channel": "#public",
+        "description": "Long Island Mesh: default/public MeshCore channel, region dependent"
+      },
+      {
         "channel": "#queenanne",
         "description": "Queen Anne neighborhood channel, Seattle (CascadiaMesh)."
       },
@@ -12964,6 +13215,10 @@
       {
         "channel": "#reign",
         "description": "Seattle Reign NWSL soccer discussion (CascadiaMesh)."
+      },
+      {
+        "channel": "#repeater-testing",
+        "description": "Gulf Coast Mesh: testing deployments without cluttering public channels"
       },
       {
         "channel": "#roguevalley",
@@ -13204,6 +13459,11 @@
       {
         "channel": "#yo",
         "description": "A playful homage to the 'Yo' social network; only 'Yo' allowed (Bay Area)."
+      },
+      {
+        "channel": "centralnj-mc",
+        "description": "CNJ Mesh (Central/South New Jersey): named MeshCore channel for Central NJ operators, Kendall Park area infrastructure",
+        "key": "3MlLNp/u7jCYAO4VoSQD7Q=="
       }
     ],
     "uy": [],
