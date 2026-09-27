@@ -1,5 +1,50 @@
 {
   "code": "nz",
   "name": "New Zealand",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#alerts",
+      "description": "Notices relevant to the mesh community."
+    },
+    {
+      "channel": "#emergency",
+      "description": "Emergency communications."
+    },
+    {
+      "channel": "#ham",
+      "description": "Ham radio discussion."
+    },
+    {
+      "channel": "#homesteading",
+      "description": "Homesteading-related topics."
+    },
+    {
+      "channel": "#jokes",
+      "description": "Light-hearted, appropriate conversation."
+    },
+    {
+      "channel": "#quakealerts",
+      "description": "NZ-wide earthquake notifications from GeoNet."
+    },
+    {
+      "channel": "#testing",
+      "description": "Connection testing and bots; send !bot to discover reachable bots (akl, hlz, wre, tga)."
+    },
+    {
+      "channel": "#tramping",
+      "description": "Hiking and tramping conversation."
+    },
+    {
+      "channel": "#weather",
+      "description": "Weather reports and warnings."
+    },
+    {
+      "channel": "#wlg-marine",
+      "description": "Wellington marine forecasts, tides, sea temperature (5am & 12pm daily)."
+    },
+    {
+      "channel": "#wlg-weather",
+      "description": "Wellington, Kapiti, Blenheim forecasts (6am & 7pm) plus Metservice alerts."
+    }
+  ]
 }

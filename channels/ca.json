@@ -1,5 +1,242 @@
 {
   "code": "ca",
   "name": "Canada",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#420",
+      "description": "Cannabis discussion channel (CascadiaMesh)."
+    },
+    {
+      "channel": "#abdl",
+      "description": "ABDL community chat and discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#astrophotography",
+      "description": "Astrophotography discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#atheist",
+      "description": "Atheist, agnostic and secular discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#bc",
+      "description": "British Columbia province-wide chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#birding",
+      "description": "Bird watching chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#bitcoin",
+      "description": "Bitcoin and cryptocurrency discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#boating",
+      "description": "Boating, sailing, cruising discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#books",
+      "description": "Book discussion channel (CascadiaMesh)."
+    },
+    {
+      "channel": "#camping",
+      "description": "Outdoor camping life discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#canucks",
+      "description": "Vancouver Canucks NHL hockey discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#cars",
+      "description": "Car discussion and chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#cascadia",
+      "description": "Cascadia bioregion and self-determination discussion."
+    },
+    {
+      "channel": "#cats",
+      "description": "Cat facts, stories, and feline-related conversation (CascadiaMesh)."
+    },
+    {
+      "channel": "#climbing",
+      "description": "Climbing hills and mountains discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#cruising",
+      "description": "Alternative-lifestyle 'cruising' discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#dev",
+      "description": "Mesh developer chat for the Cascadia region."
+    },
+    {
+      "channel": "#dogs",
+      "description": "Dog facts, stories, and canine conversation (CascadiaMesh)."
+    },
+    {
+      "channel": "#drama",
+      "description": "Channel for disputes, petty grievances, and arguments (CascadiaMesh)."
+    },
+    {
+      "channel": "#drones",
+      "description": "Flying drones discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#dwebyvr",
+      "description": "Local channel populated by the DWebYVR / Fraser Lowland mesh community."
+    },
+    {
+      "channel": "#edm",
+      "description": "Electronic music discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#emcomm",
+      "description": "Discussion about emergency communications (CascadiaMesh)."
+    },
+    {
+      "channel": "#events",
+      "description": "Local and regional gatherings and events (CascadiaMesh)."
+    },
+    {
+      "channel": "#f1",
+      "description": "Formula One racing discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#fifa2026",
+      "description": "FIFA World Cup 2026 discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#food",
+      "description": "Food and dining discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#furry",
+      "description": "Furry community chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#gaming",
+      "description": "Video games, RPGs, board games (CascadiaMesh)."
+    },
+    {
+      "channel": "#gardening",
+      "description": "Gardening discussion, from flowers to urban gardening (CascadiaMesh)."
+    },
+    {
+      "channel": "#gmrsradio",
+      "description": "GMRS radio discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#guns",
+      "description": "Firearms and gun safety discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#hiking",
+      "description": "Hiking and trail discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#insomnia",
+      "description": "Late-night 'can't sleep' conversation (CascadiaMesh)."
+    },
+    {
+      "channel": "#law",
+      "description": "Legal advice/discussion channel (CascadiaMesh)."
+    },
+    {
+      "channel": "#mesh",
+      "description": "General mesh networking topics, node setup, and troubleshooting."
+    },
+    {
+      "channel": "#meshcore",
+      "description": "General MeshCore discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#meshpotamia",
+      "description": "Higher-level discussion of MeshCore's technical and social challenges."
+    },
+    {
+      "channel": "#metalmusic",
+      "description": "Metal, Djent, Metalcore music discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#movies",
+      "description": "Movie discussion channel (CascadiaMesh)."
+    },
+    {
+      "channel": "#multibyte",
+      "description": "Channel for testing multi-byte path hash mode (CascadiaMesh)."
+    },
+    {
+      "channel": "#music",
+      "description": "Music discussion and chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#naked",
+      "description": "Nudist community chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#news",
+      "description": "BC Headlines from KamBot (CascadiaMesh)."
+    },
+    {
+      "channel": "#pnw",
+      "description": "Pacific Northwest discussion (CascadiaMesh, spans US/Canada)."
+    },
+    {
+      "channel": "#pokemon",
+      "description": "Pokemon discussion channel (CascadiaMesh)."
+    },
+    {
+      "channel": "#raves",
+      "description": "Underground rave, club and EDM festival discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#rugby",
+      "description": "Rugby discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#running",
+      "description": "Running and jogging discussion (CascadiaMesh)."
+    },
+    {
+      "channel": "#salishmesh",
+      "description": "Primary hashtag channel for the Salish Mesh network, Fraser Lowland / SW British Columbia."
+    },
+    {
+      "channel": "#sar",
+      "description": "Search and Rescue coordination channel (CascadiaMesh)."
+    },
+    {
+      "channel": "#southisland",
+      "description": "Greater Victoria, BC (CascadiaMesh)."
+    },
+    {
+      "channel": "#transit",
+      "description": "Transit information bot channel (CascadiaMesh)."
+    },
+    {
+      "channel": "#vancouver",
+      "description": "Vancouver, BC area chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#vanisle",
+      "description": "Vancouver Island, BC regional chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#victoria",
+      "description": "Victoria, BC chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#wadamesh",
+      "description": "Discussion about the standalone T-Deck firmware from WaDaMesh.com."
+    },
+    {
+      "channel": "#whitecaps",
+      "description": "Vancouver Whitecaps MLS soccer chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#zspace",
+      "description": "Local channel populated by the DWebYVR / Fraser Lowland mesh community."
+    }
+  ]
 }

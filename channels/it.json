@@ -15,9 +15,34 @@
       "description": "Main testing channel for Italy"
     },
     {
+      "channel": "abruzzo",
+      "description": "Abruzzo regional channel",
+      "key": "isN2tAMpdljWKhkdt8dKfA=="
+    },
+    {
       "channel": "alert-lo",
       "description": "Automated weather alert and emergencies, Lombardia region",
       "key": "wvjINGz5QNg8e/ECY8u4Uw=="
+    },
+    {
+      "channel": "alto-adige-sudtirol",
+      "description": "Alto Adige/Südtirol regional channel",
+      "key": "/YefVnmjoQoeM9WP5bIdRA=="
+    },
+    {
+      "channel": "basilicata",
+      "description": "Basilicata regional channel",
+      "key": "MH6ww+41rTx+8Z/KnRXblw=="
+    },
+    {
+      "channel": "calabria",
+      "description": "Calabria regional channel",
+      "key": "hdroHYjRI/WB8DW/wFzwJA=="
+    },
+    {
+      "channel": "campania",
+      "description": "Campania regional channel",
+      "key": "SVm/Hl2MPJvZMg23o3Jnsw=="
     },
     {
       "channel": "emilia-romagna",
@@ -35,6 +60,11 @@
       "key": "TJe/5DGr4gZyJZ2baWnc7A=="
     },
     {
+      "channel": "lazio",
+      "description": "Lazio regional channel",
+      "key": "p0MI8cLr/ZvU86kdVcmdKA=="
+    },
+    {
       "channel": "liguria",
       "description": "Liguria region",
       "key": "u8/tjfIueiFjgmSBoG9YTQ=="
@@ -43,6 +73,11 @@
       "channel": "lombardia",
       "description": "Lombardia region",
       "key": "ejqYj3d1AmbjZJMtlMz1IQ=="
+    },
+    {
+      "channel": "marche",
+      "description": "Marche regional channel",
+      "key": "2Sj2nrfcfN/ur+zAMK7diA=="
     },
     {
       "channel": "meteo",
@@ -55,6 +90,11 @@
       "key": "yh1i8/ES8Zgcjup1av4Quw=="
     },
     {
+      "channel": "molise",
+      "description": "Molise regional channel",
+      "key": "ETQCHzolqbSXhY2DNt8a+w=="
+    },
+    {
       "channel": "news",
       "description": "Announcements regarding the Italian Meshcore Network",
       "key": "Ox/70K9DxRePjQuDJb/qbQ=="
@@ -65,9 +105,39 @@
       "key": "W5uu9MPYdR4vkpLwufe2pg=="
     },
     {
+      "channel": "puglia",
+      "description": "Puglia regional channel",
+      "key": "ye4KV7aI0iNEYsA5soAftg=="
+    },
+    {
+      "channel": "sardegna",
+      "description": "Sardegna regional channel",
+      "key": "Jswt/Nt9qoLYVj32AQC1zg=="
+    },
+    {
+      "channel": "sicilia",
+      "description": "Sicilia regional channel",
+      "key": "BWouR2QucVFt19HR0/LuqQ=="
+    },
+    {
       "channel": "toscana",
       "description": "Toscana region",
       "key": "WOr44P+lKcR9cfSde0OEpQ=="
+    },
+    {
+      "channel": "trentino",
+      "description": "Trentino regional channel",
+      "key": "1YK0rvSvrMVv14p0vINddA=="
+    },
+    {
+      "channel": "umbria",
+      "description": "Umbria regional channel",
+      "key": "ay6oKyHK8ASHyp+rAjCXsw=="
+    },
+    {
+      "channel": "valle-d-aosta",
+      "description": "Valle d'Aosta regional channel",
+      "key": "m6rMjANJYg0JZU6QZdH7hQ=="
     },
     {
       "channel": "veneto",

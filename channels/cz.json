@@ -1,5 +1,150 @@
 {
   "code": "cz",
   "name": "Czechia",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#aussig",
+      "description": "Usti nad Labem and surrounding area"
+    },
+    {
+      "channel": "#beskydy",
+      "description": "Beskydy mountains and area"
+    },
+    {
+      "channel": "#bitcoin",
+      "description": "Bitcoin discussion"
+    },
+    {
+      "channel": "#brno",
+      "description": "Brno and surrounding area"
+    },
+    {
+      "channel": "#budejce",
+      "description": "Ceske Budejovice and area"
+    },
+    {
+      "channel": "#chat",
+      "description": "General conversation"
+    },
+    {
+      "channel": "#chess",
+      "description": "Correspondence chess opponent search using web client"
+    },
+    {
+      "channel": "#cs",
+      "description": "International mesh connection via Slovakia, text only"
+    },
+    {
+      "channel": "#czech",
+      "description": "Testing channel for EU Narrow preset"
+    },
+    {
+      "channel": "#eldorado",
+      "description": "Nachod area"
+    },
+    {
+      "channel": "#emergency",
+      "description": "ONLY for emergency situations and threat reports"
+    },
+    {
+      "channel": "#english",
+      "description": "Refuge/chat channel for non-Czech speakers"
+    },
+    {
+      "channel": "#freebeer",
+      "description": "Social/recreational channel"
+    },
+    {
+      "channel": "#gorolia",
+      "description": "Trinec area"
+    },
+    {
+      "channel": "#hamradio",
+      "description": "Amateur radio enthusiasts"
+    },
+    {
+      "channel": "#hradeckralove",
+      "description": "Hradec Kralove region"
+    },
+    {
+      "channel": "#jizak",
+      "description": "Local topics and meetups, Prague south district (Jizni Mesto) area"
+    },
+    {
+      "channel": "#jokes",
+      "description": "Humor channel"
+    },
+    {
+      "channel": "#lysa",
+      "description": "Lysa nad Labem residents"
+    },
+    {
+      "channel": "#meshcore",
+      "description": "Coordination for MeshCore in Czech Republic"
+    },
+    {
+      "channel": "#mladaboleslav",
+      "description": "Mlada Boleslav and area"
+    },
+    {
+      "channel": "#mu-praha",
+      "description": "Regional emergency channel for Prague and area, testing phase"
+    },
+    {
+      "channel": "#newbies",
+      "description": "For novices where experienced users can advise, primarily for official firmware"
+    },
+    {
+      "channel": "#olomouc",
+      "description": "Olomouc region"
+    },
+    {
+      "channel": "#ostrava",
+      "description": "Ostrava and surrounding area"
+    },
+    {
+      "channel": "#plzen",
+      "description": "Plzen area"
+    },
+    {
+      "channel": "#praha",
+      "description": "Prague and surrounding area"
+    },
+    {
+      "channel": "#reticulum",
+      "description": "Reticulum project discussion"
+    },
+    {
+      "channel": "#sports",
+      "description": "Sports fans"
+    },
+    {
+      "channel": "#sudety",
+      "description": "Sudety mountain region"
+    },
+    {
+      "channel": "#tech",
+      "description": "Hardware/software discussions"
+    },
+    {
+      "channel": "#teplotaveskleniku",
+      "description": "Informal/lifestyle channel"
+    },
+    {
+      "channel": "#test",
+      "description": "AI/bot testing with commands like 'ping'"
+    },
+    {
+      "channel": "#zdravice",
+      "description": "Greetings channel"
+    },
+    {
+      "channel": "#zlin",
+      "description": "Zlin region"
+    },
+    {
+      "channel": "#zpovednice",
+      "description": "Confessions channel"
+    }
+  ]
 }

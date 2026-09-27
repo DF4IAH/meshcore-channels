@@ -3,6 +3,10 @@
   "name": "Switzerland",
   "channels": [
     {
+      "channel": "#aurora-alert",
+      "description": "Aurora notifications and location sharing"
+    },
+    {
       "channel": "#basel",
       "description": "Basel Stadt and Basel Land region"
     },
@@ -11,8 +15,28 @@
       "description": "Bern region"
     },
     {
+      "channel": "#blackout",
+      "description": "Blackout information and notification in case of power outages"
+    },
+    {
       "channel": "#chtest",
       "description": "Main testing channel for Switzerland"
+    },
+    {
+      "channel": "#flachwitze",
+      "description": "Funny channel for sharing jokes"
+    },
+    {
+      "channel": "#hamradio",
+      "description": "Main MeshCore Channel for HAM Radio Operators"
+    },
+    {
+      "channel": "#hard-software",
+      "description": "MeshCore related hardware and software discussion as well as troubleshooting"
+    },
+    {
+      "channel": "#qrv",
+      "description": "Channel for licensed amateur radio operators to coordinate and log contacts (QSOs)"
     },
     {
       "channel": "#seeland",

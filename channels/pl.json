@@ -1,5 +1,62 @@
 {
   "code": "pl",
   "name": "Poland",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#bot",
+      "description": "Connectivity test channel handled by bots"
+    },
+    {
+      "channel": "#bydgoszcz",
+      "description": "Bydgoszcz regional channel"
+    },
+    {
+      "channel": "#dolnoslaskie",
+      "description": "Dolnoslaskie (Lower Silesia) regional channel"
+    },
+    {
+      "channel": "#ds-test",
+      "description": "Dolnoslaskie region connectivity test channel"
+    },
+    {
+      "channel": "#hamradio",
+      "description": "Amateur radio discussion channel"
+    },
+    {
+      "channel": "#legnica",
+      "description": "Legnica regional channel"
+    },
+    {
+      "channel": "#lodzkie",
+      "description": "Lodzkie regional channel"
+    },
+    {
+      "channel": "#polska",
+      "description": "Dedicated channel for Polish-language discussions, commonly used network-wide"
+    },
+    {
+      "channel": "#tech",
+      "description": "Technical discussion channel"
+    },
+    {
+      "channel": "#test",
+      "description": "Connectivity test channel, expect acks from other people"
+    },
+    {
+      "channel": "#wlkp",
+      "description": "Wielkopolska regional channel"
+    },
+    {
+      "channel": "#wroc-tech",
+      "description": "Technical matters concerning the MeshCore network in Wroclaw"
+    },
+    {
+      "channel": "#wroclaw",
+      "description": "Wroclaw regional channel"
+    },
+    {
+      "channel": "#zachod",
+      "description": "Western Poland regional channel"
+    }
+  ]
 }

@@ -1,5 +1,46 @@
 {
   "code": "ro",
   "name": "Romania",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#112",
+      "description": "Reserved for genuine emergencies and priority communications"
+    },
+    {
+      "channel": "#banat",
+      "description": "Regional channel for Banat, local coordination and coverage tests"
+    },
+    {
+      "channel": "#btest",
+      "description": "Regional test channel for Bucuresti, no general traffic"
+    },
+    {
+      "channel": "#bucuresti",
+      "description": "Discussions and coordination for Bucuresti and the metropolitan area"
+    },
+    {
+      "channel": "#craiova",
+      "description": "Local channel for Craiova, Dolj and regional links in the area"
+    },
+    {
+      "channel": "#dx",
+      "description": "Distance reports, propagation, links between cities and coverage tests"
+    },
+    {
+      "channel": "#jokes",
+      "description": "Jokes and relaxed conversation, separate from operational channels"
+    },
+    {
+      "channel": "#radioamatori-yo",
+      "description": "Discussion space for radio amateurs with YO callsigns and technical experiments"
+    },
+    {
+      "channel": "#romania",
+      "description": "National channel for useful discussions, announcements and coordination between zones"
+    },
+    {
+      "channel": "#rotest",
+      "description": "National tests, pings and configuration checks without noise on general"
+    }
+  ]
 }

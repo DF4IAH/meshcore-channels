@@ -1,5 +1,10 @@
 {
   "code": "si",
   "name": "Slovenia",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#slovenija",
+      "description": "Official Slovenian MeshCore community channel to share, chat, learn and help one another"
+    }
+  ]
 }

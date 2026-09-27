@@ -19,6 +19,10 @@
       "description": "Northern lights sightings"
     },
     {
+      "channel": "#bastelbude",
+      "description": "Kanal für Bastelprojekte"
+    },
+    {
       "channel": "#bbxdwd",
       "description": "Warnungen vom Deutschen Wetterdienst (Region Berlin)"
     },
@@ -37,6 +41,10 @@
     {
       "channel": "#berlinbrandenburg",
       "description": "Berlin/Brandenburg"
+    },
+    {
+      "channel": "#berlinmesh",
+      "description": "Koordinationskanal der Berlin Chaos Mesh Community"
     },
     {
       "channel": "#bern",
@@ -60,7 +68,7 @@
     },
     {
       "channel": "#bonn",
-      "description": "bonn"
+      "description": "Regionaler Kanal für Bonn"
     },
     {
       "channel": "#bot",
@@ -191,6 +199,18 @@
       "description": "Uckermark district"
     },
     {
+      "channel": "#de-mitte",
+      "description": "Region um Jena, wird dort nicht mehr weiter repeatet"
+    },
+    {
+      "channel": "#de-nw-nina-pott",
+      "description": "Automatisierte amtliche Warnmeldungen (NINA/MoWaS BBK) für Essen, Mülheim, Oberhausen, Duisburg, Dortmund, Velbert, Kreis Mettmann"
+    },
+    {
+      "channel": "#de-ost",
+      "description": "Region um Jena, wird dort nicht mehr weiter repeatet"
+    },
+    {
       "channel": "#de-sn-dd",
       "description": "Region/scope experiments"
     },
@@ -201,6 +221,18 @@
     {
       "channel": "#de-sn-pir",
       "description": "Pirna region experiments"
+    },
+    {
+      "channel": "#de-th",
+      "description": "Region Thüringen, auf Repeatern im Raum Jena konfiguriert"
+    },
+    {
+      "channel": "#de-th-j",
+      "description": "Default-Region & Scope für Jena"
+    },
+    {
+      "channel": "#de-th-shk",
+      "description": "Region Saale-Holzland-Kreis, auf Repeatern im Raum Jena konfiguriert"
     },
     {
       "channel": "#detmold",
@@ -363,6 +395,14 @@
       "description": "Helmstedt district"
     },
     {
+      "channel": "#hildesheim",
+      "description": "Hildesheim, öffentlich"
+    },
+    {
+      "channel": "#infra-alert-karlsruhe",
+      "description": "Automatisierte Statusnachrichten bei Infrastrukturstörungen im Raum Karlsruhe"
+    },
+    {
       "channel": "#ingolstadt",
       "description": "Ingolstadt"
     },
@@ -389,6 +429,10 @@
     {
       "channel": "#kats",
       "description": "Disaster protection coordination"
+    },
+    {
+      "channel": "#kiel",
+      "description": "Region Kiel"
     },
     {
       "channel": "#koblenz",
@@ -447,6 +491,14 @@
       "description": "3D printing, laser cutting, CNC"
     },
     {
+      "channel": "#mc-radar",
+      "description": "Kanal zur Ausbreitungsmessung; Observer tragen Empfang auf mc-radar.woodwar.com ein"
+    },
+    {
+      "channel": "#mc-treffen",
+      "description": "Kanal für lokale Koordination/Treffen (Berlin)"
+    },
+    {
       "channel": "#meow",
       "description": "meow"
     },
@@ -487,8 +539,16 @@
       "description": "muenster"
     },
     {
+      "channel": "#nerd-flohmarkt",
+      "description": "Kanal für Kleinanzeigen/Flohmarkt unter Bastlern"
+    },
+    {
       "channel": "#news",
       "description": "Nachrichten von butenunbinnen.de"
+    },
+    {
+      "channel": "#ni",
+      "description": "Niedersachsen"
     },
     {
       "channel": "#niedersachsen",
@@ -607,6 +667,10 @@
       "description": "Seevetal municipality"
     },
     {
+      "channel": "#sh",
+      "description": "Schleswig-Holstein"
+    },
+    {
       "channel": "#sn",
       "description": "Saxony"
     },
@@ -661,6 +725,10 @@
     {
       "channel": "#taunus",
       "description": "Taunus region (www.taunus-mesh.de)"
+    },
+    {
+      "channel": "#taunusmesh",
+      "description": "Taunus-Mesh, öffentlich"
     },
     {
       "channel": "#test",

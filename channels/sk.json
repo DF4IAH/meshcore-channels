@@ -1,5 +1,54 @@
 {
   "code": "sk",
   "name": "Slovakia",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#alerts",
+      "description": "Weather warnings, storm radar, radiation, earthquakes"
+    },
+    {
+      "channel": "#bratislava",
+      "description": "Bratislava area"
+    },
+    {
+      "channel": "#kosice",
+      "description": "Kosice area"
+    },
+    {
+      "channel": "#nitra",
+      "description": "Nitra area"
+    },
+    {
+      "channel": "#poprad",
+      "description": "Poprad area"
+    },
+    {
+      "channel": "#presov",
+      "description": "Presov area"
+    },
+    {
+      "channel": "#prievidza",
+      "description": "Prievidza area"
+    },
+    {
+      "channel": "#slovakia",
+      "description": "Slovak national hashtag channel"
+    },
+    {
+      "channel": "#turiec",
+      "description": "Martin, Turcianske Teplice, and Vrutky areas"
+    },
+    {
+      "channel": "#vychod",
+      "description": "Eastern Slovakia region"
+    },
+    {
+      "channel": "#zilina",
+      "description": "Zilina area"
+    },
+    {
+      "channel": "#zvolen",
+      "description": "Zvolen area"
+    }
+  ]
 }

@@ -1,5 +1,118 @@
 {
   "code": "au",
   "name": "Australia",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#act",
+      "description": "State-wide coordination (au-act)."
+    },
+    {
+      "channel": "#alert",
+      "description": "Automatic situation alerts such as fires."
+    },
+    {
+      "channel": "#atlas",
+      "description": "Atlas-related channel (MeshSydney)."
+    },
+    {
+      "channel": "#bathurst",
+      "description": "Bathurst & Central West conversation and coordination (au-nsw-bhs)."
+    },
+    {
+      "channel": "#beefmesh",
+      "description": "Beef Mesh node-status bot channel (au-nsw-syd)."
+    },
+    {
+      "channel": "#canberra",
+      "description": "Canberra conversation and coordination (au-act)."
+    },
+    {
+      "channel": "#centralcoast",
+      "description": "Central Coast conversation and coordination (au-nsw-syd)."
+    },
+    {
+      "channel": "#farsouthcoast",
+      "description": "Far South Coast conversation and coordination."
+    },
+    {
+      "channel": "#fnsw",
+      "description": "Fire-NeWS; fire-related channel (MeshSydney)."
+    },
+    {
+      "channel": "#ham",
+      "description": "Amateur radio community chat (MeshSydney)."
+    },
+    {
+      "channel": "#hume",
+      "description": "Albury & Wodonga conversation and coordination (au-hume)."
+    },
+    {
+      "channel": "#illawarra",
+      "description": "Illawarra & Wollongong conversation and coordination (au-nsw-wol)."
+    },
+    {
+      "channel": "#macarthur",
+      "description": "Macarthur conversation and coordination (au-nsw-syd)."
+    },
+    {
+      "channel": "#midnorthcoast",
+      "description": "Mid-North Coast conversation and coordination."
+    },
+    {
+      "channel": "#mshbot",
+      "description": "General mesh bot channel (MeshSydney)."
+    },
+    {
+      "channel": "#nepean",
+      "description": "Nepean conversation and coordination (au-nsw-syd)."
+    },
+    {
+      "channel": "#newcastle",
+      "description": "Newcastle & Hunter conversation and coordination (au-nsw-ntl)."
+    },
+    {
+      "channel": "#nowra",
+      "description": "Nowra and Shoalhaven conversation and coordination (au-nsw-noa)."
+    },
+    {
+      "channel": "#nrl",
+      "description": "Rugby League (NRL) discussion (MeshSydney)."
+    },
+    {
+      "channel": "#nsw",
+      "description": "State-wide coordination (au-nsw)."
+    },
+    {
+      "channel": "#recs",
+      "description": "Recommendations channel (MeshSydney)."
+    },
+    {
+      "channel": "#riverina",
+      "description": "Wagga Wagga & Riverina conversation and coordination (au-hume)."
+    },
+    {
+      "channel": "#rolojnr",
+      "description": "RoloJnr bot channel: help, ping, test, path, wx, time, signal, AI queries (au-nsw-syd)."
+    },
+    {
+      "channel": "#sports",
+      "description": "Sports discussion (MeshSydney)."
+    },
+    {
+      "channel": "#sydney",
+      "description": "Sydney metro conversation and coordination (au-nsw-syd)."
+    },
+    {
+      "channel": "#test",
+      "description": "Connection testing. Bots may auto-reply to test, ping, or path (au-nsw or IATA)."
+    },
+    {
+      "channel": "#weather",
+      "description": "Weather bot channel: 'wx <location>' or 'wx' (MeshSydney)."
+    },
+    {
+      "channel": "#wolbot",
+      "description": "Wollongong bot channel (au-nsw-wol)."
+    }
+  ]
 }

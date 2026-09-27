@@ -1,5 +1,66 @@
 {
   "code": "at",
   "name": "Austria",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#alerts",
+      "description": "Kanal für Alarmierungen"
+    },
+    {
+      "channel": "#at-ktn",
+      "description": "Etablierter Hashtag-Kanal für Kärnten im österreichischen MeshCore-Netz"
+    },
+    {
+      "channel": "#at-ktn-bot",
+      "description": "Eigener Bot-Kanal für Kärnten (Wetter, Warnungen, SOTA, Relais per Funkbefehl)"
+    },
+    {
+      "channel": "#austria",
+      "description": "Landesweiter Kanal für ganz Österreich"
+    },
+    {
+      "channel": "#bot",
+      "description": "Kanal für automatisierte Systeme/Bots"
+    },
+    {
+      "channel": "#coffee",
+      "description": "Kanal für lockeren Austausch abseits der Regionen"
+    },
+    {
+      "channel": "#english",
+      "description": "Internationaler, englischsprachiger Kanal"
+    },
+    {
+      "channel": "#inn-salzach",
+      "description": "Kanal für die Grenzregion Innviertel/Salzburg"
+    },
+    {
+      "channel": "#kf",
+      "description": "MeshCore-Kanal Kärnten, live mitlesbar via meshfeed unter mesh.kaernten-funkt.at"
+    },
+    {
+      "channel": "#noe",
+      "description": "Regionaler Kanal für Niederösterreich"
+    },
+    {
+      "channel": "#oeradio",
+      "description": "Kanal des Vereins OERadio, seit 31.08.2026 live im Discord mitlesbar (Kärnten)"
+    },
+    {
+      "channel": "#ping",
+      "description": "Kanal für Tests, u.a. automatisierte Ping-Bots"
+    },
+    {
+      "channel": "#test",
+      "description": "Testkanal"
+    },
+    {
+      "channel": "#vienna",
+      "description": "Regionaler Kanal für Wien"
+    },
+    {
+      "channel": "#wetter-simmering",
+      "description": "Wetterkanal, Region \"at-w\" (Simmering, Wien)"
+    }
+  ]
 }

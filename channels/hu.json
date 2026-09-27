@@ -1,5 +1,18 @@
 {
   "code": "hu",
   "name": "Hungary",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#debrecen",
+      "description": "Debrecen and surrounding area chat channel"
+    },
+    {
+      "channel": "#hungary",
+      "description": "General Hungarian chat channel"
+    },
+    {
+      "channel": "#veszhelyzet",
+      "description": "Disaster management news and lake storm warning system info channel"
+    }
+  ]
 }

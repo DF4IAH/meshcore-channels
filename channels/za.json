@@ -1,5 +1,30 @@
 {
   "code": "za",
   "name": "South Africa",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#channel1",
+      "description": "Cape Town: longer chats moved away from Public channel."
+    },
+    {
+      "channel": "#channel2",
+      "description": "Created for Cape Town alongside #channel1 for longer discussions."
+    },
+    {
+      "channel": "#jokes",
+      "description": "Cape Town: joke sharing channel."
+    },
+    {
+      "channel": "#ping",
+      "description": "Cape Town: get bot responses when posting ping or trace."
+    },
+    {
+      "channel": "#test",
+      "description": "Cape Town: where users do their testing."
+    },
+    {
+      "channel": "#wardriving",
+      "description": "Cape Town: Meshmapper app sends coverage data here."
+    }
+  ]
 }
