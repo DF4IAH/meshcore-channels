@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:13:18Z",
+  "generated_at": "2026-09-27T00:16:57Z",
   "license": "CC0-1.0",
   "countries": {
     "ad": [],
@@ -281,6 +281,10 @@
         "description": "Belgian province of Limburg regional channel"
       },
       {
+        "channel": "#namur",
+        "description": "Canal public croise en Wallonie (Namur)"
+      },
+      {
         "channel": "#nerdland",
         "description": "General channel for nerds on Belgian MeshCore"
       },
@@ -295,6 +299,10 @@
       {
         "channel": "#radio-actief",
         "description": "For all RRY members of the Belgian MeshCore network (radio-actief.be)"
+      },
+      {
+        "channel": "#test",
+        "description": "Testkanaal, veroorzaakt veel onnodig verkeer (vooral NL testbots)"
       },
       {
         "channel": "#vlaanderen",
@@ -2018,6 +2026,10 @@
         "description": "Brittany (Bretagne) regional channel, live on EU MeshCore analyzer"
       },
       {
+        "channel": "#emergency",
+        "description": "Message d'urgence UNIQUEMENT, region fr-pac"
+      },
+      {
         "channel": "#fr",
         "description": "France (nationwide)"
       },
@@ -2030,8 +2042,16 @@
         "description": "Gironde department channel, example used in the French naming guide"
       },
       {
+        "channel": "#info",
+        "description": "Message d'information, region fr-pac"
+      },
+      {
         "channel": "#la-rochelle",
         "description": "La Rochelle channel, used as example bound to region fr-17 in the French naming guide"
+      },
+      {
+        "channel": "#loire-atlantique",
+        "description": "Département Loire-Atlantique, canal hashtag departemental"
       },
       {
         "channel": "#lyon",
@@ -2040,6 +2060,10 @@
       {
         "channel": "#marseille",
         "description": "Marseille channel, referenced as a real-world example (scoped to fr-13) in the French naming guide"
+      },
+      {
+        "channel": "#meteo",
+        "description": "Message meteo, region fr-pac"
       },
       {
         "channel": "#metz",
@@ -2054,6 +2078,10 @@
         "description": "Nouvelle-Aquitaine regional channel, live on EU MeshCore analyzer"
       },
       {
+        "channel": "#paca",
+        "description": "Region PACA, region associee fr-pac"
+      },
+      {
         "channel": "#paris",
         "description": "Paris channel, live on EU MeshCore analyzer"
       },
@@ -2062,16 +2090,32 @@
         "description": "Channel referenced alongside #adrasec as a legitimate use-case channel"
       },
       {
+        "channel": "#rhone",
+        "description": "Département Rhône, canal hashtag departemental"
+      },
+      {
         "channel": "#saarlorlux",
         "description": "Saar-Lor-Lux cross-border region (DE/FR/LU)"
+      },
+      {
+        "channel": "#saint-germain-en-laye",
+        "description": "Commune Saint-Germain-en-Laye, canal hashtag local"
       },
       {
         "channel": "#test",
         "description": "International test channel, noted as commonly used by the French community"
       },
       {
+        "channel": "#toulon",
+        "description": "Canton de Toulon, region associee tln"
+      },
+      {
         "channel": "#toulouse",
         "description": "Toulouse channel, live on EU MeshCore analyzer"
+      },
+      {
+        "channel": "#var",
+        "description": "Departement du Var, region associee fr-83"
       }
     ],
     "ga": [],

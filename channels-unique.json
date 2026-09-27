@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:13:18Z",
+  "generated_at": "2026-09-27T00:16:57Z",
   "license": "CC0-1.0",
   "channels": [
     {
@@ -4668,7 +4668,7 @@
     },
     {
       "channel": "#info",
-      "description": "info"
+      "description": "Message d'information, region fr-pac"
     },
     {
       "channel": "#infobot",
@@ -5495,6 +5495,10 @@
       "description": "lohmar"
     },
     {
+      "channel": "#loire-atlantique",
+      "description": "Département Loire-Atlantique, canal hashtag departemental"
+    },
+    {
       "channel": "#londen",
       "description": "londen"
     },
@@ -6040,7 +6044,7 @@
     },
     {
       "channel": "#meteo",
-      "description": "meteo"
+      "description": "Message meteo, region fr-pac"
     },
     {
       "channel": "#meteo-milano",
@@ -6317,6 +6321,10 @@
     {
       "channel": "#naked",
       "description": "Nudist community chat (CascadiaMesh)."
+    },
+    {
+      "channel": "#namur",
+      "description": "Canal public croise en Wallonie (Namur)"
     },
     {
       "channel": "#nancy",
@@ -7232,7 +7240,7 @@
     },
     {
       "channel": "#paca",
-      "description": "paca"
+      "description": "Region PACA, region associee fr-pac"
     },
     {
       "channel": "#pacnw",
@@ -8059,6 +8067,10 @@
       "description": "rhoen"
     },
     {
+      "channel": "#rhone",
+      "description": "Département Rhône, canal hashtag departemental"
+    },
+    {
       "channel": "#rijnmond",
       "description": "rijnmond"
     },
@@ -8309,6 +8321,10 @@
     {
       "channel": "#sage",
       "description": "sage"
+    },
+    {
+      "channel": "#saint-germain-en-laye",
+      "description": "Commune Saint-Germain-en-Laye, canal hashtag local"
     },
     {
       "channel": "#salem",
@@ -9455,6 +9471,10 @@
       "description": "tota"
     },
     {
+      "channel": "#toulon",
+      "description": "Canton de Toulon, region associee tln"
+    },
+    {
       "channel": "#toulouse",
       "description": "Toulouse channel, live on EU MeshCore analyzer"
     },
@@ -9728,7 +9748,7 @@
     },
     {
       "channel": "#var",
-      "description": "var"
+      "description": "Departement du Var, region associee fr-83"
     },
     {
       "channel": "#varc",
