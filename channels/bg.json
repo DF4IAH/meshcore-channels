@@ -4,43 +4,63 @@
   "channels": [
     {
       "channel": "#bot",
-      "description": "bot"
+      "description": "Avtomatizirani otgovori (komandi)"
     },
     {
       "channel": "#bulgaria",
-      "description": "bulgaria"
+      "description": "Kanal za Bulgaria"
+    },
+    {
+      "channel": "#craiova-bot",
+      "description": "Craiova bot funktsionalnost"
     },
     {
       "channel": "#dx",
-      "description": "dx"
+      "description": "Kanal za dalechni vrazki i testove"
     },
     {
       "channel": "#emergency",
-      "description": "emergency"
+      "description": "Samo za izvanredni situatsii"
     },
     {
       "channel": "#hacktheplanet",
-      "description": "hacktheplanet"
+      "description": "Inzhenerni diskusii"
     },
     {
       "channel": "#hamradio",
-      "description": "hamradio"
+      "description": "Radio lyubitelski diskusii"
+    },
+    {
+      "channel": "#lzham",
+      "description": "Kanal za balgarski radio lyubiteli"
     },
     {
       "channel": "#plovdiv",
-      "description": "plovdiv"
+      "description": "Kanal za gr. Plovdiv"
     },
     {
       "channel": "#plovdivbot",
-      "description": "plovdivbot"
+      "description": "Plovdiv-specific bot kanal"
+    },
+    {
+      "channel": "#romania",
+      "description": "Kanal za Rumania"
+    },
+    {
+      "channel": "#serbia",
+      "description": "Kanal za Sarbia"
     },
     {
       "channel": "#sofia",
-      "description": "sofia"
+      "description": "Kanal za gr. Sofia"
     },
     {
       "channel": "#test",
       "description": "test"
+    },
+    {
+      "channel": "#vratsa",
+      "description": "Kanal za gr. Vratsa"
     }
   ]
 }
