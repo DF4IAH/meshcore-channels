@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:12:10Z",
+  "generated_at": "2026-09-27T00:13:18Z",
   "license": "CC0-1.0",
   "channels": [
     {
@@ -1636,7 +1636,7 @@
     },
     {
       "channel": "#bulgaria",
-      "description": "bulgaria"
+      "description": "Kanal za Bulgaria"
     },
     {
       "channel": "#bullcity",
@@ -2105,6 +2105,10 @@
     {
       "channel": "#craiova",
       "description": "craiova"
+    },
+    {
+      "channel": "#craiova-bot",
+      "description": "Craiova bot funktsionalnost"
     },
     {
       "channel": "#cranfield",
@@ -2908,7 +2912,7 @@
     },
     {
       "channel": "#dx",
-      "description": "dx"
+      "description": "Kanal za dalechni vrazki i testove"
     },
     {
       "channel": "#e14",
@@ -4164,7 +4168,7 @@
     },
     {
       "channel": "#hacktheplanet",
-      "description": "hacktheplanet"
+      "description": "Inzhenerni diskusii"
     },
     {
       "channel": "#hadr",
@@ -5600,7 +5604,7 @@
     },
     {
       "channel": "#lzham",
-      "description": "lzham"
+      "description": "Kanal za balgarski radio lyubiteli"
     },
     {
       "channel": "#m4m",
@@ -7484,11 +7488,11 @@
     },
     {
       "channel": "#plovdiv",
-      "description": "plovdiv"
+      "description": "Kanal za gr. Plovdiv"
     },
     {
       "channel": "#plovdivbot",
-      "description": "plovdivbot"
+      "description": "Plovdiv-specific bot kanal"
     },
     {
       "channel": "#plq",
@@ -8140,7 +8144,7 @@
     },
     {
       "channel": "#romania",
-      "description": "romania"
+      "description": "Kanal za Rumania"
     },
     {
       "channel": "#romd",
@@ -8512,7 +8516,7 @@
     },
     {
       "channel": "#serbia",
-      "description": "serbia"
+      "description": "Kanal za Sarbia"
     },
     {
       "channel": "#server",
@@ -8720,7 +8724,7 @@
     },
     {
       "channel": "#sofia",
-      "description": "sofia"
+      "description": "Kanal za gr. Sofia"
     },
     {
       "channel": "#sok",
@@ -9948,7 +9952,7 @@
     },
     {
       "channel": "#vratsa",
-      "description": "vratsa"
+      "description": "Kanal za gr. Vratsa"
     },
     {
       "channel": "#vratsabot",
