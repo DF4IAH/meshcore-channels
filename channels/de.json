@@ -447,6 +447,10 @@
       "description": "Repeater/companion configuration"
     },
     {
+      "channel": "#kreuzfahrt",
+      "description": "Kreuzfahrt-Anläufe in Deutschland"
+    },
+    {
       "channel": "#landkreis-harburg",
       "description": "Harburg district"
     },
