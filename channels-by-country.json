@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:16:57Z",
+  "generated_at": "2026-09-30T19:33:11Z",
   "license": "CC0-1.0",
   "countries": {
     "ad": [],
@@ -1405,6 +1405,10 @@
       {
         "channel": "#konfiguration",
         "description": "Repeater/companion configuration"
+      },
+      {
+        "channel": "#kreuzfahrt",
+        "description": "Kreuzfahrt-Anläufe in Deutschland"
       },
       {
         "channel": "#landkreis-harburg",
